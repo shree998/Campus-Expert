@@ -1,0 +1,72 @@
+repository:
+  # See https://developer.github.com/v3/repos/#edit for all available settings.
+
+  # The name of the repository. Changing this will rename the repository
+  name: open-training
+
+  # A short description of the repository that will show up on GitHub
+  description: Learn to build technical communities on your campus 🚩
+
+  # A URL with more information about the repository
+  homepage: https://example.github.io/
+
+  # Either `true` to make the repository private, or `false` to make it public.
+  private: true
+
+  # Either `true` to enable issues for this repository, `false` to disable them.
+  has_issues: true
+
+  # Either `true` to enable the wiki for this repository, `false` to disable it.
+  has_wiki: false
+
+  # Either `true` to enable downloads for this repository, `false` to disable them.
+  has_downloads: true
+
+  # Updates the default branch for this repository.
+  default_branch: master
+
+  # Either `true` to allow squash-merging pull requests, or `false` to prevent
+  # squash-merging.
+  allow_squash_merge: true
+
+  # Either `true` to allow merging pull requests with a merge commit, or `false`
+  # to prevent merging pull requests with merge commits.
+  allow_merge_commit: true
+
+  # Either `true` to allow rebase-merging pull requests, or `false` to prevent
+  # rebase-merging.
+  allow_rebase_merge: true
+
+# Labels: define labels for Issues and Pull Requests
+labels:
+  - name: MODULE-0
+    color: D71E3C
+  - name: MODULE-1
+    color: D71E3C
+  - name: MODULE-2
+    color: D71E3C
+  - name: MODULE-3
+    color: D71E3C
+  - name: MODULE-4
+    color: D71E3C
+  - name: MODULE-5
+    color: D71E3C
+  - name: MODULE-6
+    color: D71E3C
+  - name: MODULE-7
+    color: D71E3C
+  - name: MODULE-8
+    color: D71E3C
+  - name: MODULE-9
+    color: D71E3C
+  - name: application
+    color: D71E3C
+  - name: bug
+    color: 0000CC
+  - name: feature-request
+    color: 00CC00
+  - name: discussion
+    color: CC00CC
+  - name: help
+    # include the old name to rename and existing label
+    oldname: Help Wanted
