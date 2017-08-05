@@ -1,3 +1,5 @@
+![module-9-banner](https://user-images.githubusercontent.com/1790822/28998945-39895ed0-7a05-11e7-9d3c-b58c2412ae03.png)
+
 # Hubot 🤖🐙🐈
 
 ## Learning Goals 🥅

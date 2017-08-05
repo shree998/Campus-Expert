@@ -1,3 +1,5 @@
+![module-8-banner](https://user-images.githubusercontent.com/1790822/28998944-37647626-7a05-11e7-846d-ee250d31d8d9.png)
+
 # GraphQL 📈⁉️
 
 ## Learning Goals 🥅

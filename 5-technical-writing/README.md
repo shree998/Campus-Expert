@@ -1,3 +1,5 @@
+![module-5-banner](https://user-images.githubusercontent.com/1790822/28998941-31bc9226-7a05-11e7-98e2-07e604f90c07.png)
+
 # Technical Writing 👩🏽‍💻🖍
 
 ## Learning Goals 🥅

@@ -1,3 +1,5 @@
+![module-7-banner](https://user-images.githubusercontent.com/1790822/28998943-35f6ce92-7a05-11e7-834d-25158f31b3da.png)
+
 # Contributing to your Career 💼🆙
 
 ## Learning Goals 🥅

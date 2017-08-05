@@ -1,3 +1,5 @@
+![module-6-banner](https://user-images.githubusercontent.com/1790822/28998942-341ccde2-7a05-11e7-8fa5-b17e228cb121.png)
+
 # Fundraising 🌧💵💵💵
 
 ## Learning Goals 🥅

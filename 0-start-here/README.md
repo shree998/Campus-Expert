@@ -1,3 +1,5 @@
+![module-0-banner](https://user-images.githubusercontent.com/1790822/28998937-28374f98-7a05-11e7-828b-6fa51def47e0.png)
+
 # Getting Started 🚀
 
 This module gives walks you through everything you need to be able to follow the GitHub Campus Expert training. Follow the steps below before progressing on to module 1 - the introduction.

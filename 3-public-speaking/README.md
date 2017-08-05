@@ -1,3 +1,5 @@
+![module-3-banner](https://user-images.githubusercontent.com/1790822/28998963-b12c375a-7a05-11e7-8fbc-7199bafca144.png)
+
 # Public Speaking 📣💁🏽
 
 ## Learning Goals 🥅

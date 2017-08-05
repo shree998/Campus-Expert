@@ -1,5 +1,7 @@
 # Application 👨🏽‍🎓👩🏻‍🎓
 
+![module-n 1-banner](https://user-images.githubusercontent.com/1790822/28998948-3c976f2c-7a05-11e7-995b-d112e67e1664.png)
+
 ## Learning Goals 🥅
 
 By the end of this module, you will:

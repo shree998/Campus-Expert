@@ -1,3 +1,5 @@
+![module-2-banner](https://user-images.githubusercontent.com/1790822/28998939-2e27574a-7a05-11e7-84be-bc158d21855f.png)
+
 # Community Management 💬😈
 
 ## Learning Goals 🥅

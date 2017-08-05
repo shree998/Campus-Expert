@@ -1,3 +1,5 @@
+![module-1-banner](https://user-images.githubusercontent.com/1790822/28998938-2912b34e-7a05-11e7-9117-af6149c4f5f0.png)
+
 # Introduction 👋
 
 ## Learning Goals 🥅
