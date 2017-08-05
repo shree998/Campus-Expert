@@ -39,6 +39,7 @@ Youtube: https://www.youtube.com/watch?v=bKCa9LVacUk
 - Change your [email notification settings](https://github.com/settings/notifications)! This is a very active repository and will cause a lot of email notifications. 
 - You can route emails from a [GitHub organisation to a separate email address](https://help.github.com/articles/managing-notification-emails-for-organizations/), if you only want to change the notifications you receive from Campus Experts.
 - You can unwatch this repository. This is the least recommended option._ 
+- [Mike McQuaid](https://github.com/mikemcquaid) wrote a blog post about [managing large number of GitHub notifications](https://github.com/blog/2399-managing-large-numbers-of-github-notifications).
 
 In order to complete an exercise, we will have to create what's called a _pull request_. To do this, we will need a _fork_ of this repository. A fork is our own copy of this repository. To create a fork, click the "Fork" button in the top right of the page.
 
