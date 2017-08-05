@@ -1,0 +1,1 @@
+I'm James Gan. I am an Economics major with Computer Science and Information Science minors at Cornell University. I'm involved on my campus and in Boca Raton, Florida, where I run CodeDay. My favorite emoji is 😭
