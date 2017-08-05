@@ -2,6 +2,8 @@
 
 ![lockup](https://user-images.githubusercontent.com/1790822/28984617-e789fa78-792c-11e7-9c9f-17c23a70e6cc.png)
 
+**PRO-TIP** _This repository generates a lot of notifications. You should read [our guide](docs/managing-notifications.md) on managing notifications.**
+
 This README explains how to get started with the training, and how to become a Campus Expert. By participating in the Campus Expert program, you agree to the [terms](https://education.github.com/experts/terms).
 
 ## What is a Campus Expert?
