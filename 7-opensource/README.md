@@ -70,7 +70,7 @@ Please note that webinars take place through Zoom. The Zoom client will automati
 
 ### 1-to-1 calls 💖📞
 
-If you have questions you would like to talk to a trainer face to face about, you can request a video call [here](ttps://calendly.com/joenash/campus-experts-support). Please ensure you answer all questions in the form, or your call request may be denied.
+If you have questions you would like to talk to a trainer face to face about, you can request a video call [here](https://calendly.com/joenash/campus-experts-support). Please ensure you answer all questions in the form, or your call request may be denied.
 
 ## Module Completion ✅
 

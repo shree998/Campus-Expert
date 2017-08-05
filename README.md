@@ -45,6 +45,7 @@ The currently available training modules are:
 - Module 7 - Opensource
 - Module 8 - GraphQL
 - Module 9 - Hubot
+- Module 10 - Opensource clubs
 
 ## What benefits do Campus Experts get from GitHub?
 
