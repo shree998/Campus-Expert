@@ -35,7 +35,10 @@ Youtube: https://www.youtube.com/watch?v=bKCa9LVacUk
 
 ## Getting ready to complete exercises
 
-**PRO-TIP** _Before you get started, change your [email notification settings](https://github.com/settings/notifications)! This is a very active repository and will cause a lot of email notifications. You can also route emails from a [GitHub organisation to a separate email address](https://help.github.com/articles/managing-notification-emails-for-organizations/), if you only want to change the notifications you receive from Campus Experts._ 
+**PRO-TIP** _This repository generates a lot of notications. Before you get started, you should change your settings to save your inbox. There are three options:
+- Change your [email notification settings](https://github.com/settings/notifications)! This is a very active repository and will cause a lot of email notifications. 
+- You can route emails from a [GitHub organisation to a separate email address](https://help.github.com/articles/managing-notification-emails-for-organizations/), if you only want to change the notifications you receive from Campus Experts.
+- You can unwatch this repository. This is the least recommended option._ 
 
 In order to complete an exercise, we will have to create what's called a _pull request_. To do this, we will need a _fork_ of this repository. A fork is our own copy of this repository. To create a fork, click the "Fork" button in the top right of the page.
 
