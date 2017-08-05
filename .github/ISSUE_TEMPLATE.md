@@ -3,7 +3,7 @@ Thanks for submitting an issue! Follow the steps below.
 ## Labels
 Apply the following labels:
 - Module number
-- What is it? Bug, help, or feature request.
+- What is it? Bug, help, discussion or feature request.
 
 ## Description
 
