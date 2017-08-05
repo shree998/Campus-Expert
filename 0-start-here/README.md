@@ -38,6 +38,7 @@ Youtube: https://www.youtube.com/watch?v=bKCa9LVacUk
 - A training module looks just like this one: it's a collection of videos, written information and exercises that helps you learn about something useful to building a technical community.
 - To complete a training module, you have to submit a solution to the exercises.
 - Exercises for a training module can be found in each modules "exercises" directory.
+- Check issues regularly! Issues aren't just got bugs, they're a great place to chat and start discussions. In Campus Experts, we use them like a forum!
 
 ## Getting ready to complete exercises
 
