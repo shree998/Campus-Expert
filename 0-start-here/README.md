@@ -6,6 +6,12 @@ This module gives walks you through everything you need to be able to follow the
 
 _TIP: If at any stage during this (or future) modules, you need help or are stuck, you can find out how to get support in the "Support" section of the [README.md](./README.md#support-)._
 
+**PRO-TIP** _This repository generates a lot of notications. Before you get started, you should change your settings to save your inbox. There are three options:
+- Change your [email notification settings](https://github.com/settings/notifications)! This is a very active repository and will cause a lot of email notifications. 
+- You can route emails from a [GitHub organisation to a separate email address](https://help.github.com/articles/managing-notification-emails-for-organizations/), if you only want to change the notifications you receive from Campus Experts.
+- You can unwatch this repository. This is the least recommended option.
+- [Mike McQuaid](https://github.com/mikemcquaid) wrote a blog post about [managing large number of GitHub notifications](https://github.com/blog/2399-managing-large-numbers-of-github-notifications)._
+
 ## Learning Goals 🥅
 
 By the end of this module, you will:
@@ -34,12 +40,6 @@ Youtube: https://www.youtube.com/watch?v=bKCa9LVacUk
 - Exercises for a training module can be found in each modules "exercises" directory.
 
 ## Getting ready to complete exercises
-
-**PRO-TIP** _This repository generates a lot of notications. Before you get started, you should change your settings to save your inbox. There are three options:
-- Change your [email notification settings](https://github.com/settings/notifications)! This is a very active repository and will cause a lot of email notifications. 
-- You can route emails from a [GitHub organisation to a separate email address](https://help.github.com/articles/managing-notification-emails-for-organizations/), if you only want to change the notifications you receive from Campus Experts.
-- You can unwatch this repository. This is the least recommended option._ 
-- [Mike McQuaid](https://github.com/mikemcquaid) wrote a blog post about [managing large number of GitHub notifications](https://github.com/blog/2399-managing-large-numbers-of-github-notifications).
 
 In order to complete an exercise, we will have to create what's called a _pull request_. To do this, we will need a _fork_ of this repository. A fork is our own copy of this repository. To create a fork, click the "Fork" button in the top right of the page.
 
