@@ -8,7 +8,7 @@ repository:
   description: Learn to build technical communities on your campus 🚩
 
   # A URL with more information about the repository
-  homepage: https://example.github.io/
+  homepage: http://githubcampus.expert
 
   # Either `true` to make the repository private, or `false` to make it public.
   private: true
