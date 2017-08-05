@@ -54,7 +54,7 @@ Campus Expert benefits depend on the training modules completed. Each training m
 
 In addition to material resources and benefits, Campus Experts gain access to regular webinars and guest talks from industry experts, and spaces to collaborate with other Campus Experts and GitHubbers.
 
-A full list of benefits currently available can be found [here](docs/benefits).
+A full list of benefits currently available can be found [here](docs/benefits.md).
 
 ## How does being a Campus Expert work? What are the expectations of a Campus Expert?
 
@@ -64,7 +64,7 @@ When you become a Campus Expert, you gain access to tools that help you make res
 
 ## Do I need to know how to use Git/GitHub?
 
-Campus Experts is about _your community_, not becoming a Git master. However, Campus Experts and the training does primarily take place through GitHub, so some Git/GitHub knowledge is helpful. You can learn everything you need to complete the training [here](https://services.github.com/on-demand/intro-to-github/). 
+Campus Experts is about _your community_, not becoming a Git master. However, Campus Experts and the training does primarily take place through GitHub, so some Git/GitHub knowledge is helpful. You can learn everything you need to complete the training [here](https://services.github.com/on-demand/intro-to-github/).
 
 ## How do I get help whilst following the training?
 
