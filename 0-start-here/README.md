@@ -35,6 +35,8 @@ Youtube: https://www.youtube.com/watch?v=bKCa9LVacUk
 
 ## Getting ready to complete exercises
 
+**PRO-TIP** Before you get started, change your [email notification settings](https://github.com/settings/notifications)! This is a very active repository and will cause a lot of email notifications. You can also route emails from a [GitHub organisation to a separate email address](https://help.github.com/articles/managing-notification-emails-for-organizations/), if you only want to change the notifications you receive from Campus Experts. 
+
 In order to complete an exercise, we will have to create what's called a _pull request_. To do this, we will need a _fork_ of this repository. A fork is our own copy of this repository. To create a fork, click the "Fork" button in the top right of the page.
 
 After the fork is complete, you will find a copy of this repository under your profile. For example, the URL will be https://github.com/YOUR-USERNAME/open-training.
@@ -110,7 +112,7 @@ Please note that webinars take place through Zoom. The Zoom client will automati
 
 ### 1-to-1 calls 💖📞
 
-If you have questions you would like to talk to a trainer face to face about, you can request a video call [here](ttps://calendly.com/joenash/campus-experts-support). Please ensure you answer all questions in the form, or your call request may be denied.
+If you have questions you would like to talk to a trainer face to face about, you can request a video call [here](https://calendly.com/joenash/campus-experts-support). Please ensure you answer all questions in the form, or your call request may be denied.
 
 ## Module Completion ✅
 
