@@ -63,7 +63,7 @@ To get ready to submit exercises:
 - Fork this repository.
 - In your fork, in the "submissions" directory, create a new directory whose name is YOUR USERNAME.
 - In this directory, create an "about.md" file. Tell the community a bit about yourself! (Remember: this information is public to all students)
-- Navigate back to the []"open-training"](https://github.com/campus-experts/open-training) repository.
+- Navigate back to the ["open-training"](https://github.com/campus-experts/open-training) repository.
 - Start a pull request, following the template to complete the title, description and labels.
 - Open the pull request to merge in our about.md file.
 
