@@ -69,6 +69,8 @@ labels:
     color: 00CC00
   - name: discussion
     color: CC00CC
+  - name: submission
+    color: 00CCCC
   - name: help
     # include the old name to rename and existing label
     oldname: Help Wanted
