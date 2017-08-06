@@ -5,8 +5,8 @@ The README is the first thing people see when visiting your project. In this exe
 ## Task
 You should complete **one** of the following:
 
-- Open an [issue](https://github.com/campus-experts/spring-2017/issues) and describe how you would improve upon an existing project's README. It can be any project!
-- Create a new README. This can be for one of your own projects, a fictional project, or a project you know of that doesn't yet have a README. When you've create the README, open an [issue](https://github.com/campus-experts/spring-2017/issues) and link to it.
+- Open an [issue](https://github.com/campus-experts/open-training/issues/new) and describe how you would improve upon an existing project's README. It can be any project!
+- Create a new README. This can be for one of your own projects, a fictional project, or a project you know of that doesn't yet have a README. When you've create the README, open an [issue](https://github.com/campus-experts/open-training/issues/new) and link to it.
 
 Once you've reviewed or completed a README, you'll receive feedback on your issue. **Remember** to take the time to read and comment on eachothers issues!
 
