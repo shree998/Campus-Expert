@@ -14,8 +14,8 @@ People learn better when they can learn with a community of likeminded peers. A 
 
 To become a Campus Expert, you must complete the following:
 
-- Module 0 - Getting Started.
-- Module 1 - Introduction.
+- [Module 0](/0-start-here) - Getting Started.
+- [Module 1](/1-introduction) - Introduction.
 - At least 3 other modules.
 
 Please bear in mind the following requirements:
@@ -24,7 +24,7 @@ Please bear in mind the following requirements:
 - You must not be within 3 months of finishing your course of study.
 - There is a limit to the number of Campus Experts per university. This limit is dependent on several factors. If in doubt, please check through one of the support channels listed below.
 
-Once you have completed the necessary modules, and if you are within the requirements, you can complete the application module. Once complete, we will review your application as soon as possible.
+Once you have completed the necessary modules, and if you are within the requirements, you can complete the [application module](/n+1-application). Once complete, we will review your application as soon as possible.
 
 ## What is a training module?
 
@@ -37,17 +37,20 @@ Every Campus Expert should start with the Introduction module. During this modul
 ## What training modules are available?
 
 The currently available training modules are:
-- Module 0 - Getting Started (Recommend)
-- Module 1 - Introduction (Compulsory)
-- Module 2 - Community Management
-- Module 3 - Public Speaking
-- Module 4 - Workshop Development
-- Module 5 - Technical Writing
-- Module 6 - Fundraising
-- Module 7 - Opensource
-- Module 8 - GraphQL
-- Module 9 - Hubot
-- Module 10 - Opensource clubs
+- [Module 0](/0-start-here) - Getting Started (Recommend)
+- [Module 1](/1-introduction) - Introduction (Compulsory)
+- [Module 2](/2-community-management) - Community Management
+- [Module 3](/3-public-speaking) - Public Speaking
+- [Module 4](/4-workshop-development) - Workshop Development
+- [Module 5](/5-technical-writing) - Technical Writing
+- [Module 6](/6-fundraising) - Fundraising
+- [Module 7](/7-opensource) - Opensource
+- [Module 8](/8-graphql) - GraphQL
+- [Module 9](/9-hubot) - Hubot
+- [Module 10](/10-opensource-clubs) - Opensource clubs
+- ...
+- [Module n+1](/n+1-application) - Your application!
+
 
 ## What benefits do Campus Experts get from GitHub?
 
