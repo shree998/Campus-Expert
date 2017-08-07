@@ -1,6 +1,8 @@
 
 Answers to these questions for current community
+
 Answers to these questions for an ideal version of your current community
+
 Ideas on how to improve in each category
 
 ### Definition
@@ -13,7 +15,9 @@ Ideas on how to improve in each category
   - Hackers in and around London
 
 Answers to these questions for current community
+
 Answers to these questions for an ideal version of your current community
+
 Ideas on how to improve in each category
 
 ### Size
@@ -22,7 +26,9 @@ Ideas on how to improve in each category
 - Historically, has the group always been about the same size? If not, what brought on that change?
 
 Answers to these questions for current community
+
 Answers to these questions for an ideal version of your current community
+
 Ideas on how to improve in each category
 
 ### Resources
@@ -30,7 +36,9 @@ Ideas on how to improve in each category
 - Are there meetups, seminars, online tools, office hours, hackathons?
 
 Answers to these questions for current community
+
 Answers to these questions for an ideal version of your current community
+
 Ideas on how to improve in each category
 
 ### Accessibility
@@ -39,7 +47,9 @@ Ideas on how to improve in each category
 - Is there childcare available?
 
 Answers to these questions for current community
+
 Answers to these questions for an ideal version of your current community
+
 Ideas on how to improve in each category
 
 ### Interests
@@ -47,8 +57,11 @@ Ideas on how to improve in each category
 - Is your community open to other topics, or are their interests very specific?
 
 Answers to these questions for current community
+
 Answers to these questions for an ideal version of your current community
+
 Ideas on how to improve in each category
+
 
 ### Goals
 - Why do people get involved in your community?
@@ -58,8 +71,11 @@ Ideas on how to improve in each category
 - What activities and goals can you set for your community based on their existing goals?
 
 Answers to these questions for current community
+
 Answers to these questions for an ideal version of your current community
+
 Ideas on how to improve in each category
+
 
 ### Location
 - Where does your community currently gather?
@@ -74,8 +90,11 @@ Ideas on how to improve in each category
 - Is there water or snacks available nearby?
 
 Answers to these questions for current community
+
 Answers to these questions for an ideal version of your current community
+
 Ideas on how to improve in each category
+
 
 ### Communication
 - How does your community get in touch with one another?
@@ -83,8 +102,11 @@ Ideas on how to improve in each category
 - Could your organization benefit from one or more of those, or another way of communicating?
 
 Answers to these questions for current community
+
 Answers to these questions for an ideal version of your current community
+
 Ideas on how to improve in each category
+
 
 ### Culture
 - How welcoming is your community to new people and new ideas?
