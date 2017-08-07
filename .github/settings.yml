@@ -40,7 +40,7 @@ repository:
 # Labels: define labels for Issues and Pull Requests
 labels:
   - name: help
-    colour: fbca04
+    color: fbca04
   - name: MODULE-0
     color: D71E3C
   - name: MODULE-1
