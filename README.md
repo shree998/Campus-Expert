@@ -6,6 +6,10 @@
 
 This README explains how to get started with the training, and how to become a Campus Expert. By participating in the Campus Expert program, you agree to the [terms](https://education.github.com/experts/terms).
 
+## Latest news
+
+[This issue](https://github.com/campus-experts/open-training/issues/40) contains announcements and latest news about the training, features and benefits for you. You should [subscribe to this issue](https://help.github.com/articles/subscribing-to-conversations/) so you're always able to participate in the latest cool things! 
+
 ## What is a Campus Expert?
 
 People learn better when they can learn with a community of likeminded peers. A Campus Expert is a student trained to build a strong technical community, on campus. As well as training, Campus Experts have access to resources and support from GitHub, such as swag, sponsorship, and the opportunity to attend events like GitHub Universe.
