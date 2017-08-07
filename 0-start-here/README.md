@@ -87,6 +87,10 @@ To complete an exercise:
 - Follow the pull request template to complete the title, description and labels.
 - Wait for review!
 
+## Keeping your fork in sync
+
+As more content is added to this repository and more people contribute, your fork will fall out of date. This can sometimes lead to tricky situations with your pull requests. It's recommended to occasionally [sync your fork with this repository](https://help.github.com/articles/syncing-a-fork/). 
+
 ## Exercise 📝
 
 Get ready to complete exercises. Follow the instructions in the sections above. That's it for this module!
