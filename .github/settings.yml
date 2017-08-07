@@ -71,6 +71,8 @@ labels:
     color: CC00CC
   - name: submission
     color: 00CCCC
+  - name: subscribe-to-me
+    color: ffff00
   - name: help
     # include the old name to rename and existing label
     oldname: Help Wanted
