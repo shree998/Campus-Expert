@@ -1,20 +1,20 @@
 ### Definition
 - How would you define your community? Try to be open minded, but here are some examples of ways you could define your community:
-* My community is a school which serves some of the highest achieving students in the country studying Computer Science.
+  * My community is a school which serves some of the highest achieving students in the country studying Computer Science.
 
-* An ideal version of my community would be one where there are more avenues of support for students from different fields or less experienced backgrounds to get involved.
+  * An ideal version of my community would be one where there are more avenues of support for students from different fields or less experienced backgrounds to get involved.
 
-* I hope to partner with organizations on campus to create event offerings which provide guidance, instruction, and mentorship to more beginners and students from other fields.
+  * I hope to partner with organizations on campus to create event offerings which provide guidance, instruction, and mentorship to more beginners and students from other fields.
 
 ### Size
 - How many people are currently in your community?
-* The community is roughly 1100 students and 150 faculty.
+  * The community is roughly 1100 students and 150 faculty.
   * https://www.cs.cornell.edu/information/about
   * https://www.infosci.cornell.edu/about-us/history
 - How many would you _like_ to be in your community?
-* The full size of Cornell University, roughly 25,000. Realistically, I hope to bring a few hundreds of students into tech-oriented events.
+  * The full size of Cornell University, roughly 25,000. Realistically, I hope to bring a few hundreds of students into tech-oriented events.
 - Historically, has the group always been about the same size? If not, what brought on that change?
-* It has not. The Computer Science major has been growing rapidly as the industry has become more popular, with the Computer Science department expanding their staff every year. Furthermore, the Information Science department is relatively new, having its first undergraduates in 2005
+  * It has not. The Computer Science major has been growing rapidly as the industry has become more popular, with the Computer Science department expanding their staff every year. Furthermore, the Information Science department is relatively new, having its first undergraduates in 2005
 
 I am not completely sure how to answer these for an ideal version of my community- I do not wish to say that everyone should be a Computer Science student, and the second question allowed me to share my hopes for growing the community. I plan on partnering with: tech groups such as BigRedHacks, Women in Computing at Cornell, and Entrepreneurship at Cornell; business groups like Student Agencies and Business Fraternities; and diversity and new student groups such as Let's Get Coffee, BEARS, and the Cornell University Multicultural Greek Letter Council, in order to reach a wider range of students outside of Computer Science and related majors.
 
