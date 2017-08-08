@@ -2,9 +2,9 @@
 
 ![Image of Angelo](https://avatars1.githubusercontent.com/u/15745278?v=4&u=7baed52cba394eeb0686e180bcf6baa9efbbb23c&s=400)
 
-Hello Everybody! I am Angelo Saraceno, unashmed lover of Haskell and burritos in that order. My friends call me Neighbor! Based out of Miami, Florida I attend Florida International University. A former EE but then the hackathon bug bit me and now I am a CS major with a large hackathon family. I have been extremely greateful to be introduced to a welcoming community of techologists who love their craft and I feel it is nessisary for me to give back. So I have dedicated my final years at University to give them the same opportunities I have had.
+Hello Everybody! I am Angelo Saraceno, unashamed lover of Haskell and burritos in that order. My friends call me Neighbor! Based out of Miami, Florida I attend Florida International University. A former EE but then the hackathon bug bit me and now I am a CS major with a large hackathon family. I have been extremely greateful to be introduced to a welcoming community of techologists who love their craft and I feel it is nessisary for me to give back. So I have dedicated my final years at university to give them the same opportunities I have had.
 
-I have been organizing for MangoHacks as it's co-director for its 2017 and 2018 editions. And I do cool things for FloridaHackers for Floatie and other initiatives. I find that tech events are best way to get people hyped up about tech and the best way it scales is by having people meet other passionate people.
+I have been organizing for MangoHacks as it's co-director for its 2017 and 2018 editions. And I do cool things for Florida Hackers for Floatie and other initiatives. I find that tech events are best way to get people hyped up about tech and the best way it scales is by having people meet other passionate people.
 
 ## Interests
 
