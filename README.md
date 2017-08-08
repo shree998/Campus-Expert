@@ -68,7 +68,7 @@ A full list of benefits currently available can be found [here](docs/benefits.md
 
 ## How does being a Campus Expert work? What are the expectations of a Campus Expert?
 
-During the Introduction module, you will define and set goals for your community. As a Campus Expert, you are expected to meet these goals, and build the best community for your campus. We at GitHub understand that you are busy students, trying to make your campus a better place. This is why you set your own community goals, and participate in as much of the training as you need to to achieve those goals.
+During the Introduction module, you will define and set goals for your community. As a Campus Expert, you are expected to meet these goals, and build the best community for your campus. We at GitHub understand that you are busy students, trying to make your campus a better place. This is why you set your own community goals, and participate in as much of the training as you need to achieve those goals.
 
 When you become a Campus Expert, you gain access to tools that help you make resource requests, and collaborate with GitHub Staff and other Campus Experts.
 
