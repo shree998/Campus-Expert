@@ -26,4 +26,4 @@ Linkedin: [toxtli](https://www.linkedin.com/in/toxtli/)
 Github: [toxtli](https://github.com/toxtli)
 
 # Emoji
-My favorite emoji is 😏
+My favorite emoji is 🤖
