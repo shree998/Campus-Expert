@@ -20,6 +20,16 @@ I need a location (somewhere at my college or one of the colleges in our consort
 I am preparing to deliver my community impact project by finding some who work in industry and have a personal connection to one of these topics. I could also cover, say, either Community as a Career, Technical Writing or Speaking, or Non-SWE Jobs, as I've either spoken or written about them to some extent. I will make a Facebook event and speak to other club or major department leaders at our consortium schools to gain more interest and help, and utilize email and other forms of social media to publicize.
 
 ## Timeline 
-Summer: Begin reaching out to alumnae, evangelists, and engineers in Philly and NYC area about coming to campus one weekend afternoon. Reach out to some SF connections about giving a talk remotely. Find sponsors for food, swag, and travel. Get classroom or lecture hall location. 
-Fall: Follow up and finalize schedule, speakers, location, dates. 
-Winter: Event!
+Now-September: Begin reaching out to alumnae, evangelists, and engineers in Philly and NYC area about coming to campus one weekend afternoon. Reach out to some SF connections about giving a talk remotely. Find sponsors for food, swag, and travel. Get classroom or lecture hall location. 
+Mid-September-October: Follow up and finalize schedule, speakers, location, dates. 
+Beginning of December: Event!
+
+## Planning for the Future
+### Review Impact
+Reviewing impact will happen right after the event, and will be assisted by a post-event poll/review sent out to attendees, mentors, and speakers.
+
+### Success
+Success will be measured based on the post-event poll/review, feedback from attendees and speakers, and number of people reached.
+
+### Iteration
+Community plans will be continuously iterated over based on continuous feedback from speakers during the planning, the programming club, and feedback I receive from friends in different technical communities (ie hackathons like Spectra, Ladies Storm Hackathons, Spectra, and more.) 
