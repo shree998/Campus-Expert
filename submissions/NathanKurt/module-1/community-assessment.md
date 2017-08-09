@@ -1,12 +1,5 @@
 ## Assessing Your Community's Needs
 
-Fully understanding the needs of your community is a complex concept that will likely take lots of time, conversation, and observation.  Depending on your situation, you may already have a great idea for what your community needs. You may not, and that's OK. We will go over these questions and topics during module 1 webinars, which you can find in the README.md for this module. Here are some things to keep in mind when assessing your community and hoping to grow it.
-
-Please write down your
-- Answers to these questions for current community
-- Answers to these questions for **an ideal version** of your current community
-- Ideas on how to improve in each category
-
 ### Definition
 Students at Michigan State University and Lansing area interested in growing and becoming part of the tech community
 
