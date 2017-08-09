@@ -5,9 +5,11 @@ Now that you've [thought about your community's needs](community-assessment.md),
 Provide a summary of what you learned from your community assessment, coupled with the feedback from others (like the opinion of other Campus Experts, community leaders, and stakeholders).
 
 The following pieces might help strengthen this section:
-- **Community demographics**: Include data gathered from your community assessment like: the size of the community that you are targeting with your proposal, the educational background of your community, and the resources they currently have at their disposal and how accessible they are to the community.
-- **Communication**: For a community to thrive, they need to be able to communicate with each other, identify how your community prefers to communicate.
-- **Culture**: Summarize the existing culture within the community you are working with.
+**Community demographics**
+- Right now, we have a large amount of people who are new to coding and aren't really sure where to go. Bringing them in and marketing to our new potential audience is super important. It is also
+- Right now our community is seeing a large influx of beginners who don't really know how to start out outside of classes. Just last year,
+- **Communication**: We already have a Facebook group where people will communicate and I both strengthening that and branching out to slack may work well also. We also have in person meet ups for clubs like Spartan Hackers where people can come to learn things as well.
+- **Culture**: Right now, it is a pretty open culture with a lot of new faces joining in. Most of them are either beginners or advanced people. And there isn't a great place for the middle ground except for learning on their own. We need to improve that and add a place for a good middle ground.
 
 
 ## Your Proposal
@@ -33,7 +35,7 @@ When identifying the impact of your proposal, you should focus on the following 
   - What specific issue are you addressing with your proposal?
 - Resources
   - What resources do you need to accomplish your proposal?
-  - How will you obtain those resources?   
+  - How will you obtain those resources?
 - Media
   - How are you preparing to deliver your community impact project?
   - What are you going to do to prepare to deliver the content?
