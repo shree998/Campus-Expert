@@ -30,9 +30,9 @@ Students at Michigan State University and Lansing area interested in growing and
 
 ### Goals
 - Why do people get involved in your community?
- - Most people realize that classes won't teach you everything you need to have the suitable skills to get a job in the CS department so they want to branch out and learn more skills. Other people are super passionate about development and want to learn as much as they can for funsies. Eventually the people that just came to learn also start getting pretty passionate about development and excited about it and start looking to help out or be a more active part of the community.
+  - Most people realize that classes won't teach you everything you need to have the suitable skills to get a job in the CS department so they want to branch out and learn more skills. Other people are super passionate about development and want to learn as much as they can for funsies. Eventually the people that just came to learn also start getting pretty passionate about development and excited about it and start looking to help out or be a more active part of the community.
 - What activities and goals can you set for your community based on their existing goals?
- - We try to host talks and meetups that can be homework meetups and others that are stuff that stray away from class subjects so people can learn that extra skills that aren't necessarily taught in the classroom. 
+  - We try to host talks and meetups that can be homework meetups and others that are stuff that stray away from class subjects so people can learn that extra skills that aren't necessarily taught in the classroom. 
 
 ### Location
 - Where does your community currently gather?
