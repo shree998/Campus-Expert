@@ -51,6 +51,7 @@ Goals:
   - 1. Open up community to all levels of coders by getting rid of imposter syndrome - promote inclusivity!
     2. Encourage graduate-level students ot join by implementing higher level workshops/discussions and mentorship program
     3. Mentorship programs and frequent workshops will help bridge the gap between more experienced coders and beginners
+    4. Create a more diverse community
   
 Location:
   - Currently gathering in the computer science building, which is somewhat shut off from the main campus; there is online presence,
