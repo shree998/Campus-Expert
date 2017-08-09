@@ -24,7 +24,7 @@ Students at Michigan State University and Lansing area interested in growing and
 
 ### Interests
 - Is your community made up only of computer science students? Are you OK with that?
- - We have a mix of Computer science, Computer Engineering, and Electrical Engineering students. Anybody is welcome to come though. Our past SpartaHack Executive Director was a Statistics Major so 
+  - We have a mix of Computer science, Computer Engineering, and Electrical Engineering students. Anybody is welcome to come though. Our past SpartaHack Executive Director was a Statistics Major so 
 - Is your community open to other topics, or are their interests very specific?
   - We are pretty open to talk about a lot of topics. Intro topics might be the most helpful since the community is growing pretty steadily. People can volunteer to give talks about a bunch of things though to attract a bunch of diverse audiences
 
@@ -36,18 +36,18 @@ Students at Michigan State University and Lansing area interested in growing and
 
 ### Location
 - Where does your community currently gather?
- - We gather at a few places near the engineering building on campus. We also have a few Facebook groups for different clubs in the community. There is parking near there, but it costs a few dollars. We have shuttles that can take you there though and a good chunk of people live on campus anyways so they can walk there without much extra effort. At one of our buildings we can fit about 600 people. But for most meetups that aren't hackathons we have about 60ish people come to each one which is a pretty good number that still allows for questions instead of more of a lecture style type thing.
+  - We gather at a few places near the engineering building on campus. We also have a few Facebook groups for different clubs in the community. There is parking near there, but it costs a few dollars. We have shuttles that can take you there though and a good chunk of people live on campus anyways so they can walk there without much extra effort. At one of our buildings we can fit about 600 people. But for most meetups that aren't hackathons we have about 60ish people come to each one which is a pretty good number that still allows for questions instead of more of a lecture style type thing.
 
 
 ### Communication
 - How does your community get in touch with one another?
- - We have a few Facebook groups for things, and SpartaHack has a twitter account also. but we could make a Slack channel to drive communication more easily.  
+  - We have a few Facebook groups for things, and SpartaHack has a twitter account also. but we could make a Slack channel to drive communication more easily.  
 
 ### Culture
 - How welcoming is your community to new people and new ideas?
- - Our community is pretty open to new people and ideas and getting involved is super easy and not too cliquey.
+  - Our community is pretty open to new people and ideas and getting involved is super easy and not too cliquey.
 - What happens if there is a disagreement?
- - We have a slack channel for all of the E-board members of all the different CS clubs and we talk everything out there to figure something out. In the end, there is a vote that takes place most of the time. 
+  - We have a slack channel for all of the E-board members of all the different CS clubs and we talk everything out there to figure something out. In the end, there is a vote that takes place most of the time. 
 - Are there any policies or procedures in place, and are they documented?
   - We have a sidebar with rules for our FB group, but we are pretty loose with the rules. When the need comes to implement something, we will do that then.
 - How will you personally handle it?
