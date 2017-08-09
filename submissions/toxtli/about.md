@@ -1,7 +1,7 @@
 # About Carlos
 My name is Carlos Toxtli, I'm a Computer Science PhD student at the West Virginia University.
 
-![](https://avatars3.githubusercontent.com/u/923242?v=4&s=150)
+![](https://avatars3.githubusercontent.com/u/1299233?v=4&s=150)
 
 # Organizations
 [Bots LATAM](https://www.facebook.com/groups/botsLATAM)
