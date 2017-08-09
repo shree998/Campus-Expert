@@ -1,4 +1,4 @@
-### Definition
+# Definition
 - How would you define your community? Try to be open minded, but here are some examples of ways you could define your community:
   * My community is a school which serves some of the highest achieving students in the country studying Computer Science.
 
@@ -6,7 +6,7 @@
 
   * I hope to partner with organizations on campus to create event offerings which provide guidance, instruction, and mentorship to more beginners and students from other fields.
 
-### Size
+# Size
 - How many people are currently in your community?
   * The community is roughly 1100 students and 150 faculty.
   * https://www.cs.cornell.edu/information/about
@@ -18,8 +18,8 @@
 
 I am not completely sure how to answer these for an ideal version of my community- I do not wish to say that everyone should be a Computer Science student, and the second question allowed me to share my hopes for growing the community. I plan on partnering with: tech groups such as BigRedHacks, Women in Computing at Cornell, and Entrepreneurship at Cornell; business groups like Student Agencies and Business Fraternities; and diversity and new student groups such as Let's Get Coffee, BEARS, and the Cornell University Multicultural Greek Letter Council, in order to reach a wider range of students outside of Computer Science and related majors.
 
-### Resources
-# Answers to these questions for current community
+# Resources
+### Answers to these questions for current community
 
 - What is currently available to people in your community to learn about tech?
   * There are currently a limited number of ways to learn about tech:
@@ -30,7 +30,7 @@ I am not completely sure how to answer these for an ideal version of my communit
 - Are there meetups, seminars, online tools, office hours, hackathons?
   * There are a small number of meetups, resources through classes, one data science seminar that requires prior knowledge, and BigRedHacks (which does not provide beginner support).
   
-# Answers to these questions for an ideal version of your current community
+### Answers to these questions for an ideal version of your current community
 - What is currently available to people in your community to learn about tech?
   * Workshops for beginner tech skills
   * Mentorship programs available to any interested student
@@ -38,7 +38,7 @@ I am not completely sure how to answer these for an ideal version of my communit
 - Are there meetups, seminars, online tools, office hours, hackathons?
   * Yes, including meetups and seminars for beginners on a range of topics, more resources for beginners online, office hours for beginners to learn from experienced students and staff, and a beginner hackathon.
 
-# Ideas on how to improve in each category
+### Ideas on how to improve in each category
 - What is currently available to people in your community to learn about tech?
   * Host and find others to host workshops on popular languages, basic concepts, overviews of the industry, how to suceed in the industry
   * Create mentorship programs for other fields: for example, we could create a program for each college (we have quite a few) at Cornell so that we reach every field of study, as well as a freshman outreach program
@@ -47,7 +47,7 @@ I am not completely sure how to answer these for an ideal version of my communit
   * Work with existing experienced-level groups such as the ACSU to develop beginner-friendly online tools and office hours
   * Work with BigRedHacks, URMC, and WICC to create a hackathon for beginners.
 
-### Accessibility
+# Accessibility
 - How accessible are the current resources in your community?
 - Are meetings held during hours where people may be working?
 - Is there childcare available?
@@ -58,7 +58,7 @@ Answers to these questions for an ideal version of your current community
 
 Ideas on how to improve in each category
 
-### Interests
+# Interests
 - Is your community made up only of computer science students? Are you OK with that?
 - Is your community open to other topics, or are their interests very specific?
 
@@ -69,7 +69,7 @@ Answers to these questions for an ideal version of your current community
 Ideas on how to improve in each category
 
 
-### Goals
+# Goals
 - Why do people get involved in your community?
 - Are they students hoping to get a degree?
 - Are they trying to ramp-up to get a job?
@@ -83,7 +83,7 @@ Answers to these questions for an ideal version of your current community
 Ideas on how to improve in each category
 
 
-### Location
+# Location
 - Where does your community currently gather?
 - Is it an online-only group so far, or is there a place where people can meet?
 - Is there parking, and if so, is it free?
@@ -102,7 +102,7 @@ Answers to these questions for an ideal version of your current community
 Ideas on how to improve in each category
 
 
-### Communication
+# Communication
 - How does your community get in touch with one another?
 - Is there an email group, a GitHub organization, a Twitter account, a Facebook group, a chat room or channel?
 - Could your organization benefit from one or more of those, or another way of communicating?
@@ -114,7 +114,7 @@ Answers to these questions for an ideal version of your current community
 Ideas on how to improve in each category
 
 
-### Culture
+# Culture
 - How welcoming is your community to new people and new ideas?
 - What happens if there is a disagreement?
 - Are there any policies or procedures in place, and are they documented?
