@@ -19,14 +19,33 @@
 I am not completely sure how to answer these for an ideal version of my community- I do not wish to say that everyone should be a Computer Science student, and the second question allowed me to share my hopes for growing the community. I plan on partnering with: tech groups such as BigRedHacks, Women in Computing at Cornell, and Entrepreneurship at Cornell; business groups like Student Agencies and Business Fraternities; and diversity and new student groups such as Let's Get Coffee, BEARS, and the Cornell University Multicultural Greek Letter Council, in order to reach a wider range of students outside of Computer Science and related majors.
 
 ### Resources
+# Answers to these questions for current community
+
 - What is currently available to people in your community to learn about tech?
+  * There are currently a limited number of ways to learn about tech:
+  1. High level tech workshops
+  2. Hackathons with no beginner support
+  3. Computer science classes - the first of which are fast paced and difficult, speaking from experience (and the fact that many people who take the intro and object oriented classes end up dropping and quitting computer science).
+  4. A limited number of clubs, namely WICC (https://wicc.acm.org/), URMC, and ACSU, (https://www.cs.cornell.edu/undergrad/ugroups) which do not often host beginner events.
 - Are there meetups, seminars, online tools, office hours, hackathons?
+  * There are a small number of meetups, resources through classes, one data science seminar that requires prior knowledge, and BigRedHacks (which does not provide beginner support).
+  
+# Answers to these questions for an ideal version of your current community
+- What is currently available to people in your community to learn about tech?
+  * Workshops for beginner tech skills
+  * Mentorship programs available to any interested student
+  * More experienced level support: already exists
+- Are there meetups, seminars, online tools, office hours, hackathons?
+  * Yes, including meetups and seminars for beginners on a range of topics, more resources for beginners online, office hours for beginners to learn from experienced students and staff, and a beginner hackathon.
 
-Answers to these questions for current community
-
-Answers to these questions for an ideal version of your current community
-
-Ideas on how to improve in each category
+# Ideas on how to improve in each category
+- What is currently available to people in your community to learn about tech?
+  * Host and find others to host workshops on popular languages, basic concepts, overviews of the industry, how to suceed in the industry
+  * Create mentorship programs for other fields: for example, we could create a program for each college (we have quite a few) at Cornell so that we reach every field of study, as well as a freshman outreach program
+- Are there meetups, seminars, online tools, office hours, hackathons?
+  * Create more meetups and seminars such as with MLH Localhost to cater to beginners
+  * Work with existing experienced-level groups such as the ACSU to develop beginner-friendly online tools and office hours
+  * Work with BigRedHacks, URMC, and WICC to create a hackathon for beginners.
 
 ### Accessibility
 - How accessible are the current resources in your community?
