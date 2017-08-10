@@ -1,0 +1,1 @@
+My name is Tyler Ault, I am currently studying Computer Engineering Computer Science at the Speed School of Engineering at University of Louisville in Louisville, Kentucky. I am the current President of the SpeedACM, the school chapter of the ACM, as well as member of the DerbyHacks organizing committee. My favorite past time is trying out new and local restaurants.

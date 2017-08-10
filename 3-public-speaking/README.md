@@ -49,7 +49,6 @@ The exercise for this module is to create a proposal for a talk. You can find a 
 - [We are all awesome](https://weareallaweso.me), advice for first time speakers
 - [Speaking.io](https://speaking.io) advice for speakers
 - [Papercall](http://papercall.io), [Technically Speaking](https://tinyletter.com/techspeak) or [Eventil](eventil.com), places to find conferences you can submit talks to
-- Talk idea issue ~TODO~
 
 ## Support 🙋🏿
 

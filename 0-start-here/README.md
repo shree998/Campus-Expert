@@ -6,11 +6,7 @@ This module walks you through everything you need to be able to follow the GitHu
 
 _TIP: If at any stage during this (or future) modules, you need help or are stuck, you can find out how to get support in the "Support" section of the [README.md](./README.md#support-)._
 
-**PRO-TIP** *This repository generates a lot of notications. Before you get started, you should change your settings to save your inbox. There are three options:*
-- *Change your [email notification settings](https://github.com/settings/notifications)! This is a very active repository and will cause a lot of email notifications.*
-- *You can route emails from a [GitHub organisation to a separate email address](https://help.github.com/articles/managing-notification-emails-for-organizations/), if you only want to change the notifications you receive from Campus Experts.*
-- *You can unwatch this repository. This is the least recommended option.*
-- *[Mike McQuaid](https://github.com/mikemcquaid) wrote a blog post about [managing large number of GitHub notifications](https://github.com/blog/2399-managing-large-numbers-of-github-notifications).*
+**PRO-TIP** _This repository generates a lot of notifications. You should read [our guide](../docs/managing-notifications.md) on managing notifications._
 
 ## Learning Goals 🥅
 
@@ -35,10 +31,10 @@ Youtube: https://www.youtube.com/watch?v=bKCa9LVacUk
 ## How does the training work?
 
 - Each topic in the training is presented in a "training module".
-- A training module looks just like this one: it's a collection of videos, written information and exercises that helps you learn about something useful to building a technical community.
+- A training module looks just like this one: it's a collection of videos, written information, and exercises that helps you learn something useful about building a technical community.
 - To complete a training module, you have to submit a solution to the exercises.
 - Exercises for a training module can be found in each modules "exercises" directory.
-- Check issues regularly! Issues aren't just got bugs, they're a great place to chat and start discussions. In Campus Experts, we use them like a forum!
+- Check issues regularly! Issues aren't just for bugs, they're a great place to chat and start discussions. In Campus Experts, we use them like a forum!
 
 ## Getting ready to complete exercises
 
@@ -73,8 +69,8 @@ To get ready to submit exercises:
 - In your fork, in the "submissions" directory, create a new directory whose name is YOUR USERNAME.
 - In this directory, create an "about.md" file. Tell the community a bit about yourself! (Remember: this information is public to all students)
 - Navigate back to the ["open-training"](https://github.com/campus-experts/open-training) repository.
-- Start a pull request, following the template to complete the title, description and labels.
-- Open the pull request to merge in our about.md file.
+- Start a pull request, following the template to complete the title, description, and labels.
+- Open the pull request to merge in your about.md file.
 
 To complete an exercise:
 - Navigate to your fork, as a reminder, the URL will be https://github.com/YOUR-USERNAME/open-training.
@@ -84,8 +80,12 @@ To complete an exercise:
 - Commit the changes.
 - Navigate back to the original "open-training" repository.
 - Start a pull request with your changes.
-- Follow the pull request template to complete the title, description and labels.
+- Follow the pull request template to complete the title, description, and labels.
 - Wait for review!
+
+## Keeping your fork in sync
+
+As more content is added to this repository and more people contribute, your fork will fall out of date. This can sometimes lead to tricky situations with your pull requests. It's recommended to occasionally [sync your fork with this repository](https://help.github.com/articles/syncing-a-fork/). 
 
 ## Exercise 📝
 
