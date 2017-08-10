@@ -1,38 +1,24 @@
 ## Assessing Freetail Hacker's Needs
 
 ### Definition
-- How would you define your community? Try to be open minded, but here are some examples of ways you could define your community:
-  - Women that use Linux
-  - Girls learning how to code
-  - Students interested in tech in the Central Florida region
-  - Computer Science teachers in the Orange County school district
-  - Online computer programming professors
-  - Hackers in and around London
+Freetail Hackers is a community of UT Austin students that encourages and empowers anyone who wants to build cool tech, learn new skills, meet new people, and become a part of the hacker community.
 
 ### Size
-- How many people are currently in your community?
-- How many would you _like_ to be in your community?
-- Historically, has the group always been about the same size? If not, what brought on that change?
+The facebook group for Freetail Hackers currently has 632 members at the time that I am writing this. However we don't feel as though we impact nearly that many people as closely as we want to. Our largest event, HackTX brings together about that many hackers into one place to learn together, but we don't end up doing as much as we want to facilitate our goals during the rest of the year. I guess in a weird way I hope for the community to become smaller and more close knit.
 
 ### Resources
-- What is currently available to people in your community to learn about tech?
-- Are there meetups, seminars, online tools, office hours, hackathons?
+As a group we organize multiple hackathons throughout the year. This serves as our main form of outreach and community engagement. I want to move towards more personal events like meetups for hackers going to certain hackathons or workshops. I feel like that will help in achieving the goal of introducing more people to the hacker community and not just hackathons in general.
 
 ### Accessibility
-- How accessible are the current resources in your community?
-- Are meetings held during hours where people may be working?
-- Is there childcare available?
+We mostly cater to other university students at our own school, because of that we try to keep our events and beginner friendly and open as possible. We don't want to scare people off or seem intimidating in any way. We tend to host our events in the evenings when it is not an all day event like a hackathon. In addition, we try to not keep anyone away from attending our hackathons due to cost limitations, so we do our best to facilitate those needs when they arise.
 
 ### Interests
-- Is your community made up only of computer science students? Are you OK with that?
-- Is your community open to other topics, or are their interests very specific?
+Our community empowers all hackers in general! I'm really happy to see that we have hackers from all backgrounds, such as liberal arts and linguistics students along with music and business. During the second half of the year we try to put on a smaller niche hackathon that caters to a more specific interest group. So far, we have put on "Design Hacks" and "Music Hacks". We do our best to make an easy way to get into the community if you are not specifically an engineering or computer science major.
 
 ### Goals
-- Why do people get involved in your community?
-- Are they students hoping to get a degree?
-- Are they trying to ramp-up to get a job?
-- Are they passionate about developing, regardless of their major?
-- What activities and goals can you set for your community based on their existing goals?
+- Empower student hackers. (Over-arching goal)
+- Teach important practical applications of CS concepts to students.
+- Create a welcoming community of hackers that allow anyone curious to participate.
 
 ### Location
 - Where does your community currently gather?
