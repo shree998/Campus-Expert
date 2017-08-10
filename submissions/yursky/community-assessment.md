@@ -21,24 +21,14 @@ Our community empowers all hackers in general! I'm really happy to see that we h
 - Create a welcoming community of hackers that allow anyone curious to participate.
 
 ### Location
-- Where does your community currently gather?
-- Is it an online-only group so far, or is there a place where people can meet?
-- Is there parking, and if so, is it free?
-- Is there public transportation available to and from meet-ups?
-- Is the location accessible to those both on and off campus?
-- How much does it cost to use the space?
-- How flexible is the space for different types of presentations and meetings?
-- How many people can it fit?
-- Is there comfortable seating for all shapes and sizes?
-- Is there water or snacks available nearby?
+Freetail Hackers is centered at the University of Texas at Austin, because of that we have a lot of meetings and workshops in and around the campus area. In addition, we reach out to a lot of other hackathons in the Texas area in an attempt to create a positive relationship in the greater Texas community.
+
+Much of the campus is really accommodating in terms of accessibility and amenities such as food and other needs that people might have. However parking is a major issue since we are in the middle of a major downtown area.
+
+It would be awesome if we could open up these meetups and workshops that we conduct to the greater Austin tech community. However, I'm not completely sure on the university policy regarding this. I think that would a do a lot towards opening up our goals to those that aren't just students.
 
 ### Communication
-- How does your community get in touch with one another?
-- Is there an email group, a GitHub organization, a Twitter account, a Facebook group, a chat room or channel?
-- Could your organization benefit from one or more of those, or another way of communicating?
+Our main method of communication is on campus announcements and our facebook group. We have another dedicated facebook group, twitter account, and email list for all of our attendees of our flagship event, HackTX. I feel like it would be better to have a more direct or in person method of communication. In my opinion, word of mouth is always the best way to spread ideas.
 
 ### Culture
-- How welcoming is your community to new people and new ideas?
-- What happens if there is a disagreement?
-- Are there any policies or procedures in place, and are they documented?
-- How will you personally handle it?
+We welcome any and everyone interested in hacker culture! There is a place for everyone's skillset at a hackathon, the hard part comes with finding like minded people or finding a niche where you can meet others just as interested as yourself. We make a lot of our community and direction decisions as a team inside of our leadership committee. We have excellent conditions in place for when we internally disagree within the leadership team as a whole. However, I think one of our biggest weak points is being a little out of touch with the general opinion of all of our community members. A lot of our personal interactions occur during workshops or one on one debugging sessions at our events.
