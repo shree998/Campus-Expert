@@ -1,6 +1,6 @@
 ## Summary of the Community's Needs
 
-Provide a summary of what you learned from your community assessment, coupled with the feedback from others (like the opinion of other Campus Experts, community leaders, and stakeholders).
+Freetail Hackers is a really large and wide spread community that encompasses a lot of different sub groups. One of the biggest underlying problems of the current state of the community is the lack of physical community that we have throughout the year. I wish that people felt like they could find some of their closest friends through our community but that seems almost impossible from the current way we run things. 
 
 The following pieces might help strengthen this section:
 - **Community demographics**: Include data gathered from your community assessment like: the size of the community that you are targeting with your proposal, the educational background of your community, and the resources they currently have at their disposal and how accessible they are to the community.
