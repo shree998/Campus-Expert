@@ -7,6 +7,8 @@ The following pieces might help strengthen this section:
 - **Communication**: For a community to thrive, they need to be able to communicate with each other, identify how your community prefers to communicate.
 - **Culture**: Summarize the existing culture within the community you are working with.
 
+The community needs more efforts directed towards including beginners and people from other areas. As a campus of 22,000 students, there should be more members of the technology community than just the students in computer science and related majors. Cornell is a high-achieving school with incredibly intelligent people who want to succeed in a rapidly evolving world, and would jump at the chance to learn more about technology. Right now, the resources are limited through certain barriers (including social norms and intimidating entry) to only computer science students. They communicate through a few isolated online groups, forming social circles and extracurriculars around core CS classes and aspirations to work at big tech companies. While they have a culture of excellence, they lack a culture of inclusion and outreach.
+
 
 ## Your Proposal
 
