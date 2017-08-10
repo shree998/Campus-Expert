@@ -1,53 +1,35 @@
 ## Summary of the Community's Needs
 
-Provide a summary of what you learned from your community assessment, coupled with the feedback from others (like the opinion of other Campus Experts, community leaders, and stakeholders).
-
-The following pieces might help strengthen this section:
-- **Community demographics**: Include data gathered from your community assessment like: the size of the community that you are targeting with your proposal, the educational background of your community, and the resources they currently have at their disposal and how accessible they are to the community.
-- **Communication**: For a community to thrive, they need to be able to communicate with each other, identify how your community prefers to communicate.
-- **Culture**: Summarize the existing culture within the community you are working with.
-
 The community needs more efforts directed towards including beginners and people from other areas. As a campus of 22,000 students, there should be more members of the technology community than just the students in computer science and related majors. Cornell is a high-achieving school with incredibly intelligent people who want to succeed in a rapidly evolving world, and would jump at the chance to learn more about technology. Right now, the resources are limited through certain barriers (including social norms and intimidating entry) to only computer science students. They communicate through a few isolated online groups, forming social circles and extracurriculars around core CS classes and aspirations to work at big tech companies. While they have a culture of excellence, they lack a culture of inclusion and outreach.
 
 
 ## Your Proposal
 
-In this section, articulate the project you want to accomplish during the Campus Experts program; provide a brief summary of what you are planning to accomplish with your project.
+My project would initiate workshops and events focused towards beginners by leveraging existing technology related student groups, alongside finding passionate students to help push for such workshops and events. I would hit the ground running at the start of the semester, scheduling to meet with the major technology groups on campus in the first month of classes. Ideally, we would start offering workshops by midterms and plan for a larger event, likely a beginner focused hackathon in sponsored by or in a similar style to the CodeDay event that I have run 8 times. For next semester, I hope to have 3 large events and weekly beginner workshops and meetups.
 
-The following pieces might help strengthen this section:
-- **Timing**: For most of you, it'll be nearing summer as you finish the training. This means exams, end of semester, and students disappearing to go on internships. This means it might be best to consider an event that happens after you return in the new semester: think about the impact that the new students will have on the event, and what the effect of students graduating will be.
-- **Community demographics**: If you are planning on increasing the size of the community, identify ways you are planning on accomplishing that. Explain how your efforts might help you create a more diverse community.
-- **Goals**: You identified the goals of your community assessment. Include a summary of those goals and how your proposal addresses those goals.
-- **Communication**: For a community to thrive, they need to be able to communicate with each other, identify how your community will be able to stay in-contact. This includes in-person meetings, webinars, and chat/forum platforms.
+The goal of my community in my assessment is to grow the community to include 1/2 of all undergraduate students and 1/4 of all graduate students. The goal of these beginner workshops and events would be to reach tens of new community members every week, and hundreds for the larger events. The way that I see the project reaching the goal, is that as I prepare to graduate, that I can recruit a new GitHub campus expert to continue and expand efforts with the momentum that I create. Over time, I expect us to lead existing technology groups on campus to expand their own efforts of inclusion and outreach.
+
+Additionally, I hope to implement a mentorship program early next semester to connect first semester freshmen interested in, but with no experience in, technology with upperclassmen studying computer science. I am uncertain of how this would occur, but I expect that it could reach approximately a hundred students per semester.
+
+In terms of communication, my community will stay in contact through a sort of umbrella group created on Slack or Facebook, where members of any community who are passionate about spreading knowledge about technology will come together to plan how to reach more beginners and a more diverse audience.
 
 
 ## Your Proposal's Impact
-
-In this section, analyze your community's needs against what your proposal aims to accomplish.
-Itemize each of the needs you hope to address with your proposal and indicate whether each of these needs are within the scope of your proposal.
-
-When identifying the impact of your proposal, you should focus on the following areas:
-- Target audience
-  - Who are you expecting to impact based on your proposal?
-- Community needs
-  - What specific issue are you addressing with your proposal?
-- Resources
-  - What resources do you need to accomplish your proposal?
-  - How will you obtain those resources?   
-- Media
-  - How are you preparing to deliver your community impact project?
-  - What are you going to do to prepare to deliver the content?
-- Content knowledge
-  - How knowledgeable are you on about the topic your community impact project focuses on?
-  - What resources do you have at your disposal to enhance that knowledge?
-- Timeline
-  - Develop a rough timeline for your community impact project.
-  - If you are presenting content, identify the timing of your presentation.
+  
+  My project will aim to introduce beginners into technical knowledge of technology. This will address the issue that the current community serves students with preexisting experience in technology the best, while failing to integrate and support beginners.
+  
+  My project will also aim to introduce people from other fields into a broader knowledge technology, such as entrepreneurs, natural scientists, and business students. This will address the issue that the current community serves students with preexisting experience in technology the best, and fails to support people who wish to learn more about technology without becoming computer scientists. 
+  
+  I expect to need human capital, physical space, and some incentives to get people involved. Using my experience recruiting and managing volunteers and extracurricular organization staff, I can recruit human capital from numerous places on campus, such as preexisting organizations and friends. I can obtain physical space for free from the school, either by partnering with existing organizations or founding a new one. I can get incentives from some level of fundraising through the Cornell alumni network, partnerships with Entrepreneurship at Cornell or other student groups, MLH Localhost, or through certain GitHub campus expert benefits.
+  
+  I am not sure what the media section means, but I will hope to involve passionate technologists to lead workshops and events, and lead them myself if I cannot find others to do so. I will try to interact with student and local media to promote events, and my network includes many student reporters.
+  
+  I am very knowledgable on the community and the topic of technology, particularly for beginner material and involving beginners. My work with StudentRND's CodeDay has allowed me to connect a community of people in Florida interested in technology, and to support them in their learning through 8 events, reaching nearly 500 students. I have been studying technology almost exclusively for the past year, and will be doing so this upcoming year as well, including coursework and independent learning through hackathons, online resources, and personal projects.
+  
+  The timeline of my project would be to start running weekly workshops by midterms (in October) and run a larger event in late November. Next semester, we would have weekly workshops and plan for 3 larger events, while finding and training a new team of GitHub campus experts to take over when I graduate.
 
 ## Planning for the Future
 
-In this section, think about how your efforts can expand beyond this 8-week program. Some questions you can answer that might help strengthen this section are:
+I will track the attendance, basic demographics (major, prior experience in technology), and pre/post event feedback (how interested they are, what they learned, how well they think they learned about the topic on a scale of 1-10) for each workshop and event. I will measure success by number of people reached multiplied by the perception of amount learned and amount that interest improves. I will iterate on community plans every three months.
 
-- When will you review the impact of your proposal?
-- How will you measure success?
-- How frequently will you iterate on your community plans?
+In particular, I will be graduating in May 2018, so I will focus a lot of effort in the Spring 2018 semester to recruit and train new GitHub campus experts to continue my project.
