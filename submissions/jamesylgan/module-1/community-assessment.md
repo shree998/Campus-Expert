@@ -97,27 +97,27 @@ I am not completely sure how to answer these for an ideal version of my communit
   * In most cases, yes.
 - Are they passionate about developing, regardless of their major?
   * It depends - many people are doing it more in the pursuit of a high salary as opposed to passion about developing, so only some are.
-  ### not sure what to answer here re: goals. My community is large.
 - What activities and goals can you set for your community based on their existing goals?
-  * Most of them already exist: hackathons, experienced-level learning activities, high level courses, and on campus recruiting as one of the best engineering schools and computer science programs in the world.
+  * Most of the activities already exist: hackathons, experienced-level learning activities, high level courses, and on campus recruiting as one of the best engineering schools and computer science programs in the world.
+  * The goal of the community varies, but generally focuses on students trying to start careers or build cool things.
 
 ### Answers to these questions for an ideal version of your current community
 - Why do people get involved in your community?
   * They see technology playing a large role in the future, and hope to learn to compete and contribute within that future.
 - Are they passionate about developing, regardless of their major?
   * Yes! I hope that everyone getting involved would be passionate about developing or the developing process, whether or not they are actually doing the coding.
-  ### not sure what to answer here re: goals. My community is large.
 - What activities and goals can you set for your community based on their existing goals?
   * Attend as many activities as possible and learn as much as possible.
+  * Expand the community to reach 1/2 of undergraduate students and 1/4 of graduate students.
 
 ### Ideas on how to improve in each category
 - Why do people get involved in your community?
   * Expand beyond computer science majors by running beginner and out-of-technology friendly outreach programs.
 - Are they passionate about developing, regardless of their major?
   * Run more activities and programs to help people get passionate about technology
-  ### not sure what to answer here re: goals. My community is large.
 - What activities and goals can you set for your community based on their existing goals?
   * Improve activity and program offerings to be more friendly to a more diverse range of people.
+  * Have regular activity and program offerings to reach a large portion of the Cornell community.
 
 
 # Location
