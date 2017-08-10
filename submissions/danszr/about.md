@@ -1,0 +1,1 @@
+Hello Github! I am Dan, and I am about to be a Junior Computer Science major at the University of Maryland. I am an organizer for the Bitcamp Hackathon (the largest hackathon in the US last semesters. My favorite emoji is 😂 (Face with Tears of Joy)

@@ -1,3 +1,5 @@
+![module-6-banner](https://user-images.githubusercontent.com/1790822/28998942-341ccde2-7a05-11e7-8fa5-b17e228cb121.png)
+
 # Fundraising 🌧💵💵💵
 
 ## Learning Goals 🥅
@@ -25,7 +27,7 @@ In this module, you'll hear from Tim Fogarty, former commissioner for Major Leag
 
 As this talk is so comprehensive, this is a long talk, and there's a lot of content below and in the transcript. Being able to take on money and fund your activities is important, so if this is too much for you to learn alone, consider involving someone else from your community to help build out your fundraising capacity.
 
-You can read more about budgets, sponsor motivation, creating sponsorship documents and sponsorship process in the [resources](resources/) directory. 
+You can read more about budgets, sponsor motivation, creating sponsorship documents and sponsorship process in the [resources](resources/) directory.
 
 ## Exercise 📝
 
@@ -53,7 +55,7 @@ Please note that webinars take place through Zoom. The Zoom client will automati
 
 ### 1-to-1 calls 💖📞
 
-If you have questions you would like to talk to a trainer face to face about, you can request a video call [here](ttps://calendly.com/joenash/campus-experts-support). Please ensure you answer all questions in the form, or your call request may be denied.
+If you have questions you would like to talk to a trainer face to face about, you can request a video call [here](https://calendly.com/joenash/campus-experts-support). Please ensure you answer all questions in the form, or your call request may be denied.
 
 ## Module Completion ✅
 

@@ -1,3 +1,5 @@
+![module-9-banner](https://user-images.githubusercontent.com/1790822/28998945-39895ed0-7a05-11e7-9d3c-b58c2412ae03.png)
+
 # Hubot 🤖🐙🐈
 
 ## Learning Goals 🥅
@@ -49,7 +51,7 @@ There are 3 ways to get support with this module.
 
 You can open an issue to get support any time. Please follow the below steps:
 - Make your title as descriptive as possible.
-- Apply the labels "MODULE-9" and "help". 
+- Apply the labels "MODULE-9" and "help".
 - Follow and complete the ISSUE TEMPLATE.
 - The issue template may instruct you to apply further labels. Please do so!
 - Check to ensure you are subscribed to the issue, and check your GitHub notification settings, so you get notifications when your question is answered.
@@ -63,7 +65,7 @@ Please note that webinars take place through Zoom. The Zoom client will automati
 
 ### 1-to-1 calls 💖📞
 
-If you have questions you would like to talk to a trainer face to face about, you can request a video call [here](ttps://calendly.com/joenash/campus-experts-support). Please ensure you answer all questions in the form, or your call request may be denied.
+If you have questions you would like to talk to a trainer face to face about, you can request a video call [here](https://calendly.com/joenash/campus-experts-support). Please ensure you answer all questions in the form, or your call request may be denied.
 
 ## Module Completion ✅
 

@@ -2,7 +2,13 @@
 
 ![lockup](https://user-images.githubusercontent.com/1790822/28984617-e789fa78-792c-11e7-9c9f-17c23a70e6cc.png)
 
+**PRO-TIP** _This repository generates a lot of notifications. You should read [our guide](docs/managing-notifications.md) on managing notifications._
+
 This README explains how to get started with the training, and how to become a Campus Expert. By participating in the Campus Expert program, you agree to the [terms](https://education.github.com/experts/terms).
+
+## Latest news
+
+[This issue](https://github.com/campus-experts/open-training/issues/40) contains announcements and latest news about the training, features and benefits for you. You should [subscribe to this issue](https://help.github.com/articles/subscribing-to-conversations/) so you're always able to participate in the latest cool things! 
 
 ## What is a Campus Expert?
 
@@ -12,8 +18,8 @@ People learn better when they can learn with a community of likeminded peers. A 
 
 To become a Campus Expert, you must complete the following:
 
-- Module 0 - Getting Started.
-- Module 1 - Introduction.
+- [Module 0](/0-start-here) - Getting Started.
+- [Module 1](/1-introduction) - Introduction.
 - At least 3 other modules.
 
 Please bear in mind the following requirements:
@@ -22,7 +28,7 @@ Please bear in mind the following requirements:
 - You must not be within 3 months of finishing your course of study.
 - There is a limit to the number of Campus Experts per university. This limit is dependent on several factors. If in doubt, please check through one of the support channels listed below.
 
-Once you have completed the necessary modules, and if you are within the requirements, you can complete the application module. Once complete, we will review your application as soon as possible.
+Once you have completed the necessary modules, and if you are within the requirements, you can complete the [application module](/n+1-application). Once complete, we will review your application as soon as possible.
 
 ## What is a training module?
 
@@ -35,16 +41,20 @@ Every Campus Expert should start with the Introduction module. During this modul
 ## What training modules are available?
 
 The currently available training modules are:
-- Module 0 - Getting Started (Recommend)
-- Module 1 - Introduction (Compulsory)
-- Module 2 - Community Management
-- Module 3 - Public Speaking
-- Module 4 - Workshop Development
-- Module 5 - Technical Writing
-- Module 6 - Fundraising
-- Module 7 - Opensource
-- Module 8 - GraphQL
-- Module 9 - Hubot
+- [Module 0](/0-start-here) - Getting Started (Recommend)
+- [Module 1](/1-introduction) - Introduction (Compulsory)
+- [Module 2](/2-community-management) - Community Management
+- [Module 3](/3-public-speaking) - Public Speaking
+- [Module 4](/4-workshop-development) - Workshop Development
+- [Module 5](/5-technical-writing) - Technical Writing
+- [Module 6](/6-fundraising) - Fundraising
+- [Module 7](/7-opensource) - Opensource
+- [Module 8](/8-graphql) - GraphQL
+- [Module 9](/9-hubot) - Hubot
+- [Module 10](/10-opensource-clubs) - Opensource clubs
+- ...
+- [Module n+1](/n+1-application) - Your application!
+
 
 ## What benefits do Campus Experts get from GitHub?
 
@@ -54,17 +64,17 @@ Campus Expert benefits depend on the training modules completed. Each training m
 
 In addition to material resources and benefits, Campus Experts gain access to regular webinars and guest talks from industry experts, and spaces to collaborate with other Campus Experts and GitHubbers.
 
-A full list of benefits currently available can be found [here](docs/benefits).
+A full list of benefits currently available can be found [here](docs/benefits.md).
 
 ## How does being a Campus Expert work? What are the expectations of a Campus Expert?
 
-During the Introduction module, you will define and set goals for your community. As a Campus Expert, you are expected to meet these goals, and build the best community for your campus. We at GitHub understand that you are busy students, trying to make your campus a better place. This is why you set your own community goals, and participate in as much of the training as you need to to achieve those goals.
+During the Introduction module, you will define and set goals for your community. As a Campus Expert, you are expected to meet these goals, and build the best community for your campus. We at GitHub understand that you are busy students, trying to make your campus a better place. This is why you set your own community goals, and participate in as much of the training as you need to achieve those goals.
 
 When you become a Campus Expert, you gain access to tools that help you make resource requests, and collaborate with GitHub Staff and other Campus Experts.
 
 ## Do I need to know how to use Git/GitHub?
 
-Campus Experts is about _your community_, not becoming a Git master. However, Campus Experts and the training does primarily take place through GitHub, so some Git/GitHub knowledge is helpful. You can learn everything you need to complete the training [here](https://services.github.com/on-demand/intro-to-github/). 
+Campus Experts is about _your community_, not becoming a Git master. However, Campus Experts and the training does primarily take place through GitHub, so some Git/GitHub knowledge is helpful. You can learn everything you need to complete the training [here](https://services.github.com/on-demand/intro-to-github/).
 
 ## How do I get help whilst following the training?
 

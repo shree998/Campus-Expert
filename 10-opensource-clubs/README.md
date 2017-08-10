@@ -1,3 +1,5 @@
+![module-10-banner](https://user-images.githubusercontent.com/1790822/28998947-3af4f2f2-7a05-11e7-97c5-5701a171d152.png)
+
 # Open Source Clubs
 
 ## Learning Goals 🥅

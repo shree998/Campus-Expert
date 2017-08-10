@@ -1,8 +1,12 @@
+![module-0-banner](https://user-images.githubusercontent.com/1790822/28998937-28374f98-7a05-11e7-828b-6fa51def47e0.png)
+
 # Getting Started 🚀
 
-This module gives walks you through everything you need to be able to follow the GitHub Campus Expert training. Follow the steps below before progressing on to module 1 - the introduction.
+This module walks you through everything you need to be able to follow the GitHub Campus Expert training. Follow the steps below before progressing on to module 1 - the introduction.
 
 _TIP: If at any stage during this (or future) modules, you need help or are stuck, you can find out how to get support in the "Support" section of the [README.md](./README.md#support-)._
+
+**PRO-TIP** _This repository generates a lot of notifications. You should read [our guide](../docs/managing-notifications.md) on managing notifications._
 
 ## Learning Goals 🥅
 
@@ -27,9 +31,10 @@ Youtube: https://www.youtube.com/watch?v=bKCa9LVacUk
 ## How does the training work?
 
 - Each topic in the training is presented in a "training module".
-- A training module looks just like this one: it's a collection of videos, written information and exercises that helps you learn about something useful to building a technical community.
+- A training module looks just like this one: it's a collection of videos, written information, and exercises that helps you learn something useful about building a technical community.
 - To complete a training module, you have to submit a solution to the exercises.
 - Exercises for a training module can be found in each modules "exercises" directory.
+- Check issues regularly! Issues aren't just for bugs, they're a great place to chat and start discussions. In Campus Experts, we use them like a forum!
 
 ## Getting ready to complete exercises
 
@@ -63,9 +68,9 @@ To get ready to submit exercises:
 - Fork this repository.
 - In your fork, in the "submissions" directory, create a new directory whose name is YOUR USERNAME.
 - In this directory, create an "about.md" file. Tell the community a bit about yourself! (Remember: this information is public to all students)
-- Navigate back to the []"open-training"](https://github.com/campus-experts/open-training) repository.
-- Start a pull request, following the template to complete the title, description and labels.
-- Open the pull request to merge in our about.md file.
+- Navigate back to the ["open-training"](https://github.com/campus-experts/open-training) repository.
+- Start a pull request, following the template to complete the title, description, and labels.
+- Open the pull request to merge in your about.md file.
 
 To complete an exercise:
 - Navigate to your fork, as a reminder, the URL will be https://github.com/YOUR-USERNAME/open-training.
@@ -75,8 +80,12 @@ To complete an exercise:
 - Commit the changes.
 - Navigate back to the original "open-training" repository.
 - Start a pull request with your changes.
-- Follow the pull request template to complete the title, description and labels.
+- Follow the pull request template to complete the title, description, and labels.
 - Wait for review!
+
+## Keeping your fork in sync
+
+As more content is added to this repository and more people contribute, your fork will fall out of date. This can sometimes lead to tricky situations with your pull requests. It's recommended to occasionally [sync your fork with this repository](https://help.github.com/articles/syncing-a-fork/). 
 
 ## Exercise 📝
 
@@ -108,7 +117,7 @@ Please note that webinars take place through Zoom. The Zoom client will automati
 
 ### 1-to-1 calls 💖📞
 
-If you have questions you would like to talk to a trainer face to face about, you can request a video call [here](ttps://calendly.com/joenash/campus-experts-support). Please ensure you answer all questions in the form, or your call request may be denied.
+If you have questions you would like to talk to a trainer face to face about, you can request a video call [here](https://calendly.com/joenash/campus-experts-support). Please ensure you answer all questions in the form, or your call request may be denied.
 
 ## Module Completion ✅
 

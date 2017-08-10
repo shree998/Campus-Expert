@@ -26,9 +26,9 @@ Completing this module earns:
 Completing this module earns:
 - The "Public Speaking" badge!
 - An ebook copy of "Demystifying Public Speaking"
-- Eligibility for speaking opportunity travel support. Campus Experts who have completed this module can apply for funding to support travel and attendance at conferences or events where they may be speaking. You may also be invited to give talks at GitHub events and conferences, such as Field Day, Satellite and Universe.
+- Eligibility for speaking opportunity travel support. Campus Experts who have completed this module can apply for funding to support travel and attendance at conferences or events where they may be speaking. You may also be invited to give talks at GitHub events and conferences, such as Field Day, Satellite, and Universe.
 
-## Module 4 - Community Management
+## Module 4 - Workshop Development
 
 Completing this module earns:
 - The "Workshop development" badge!

@@ -1,3 +1,5 @@
+![module-3-banner](https://user-images.githubusercontent.com/1790822/28998963-b12c375a-7a05-11e7-8fbc-7199bafca144.png)
+
 # Public Speaking 📣💁🏽
 
 ## Learning Goals 🥅
@@ -47,7 +49,6 @@ The exercise for this module is to create a proposal for a talk. You can find a 
 - [We are all awesome](https://weareallaweso.me), advice for first time speakers
 - [Speaking.io](https://speaking.io) advice for speakers
 - [Papercall](http://papercall.io), [Technically Speaking](https://tinyletter.com/techspeak) or [Eventil](eventil.com), places to find conferences you can submit talks to
-- Talk idea issue ~TODO~
 
 ## Support 🙋🏿
 

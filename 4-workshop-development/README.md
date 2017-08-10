@@ -1,3 +1,5 @@
+![module-4-banner](https://user-images.githubusercontent.com/1790822/28998940-2f1ee050-7a05-11e7-9454-b87ca2ee2c1c.png)
+
 # Workshop Development 👨🏿‍🏫⚡️
 
 ## Learning Goals 🥅
