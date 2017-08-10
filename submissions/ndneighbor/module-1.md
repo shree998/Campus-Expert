@@ -73,3 +73,14 @@ Once we have the student body, using simple frameworks like a Slack and a few sp
 
 After that, the goal is finding and mentoring young students so they understand the ideals and mission to lower the barrier to becoming that expert. Because there is nothing wrong about becoming a Computer Scientist while doing undergraduate research on type theory to improve functional languages, but there is something wrong when someone has to drown in a ocean of uncertainty before someone realizes they can do that.
 
+### Measuring Success
+
+These metrics are hard to quantify, but one thing that hasn't really been attempted is regularly surveying attendees and regular students for the needs they have. I would rather have a club with 20 really satified people who are continuously welcoming rather than 100 happy students who feel like they don't matter and aren't getting anything. Setting up pre and post event surveys will be nice. In addition, only accepting people into a facebook group that have at least been to one event will be mandatory in order to properly track the progress on the club. Since we are open to interchange members, satisfaction is going to be more important than numbers.
+
+### Time-Table
+
+Generating good content is hard and time consuming, already I made a few talks on how to be a good human in Computer Science (How to Build A Resume, The Interview is A Personality Test While You Invert a Binary Tree, Git Started) part of the clubs existence is not only foster new -> experienced people but making sure that they give back as well. So having lightning talk and demo days will be key for involvement.
+
+The first semester (3 months) will focus on intiatives for partnership, we have partnered with the local Code.org volunteering chapter on how they can market themselves effectively. We have a meeting with the WICs org to get them to take advantage of their first conference. We are partnering with Facebook (who is coming on campus) to give talks on FB OSS and how to to interview. The next semester will be promoting hackathon initiatives and tutorials while providing an open forum for expression and mentorship. While continuting the stated mission before.
+
+Getting everything running at full speed will take around a year. But the goal is bridge the gap, if YPE makes advanced content and ACM makes beginner content, we will help them refine and facilitate those goals. FIU Hackers is just there to fill in the gaps and help provide community building expertise to lower that barrier into tech.
