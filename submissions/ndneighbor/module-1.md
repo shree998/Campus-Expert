@@ -60,3 +60,16 @@ And that doesn’t necessarily have to be a 200 person annual event.
 The value of the hackathon is similar to the value of getting a group of people joining a soccer team and playing with others. It’s a chance to expand the community.
 
 A community is what drives the interesting things. Or what makes the things that happen interesting to the people involved, because of the people involved. It’s what drives the, let’s go to another state for this event, let’s get on this 12 hour bus ride, let’s escape on the middle of finals week and have fun, let’s see how far we can take this idea.
+
+## The Action Plan
+
+The first thing to do is understand the strength and goals of the existing clubs that serve Miami and the school. The school's ACM is great at bringing in faculty experts and student domain experts to give talks on advanced subjects that may be beyond the reach of the average student. Most of the club members tend to be stay in their cliques and don't do much evangelism work. Part of running a good community is making sure everyone feels like they belong. You can scale that feeling by facilitating introductions to each other of likeminded folks. The school's YPE is very good at making beginner content to the student populace but offers not much else when it comes to continuing you CS education. There exists a gap in facilitating the student (no matter what major) from Beginner to Journeyman to Expert.
+
+First is use the newfound base of the MangoHacks organizing team to bring in friends of theirs for interest meetings on campus to build a common base of values. Luckily for me, I was one of the e-board members of the revived ACM and later made a playbook on how to scale clubs/societies. [The article is over here.](https://medium.com/@ndneighbor/organizing-organizations-612ba58a5732) 
+
+Then we will reach out to faculty partners to advertise this clubs at the secondary beginner level classes. So your folks in Programming 2, Informatics or Undergraduate Researchers who might benefit from using Python. End of the day, Hacking is for everyone and there are many people who demonstrate the apitiude for programming but just need a supportive community to help them transition. (I hear if you say the term API enough you become better.)
+
+Once we have the student body, using simple frameworks like a Slack and a few spreadsheets we can plan and coordinate travel to other schools while also hosting an event every two weeks that is prepared with quality that serves other clubs. For example, we can give a resume workshop at WICs and NSBE, invite other clubs over to give a workshop on how to use open source as part of your careers. Promoting hacker culture so they know that the doors of the events of hackathons are always open to anybody especially marginalized groups.
+
+After that, the goal is finding and mentoring young students so they understand the ideals and mission to lower the barrier to becoming that expert. Because there is nothing wrong about becoming a Computer Scientist while doing undergraduate research on type theory to improve functional languages, but there is something wrong when someone has to drown in a ocean of uncertainty before someone realizes they can do that.
+
