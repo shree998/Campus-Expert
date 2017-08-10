@@ -1,4 +1,4 @@
-# GiTec
+# Tec
 
 ## Definition 
 I started learning git at the beginning of my degree because I was involved with many
