@@ -30,6 +30,8 @@ Youtube: https://www.youtube.com/watch?v=PPWWPLuN4nU
 
 ## Introduction 👋
 
+_Please follow these [pre workshop instructions](https://gist.github.com/wilhelmklopp/96309b04f67d4ac029d1880ca26fc2aa) before following the workshop._
+
 In this module, you'll learn about GraphQL from Fall 2016 Campus Expert, and GitHub Education intern, Wilhelm Klopp. Wilhelm delivered this workshop, along with GitHub platform engineer, Brooks Swinnerton, to the Spring 2017 cohort of campus experts.
 
 This workshop features live examples and interactive exercises heavily, so it is recommended you watch the video. If you are unable to follow the video, the GitHub Professional Services team offer an online GraphQL training course that is a good alternative.
@@ -43,6 +45,7 @@ During the video, Wilhelm set multiple challenges for using GraphQL. The exercis
 ## Resources 📖
 
 - [GitHub GraphQL training](https://services.github.com/on-demand/graphql/)
+- [Pre workshop instructions](https://gist.github.com/wilhelmklopp/96309b04f67d4ac029d1880ca26fc2aa)
 
 ## Support 🙋🏿
 
