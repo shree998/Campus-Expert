@@ -108,5 +108,5 @@ This module is complete when:
 Every module completed allows a Campus Expert to access certain benefits. To become a Campus Expert, follow the instructions in the [Application module](../n+1-application/README.md).
 
 Completing this module earns:
-- The "Community management" badge.
+- The "Community management" [badge](../docs/badges.md).
 - Access to a [free GitHub Team plan](https://github.com/pricing/team), to create a GitHub organisation for your community and members.

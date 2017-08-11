@@ -76,5 +76,5 @@ This module is complete when:
 Every module completed allows a Campus Expert to access certain benefits. To become a Campus Expert, you must complete a minimum number of training modules and then complete an application. More instructions can be found in the application module.
 
 Completing this module earns:
-- The "Fundraising" badge!
+- The "Fundraising" [badge](../docs/badges.md).
 - Access to the GitHub Grant for your event!

@@ -92,5 +92,5 @@ This module is complete when:
 Every module completed allows a Campus Expert to access certain benefits. To become a Campus Expert, you must complete a minimum number of training modules and then complete an application. More instructions can be found in the application module.
 
 Completing this module earns:
-- The "GraphQL" badge.
+- The "GraphQL" [badge](../docs/badges.md).
 - Eligibility for funding support to host GraphQL workshops on your campus or at hackathons GitHub supports.

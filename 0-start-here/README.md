@@ -138,4 +138,4 @@ This module is complete when:
 Every module completed allows a Campus Expert to access certain benefits. To become a Campus Expert, follow the instructions in the [Application module](../n+1-application/README.md).
 
 Completing this module earns:
-- The "Getting started" badge!
+- The "Getting started" [badge](../docs/badges.md).

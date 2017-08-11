@@ -93,6 +93,6 @@ This module is complete when:
 Every module completed allows a Campus Expert to access certain benefits. To become a Campus Expert, you must complete a minimum number of training modules and then complete an application. More instructions can be found in the application module.
 
 Completing this module earns:
-- The "Public Speaking" badge!
+- The "Public Speaking" [badge](../docs/badges.md).
 - An ebook copy of "Demystifying Public Speaking"
 - Eligibility for speaking opportunity travel support. Campus Experts who have completed this module can apply for funding to support travel and attendance at conferences or events where they may be speaking. You may also be invited to give talks at GitHub events and conferences, such as Field Day, Satellite and Universe.
