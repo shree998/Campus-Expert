@@ -8,7 +8,7 @@ This README explains how to get started with the training, and how to become a C
 
 ## Latest news
 
-[This issue](https://github.com/campus-experts/open-training/issues/40) contains announcements and latest news about the training, features and benefits for you. You should [subscribe to this issue](https://help.github.com/articles/subscribing-to-conversations/) so you're always able to participate in the latest cool things! 
+[This issue](https://github.com/campus-experts/open-training/issues/40) contains announcements and latest news about the training, features and benefits for you. You should [subscribe to this issue](https://help.github.com/articles/subscribing-to-conversations/) so you're always able to participate in the latest cool things!
 
 ## What is a Campus Expert?
 
@@ -32,7 +32,9 @@ Once you have completed the necessary modules, and if you are within the require
 
 ## What is a training module?
 
-Training modules help you learn skills that are important towards building technical communities. A training module contains a video tutorial, as well as assignments you must complete to progress in the module.
+Training modules help you learn skills that are important towards building technical communities. A training module contains a video tutorial, a written alternative to the video, and assignments you must complete to progress in the module.
+
+_PLEASE NOTE_: We try to accommodate a variety of learning styles. The videos are not compulsory, unless otherwise stated, and we replicate all content in plain text in the README.md for each module. Most modules also have a full transcript of the video, found in the resources directory.
 
 ## How do I choose which modules to complete?
 
