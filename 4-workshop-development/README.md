@@ -1,5 +1,11 @@
 ![module-4-banner](https://user-images.githubusercontent.com/1790822/28998940-2f1ee050-7a05-11e7-9454-b87ca2ee2c1c.png)
 
+# Did you enjoy this module? 👍👎
+_After completing the module, click an option below to select it. These answers help us improve content for you and future students._   
+
+[![](https://m131jyck4m.execute-api.us-west-2.amazonaws.com/prod/poll/01BQ93B1S7P1AE23QSD86F5J79/I%20enjoyed%20this%20module)](https://m131jyck4m.execute-api.us-west-2.amazonaws.com/prod/poll/01BQ93B1S7P1AE23QSD86F5J79/I%20enjoyed%20this%20module/vote)
+[![](https://m131jyck4m.execute-api.us-west-2.amazonaws.com/prod/poll/01BQ93B1S7P1AE23QSD86F5J79/I%20did%20not%20enjoy%20this%20module)](https://m131jyck4m.execute-api.us-west-2.amazonaws.com/prod/poll/01BQ93B1S7P1AE23QSD86F5J79/I%20did%20not%20enjoy%20this%20module/vote)
+
 # Workshop Development 👨🏿‍🏫⚡️
 
 ## Learning Goals 🥅
@@ -83,6 +89,7 @@ This module is complete when:
 - You have create an outline of a workshop.
 - You have followed the instructions to submit.
 - Your pull request is merged!
+- You have completed the [survey](https://goo.gl/forms/yWLpRp4xycPs6PKS2).
 
 ## Campus Expert Benefits 🏅
 

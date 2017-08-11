@@ -1,5 +1,13 @@
 ![module-8-banner](https://user-images.githubusercontent.com/1790822/28998944-37647626-7a05-11e7-846d-ee250d31d8d9.png)
 
+# Did you enjoy this module? 👍👍
+_After completing the module, click an option below to select it. These answers help us improve content for you and future students._  
+
+
+[![](https://m131jyck4m.execute-api.us-west-2.amazonaws.com/prod/poll/01BQ93GH3VS8GRJKTWJVTMRN4X/I%20enjoyed%20this%20module)](https://m131jyck4m.execute-api.us-west-2.amazonaws.com/prod/poll/01BQ93GH3VS8GRJKTWJVTMRN4X/I%20enjoyed%20this%20module/vote)
+[![](https://m131jyck4m.execute-api.us-west-2.amazonaws.com/prod/poll/01BQ93GH3VS8GRJKTWJVTMRN4X/I%20did%20not%20enjoy%20this%20module)](https://m131jyck4m.execute-api.us-west-2.amazonaws.com/prod/poll/01BQ93GH3VS8GRJKTWJVTMRN4X/I%20did%20not%20enjoy%20this%20module/vote)
+
+
 # GraphQL 📈⁉️
 
 ## Learning Goals 🥅
@@ -77,6 +85,7 @@ This module is complete when:
 - You have completed the challenges in the video.
 - You have followed the steps to submit.
 - Your pull request is merged!
+- You have completed the [survey](https://goo.gl/forms/yWLpRp4xycPs6PKS2).
 
 ## Campus Expert Benefits 🏅
 

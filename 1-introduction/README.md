@@ -1,5 +1,11 @@
 ![module-1-banner](https://user-images.githubusercontent.com/1790822/28998938-2912b34e-7a05-11e7-9117-af6149c4f5f0.png)
 
+# Did you enjoy this module? 👍👎
+_After completing the module, click an option below to select it. These answers help us improve content for you and future students._  
+
+[![](https://m131jyck4m.execute-api.us-west-2.amazonaws.com/prod/poll/01BQ936T45DHYK8Q4J3WXR7NWW/I%20enjoy%20this%20module)](https://m131jyck4m.execute-api.us-west-2.amazonaws.com/prod/poll/01BQ936T45DHYK8Q4J3WXR7NWW/I%20enjoy%20this%20module/vote)
+[![](https://m131jyck4m.execute-api.us-west-2.amazonaws.com/prod/poll/01BQ936T45DHYK8Q4J3WXR7NWW/I%20did%20not%20enjoy%20this%20module)](https://m131jyck4m.execute-api.us-west-2.amazonaws.com/prod/poll/01BQ936T45DHYK8Q4J3WXR7NWW/I%20did%20not%20enjoy%20this%20module/vote)
+
 # Introduction 👋
 
 ## Learning Goals 🥅
@@ -44,7 +50,7 @@ _What different shared struggles might a group of students in a computer science
 
 As you think about the campus and the people in it, think about what struggle you want to address. What problem do you want to tackle for your fellow students? That is a great starting place for a community.
 
-Let's have a look at an example of an existing and highly successful community. In the below video, you'll find a talk by Emma and Andrew Seward of TechNottingham. TechNottingham is a technical community in the city of Nottingham, in the UK. In this video, Andrew and Emma talk about the community, their philosophy, and some of the tools, techniques and events they use to bring that community closer together.
+Let's have a look at an example of an existing and highly successful community. In the video for this module, you'll find a talk by Emma and Andrew Seward of TechNottingham. TechNottingham is a technical community in the city of Nottingham, in the UK. In this video, Andrew and Emma talk about the community, their philosophy, and some of the tools, techniques and events they use to bring that community closer together.
 
 _What common struggle does your community have?_
 
@@ -91,6 +97,7 @@ This module is complete when:
 - You have completed the community impact proposal.
 - You have followed the instructions to submit.
 - Your pull request is merged!
+- You have completed the [survey](https://goo.gl/forms/yWLpRp4xycPs6PKS2).
 
 ## Campus Expert Benefits 🏅
 

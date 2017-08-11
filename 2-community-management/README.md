@@ -1,5 +1,11 @@
 ![module-2-banner](https://user-images.githubusercontent.com/1790822/28998939-2e27574a-7a05-11e7-84be-bc158d21855f.png)
 
+# Did you enjoy this module? 👍👎
+_After completing the module, click an option below to select it. These answers help us improve content for you and future students._  
+
+[![](https://m131jyck4m.execute-api.us-west-2.amazonaws.com/prod/poll/01BQ937P6RST9KJFKPSV1FC9RW/I%20enjoyed%20this%20module)](https://m131jyck4m.execute-api.us-west-2.amazonaws.com/prod/poll/01BQ937P6RST9KJFKPSV1FC9RW/I%20enjoyed%20this%20module/vote)
+[![](https://m131jyck4m.execute-api.us-west-2.amazonaws.com/prod/poll/01BQ937P6RST9KJFKPSV1FC9RW/I%20did%20not%20enjoy%20this%20module)](https://m131jyck4m.execute-api.us-west-2.amazonaws.com/prod/poll/01BQ937P6RST9KJFKPSV1FC9RW/I%20did%20not%20enjoy%20this%20module/vote)
+
 # Community Management 💬😈
 
 ## Learning Goals 🥅
@@ -95,6 +101,7 @@ This module is complete when:
 - You have completed a case study of a community moderation action.
 - You have followed the instructions to submit.
 - Your pull request is merged!
+- You have completed the [survey](https://goo.gl/forms/yWLpRp4xycPs6PKS2).
 
 ## Campus Expert Benefits 🥇
 

@@ -1,5 +1,11 @@
 ![module-3-banner](https://user-images.githubusercontent.com/1790822/28998963-b12c375a-7a05-11e7-8fbc-7199bafca144.png)
 
+# Did you enjoy this module? 👍👎
+_After completing the module, click an option below to select it. These answers help us improve content for you and future students._  
+
+[![](https://m131jyck4m.execute-api.us-west-2.amazonaws.com/prod/poll/01BQ938NSBAH7F0R209S3T9THE/I%20enjoyed%20this%20module)](https://m131jyck4m.execute-api.us-west-2.amazonaws.com/prod/poll/01BQ938NSBAH7F0R209S3T9THE/I%20enjoyed%20this%20module/vote)
+[![](https://m131jyck4m.execute-api.us-west-2.amazonaws.com/prod/poll/01BQ938NSBAH7F0R209S3T9THE/I%20did%20not%20enjoy%20this%20module)](https://m131jyck4m.execute-api.us-west-2.amazonaws.com/prod/poll/01BQ938NSBAH7F0R209S3T9THE/I%20did%20not%20enjoy%20this%20module/vote) 
+
 # Public Speaking 📣💁🏽
 
 ## Learning Goals 🥅
@@ -80,6 +86,7 @@ This module is complete when:
 - You have completed the write a proposal exercise.
 - You have followed the instructions to submit.
 - Your pull request is merged!
+- You have completed the [survey](https://goo.gl/forms/yWLpRp4xycPs6PKS2).
 
 ## Campus Expert Benefits 🏅
 

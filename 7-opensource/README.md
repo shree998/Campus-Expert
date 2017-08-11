@@ -1,5 +1,11 @@
 ![module-7-banner](https://user-images.githubusercontent.com/1790822/28998943-35f6ce92-7a05-11e7-834d-25158f31b3da.png)
 
+# Did you enjoy this module? 👍👎
+_After completing the module, click an option below to select it. These answers help us improve content for you and future students._  
+
+[![](https://m131jyck4m.execute-api.us-west-2.amazonaws.com/prod/poll/01BQ93FTHCJ1YXWAZVSA3N1890/I%20enjoyed%20this%20module)](https://m131jyck4m.execute-api.us-west-2.amazonaws.com/prod/poll/01BQ93FTHCJ1YXWAZVSA3N1890/I%20enjoyed%20this%20module/vote)
+[![](https://m131jyck4m.execute-api.us-west-2.amazonaws.com/prod/poll/01BQ93FTHCJ1YXWAZVSA3N1890/I%20did%20not%20enjoy%20this%20module)](https://m131jyck4m.execute-api.us-west-2.amazonaws.com/prod/poll/01BQ93FTHCJ1YXWAZVSA3N1890/I%20did%20not%20enjoy%20this%20module/vote)
+
 # Contributing to your Career 💼🆙
 
 ## Learning Goals 🥅
@@ -78,6 +84,7 @@ This module is complete when:
 - You have made a contribution to an open source project, whether your own, your communities, a third party, or a Campus Expert project.
 - You have followed the steps to submit.
 - Your pull request is merged!
+- You have completed the [survey](https://goo.gl/forms/yWLpRp4xycPs6PKS2).
 
 ## Campus Expert Benefits 🏅
 
