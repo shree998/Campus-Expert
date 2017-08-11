@@ -81,4 +81,4 @@ Every module completed allows a Campus Expert to access certain benefits. To bec
 
 Completing this module earns:
 - The "Hubot" badge!
-- Eligibility for funding support to host GraphQL workshops on your campus or at hackathons GitHub supports.
+- Eligibility for funding support to host Hubot workshops on your campus or at hackathons GitHub supports.
