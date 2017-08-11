@@ -6,7 +6,7 @@ This module walks you through everything you need to be able to follow the GitHu
 
 _TIP: If at any stage during this (or future) modules, you need help or are stuck, you can find out how to get support in the "Support" section of the [README.md](./README.md#support-)._
 
-**PRO-TIP** _This repository generates a lot of notifications. You should read [our guide](../docs/managing-notifications.md) on managing notifications._
+**PRO-TIP**: _This repository generates a lot of notifications. You should read [our guide](../docs/managing-notifications.md) on managing notifications._
 
 ## Learning Goals 🥅
 
