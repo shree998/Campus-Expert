@@ -6,21 +6,25 @@ Provide a summary of what you learned from your community assessment, coupled wi
 
 The following pieces might help strengthen this section:
 **Community demographics**
-- Right now, we have a large amount of people who are new to coding and aren't really sure where to go. Bringing them in and marketing to our new potential audience is super important. It is also
-- Right now our community is seeing a large influx of beginners who don't really know how to start out outside of classes. Just last year,
-- **Communication**: We already have a Facebook group where people will communicate and I both strengthening that and branching out to slack may work well also. We also have in person meet ups for clubs like Spartan Hackers where people can come to learn things as well.
-- **Culture**: Right now, it is a pretty open culture with a lot of new faces joining in. Most of them are either beginners or advanced people. And there isn't a great place for the middle ground except for learning on their own. We need to improve that and add a place for a good middle ground.
+- Right now, we have a large amount of people who are new to coding and aren't really sure where to go. Bringing them in and marketing to our new potential audience is super important. We also have some people who have only done CS stuff for classes and don't know how to progress from there. And then we also have some of the more advanced people. I will start by focusing on the beginners and then when we have something set up smoothly, from there I will focus more on the middle ground where those beginners have hopefully moved to and the other intermediates in limbo.
+
+- **Communication**: We already have a Facebook group where people will communicate and the goal is both strengthening that and branching out to Slack also. We also have in person meet ups for clubs like Spartan Hackers and the Data Science club where people can come to learn things as well.
+-
+- **Culture**: Right now we have a culture that is pretty open and we do a good job of encouraging everybody to come and try to learn with us. We have a code of conduct lying around somewhere but it isn't really enforced or used much as not many problems have come up. We more try to deal with things on a case by case basis. This might need to be changed if more problems arise, but right now I think having it be pretty loose creates a lower barrier for entry.
 
 
 ## Your Proposal
 
-In this section, articulate the project you want to accomplish during the Campus Experts program; provide a brief summary of what you are planning to accomplish with your project.
+I want to find a way to get the community for involved in things. For such a large potential community, we only have a few regulars. I want to do this by recruiting the new beginners first to get them pumped so they can continue a cycle.
 
-The following pieces might help strengthen this section:
-- **Timing**: For most of you, it'll be nearing summer as you finish the training. This means exams, end of semester, and students disappearing to go on internships. This means it might be best to consider an event that happens after you return in the new semester: think about the impact that the new students will have on the event, and what the effect of students graduating will be.
-- **Community demographics**: If you are planning on increasing the size of the community, identify ways you are planning on accomplishing that. Explain how your efforts might help you create a more diverse community.
-- **Goals**: You identified the goals of your community assessment. Include a summary of those goals and how your proposal addresses those goals.
-- **Communication**: For a community to thrive, they need to be able to communicate with each other, identify how your community will be able to stay in-contact. This includes in-person meetings, webinars, and chat/forum platforms.
+- **Timing**: I think the best time to start doing this is as soon as we get back to school when we have a huge influx of newbies coming that are looking to get involved. I think the best time to do it would be after the first week but before the 4th when people start getting busier.
+
+- **Community demographics**: We already have the community here with a slack for the organizer of each CS club in a group, but by creating something like slack with all of the clubs and members in it, people can branch out from just one club and find other potential events to make the community more engaged and well-rounded.
+
+
+- **Goals**: I want to make our community go from a cluster of different clubs to more of a lake style where things merge together and people can easily find other areas without much searching and find events relatively easy. We want to create an area where people can learn, socialize and develop skills together.
+
+- **Communication**: Right now we have a facebook group that doesn't post all that much and if it does it's more for announcements than anything so it lacks any feeling of involvement or engagement in the community, by adding a slack for everybody to participate in, it gives everyone a chance to have a voice and find things that interest them easily.
 
 
 ## Your Proposal's Impact
