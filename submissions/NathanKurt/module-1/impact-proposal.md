@@ -21,7 +21,7 @@ I want to find a way to create the lowest possible barrier for entry possible fo
 I think the best time to start doing this is as soon as we get back to school when we have a huge influx of newbies coming that are looking to get involved. I think the best time to do it would be after the first week but before the 4th when people start getting busier.
 
 **Community demographics**:
-- We already have the community here with a slack for the organizer of each CS club in a group, but by creating something like slack with all of the clubs and members in it, people can branch out from just one club and find other potential events to make the community more engaged and well-rounded.
+We already have the community here with a slack for the organizer of each CS club in a group, but by creating something like slack with all of the clubs and members in it, people can branch out from just one club and find other potential events to make the community more engaged and well-rounded.
 
 
 **Goals**:
@@ -33,19 +33,19 @@ Right now we have a facebook group that doesn't post all that much and if it doe
 
 ## Your Proposal's Impact
 
-**Target audience**
+-**Target audience**
   - As above, I plan to impact everybody, but the most work needs to be done with beginners to educate them about the groups and that there are opportunities to be available.
-**Community needs**
+-**Community needs**
   - Our community is not as unified as it could be which makes it hard for people to find and participate in things that are still in the CS community
-**Resources**
+-**Resources**
   - Swag is the best way to bring people in and getting them to listen to something. If we can give them swag, we can educate them on slack and how to use it.
   - SpartaHack has some leftover swag that we can give away as soon as they show that they have the app and are joining the community. Maybe some flyers to post around to educate
-**Media**
+-**Media**
   - The CS Club organizers have a slack channel where we can all communicate on and touch base with things. We can all make Facebook posts about it and all the clubs can talk about it and cross-polinate
-**Content knowledge**
+-**Content knowledge**
   - I have a pretty extensive knowledge of Slack and marketing things to people since I did a lot of marketing stuff to the logistics side of things.
   - There are forums galore of Slack best practices that I will probably use and other people who run hackathons use slack a ton and also have good ideas about best ways to use it.
-**Timeline**
+-**Timeline**
   - This will take place over the semester and refined throughout the time. Welcome week we will push Slack as a way to use things. Every time a club does something, Announce it and tell people to join it.
   - It will be a quick talk, "Hey use Slack, Download it to connect with a bunch of CS communities, then there will be a pinned post with a tutorial video to learn how to use it"
 
