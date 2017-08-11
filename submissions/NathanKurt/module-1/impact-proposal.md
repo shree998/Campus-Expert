@@ -52,11 +52,10 @@ Right now we have a facebook group that doesn't post all that much and if it doe
 
 ## Planning for the Future
 
-In this section, think about how your efforts can expand beyond this 8-week program. Some questions you can answer that might help strengthen this section are:
 
-**When will you review the impact of your proposal?**
+- **When will you review the impact of your proposal?**
   - At the end of the semester we will go and look at how many people are using it and what we can improve.
-**How will you measure success?**
+- **How will you measure success?**
   - We will look at the size of the community and amount of active users which is sent to admins monthly via slack. We can use some of the data to dive in and find better ways to market it
-**How frequently will you iterate on your community plans?**
+- **How frequently will you iterate on your community plans?**
   - Once a semester we will go back and look at them. But towards the end of the summer, we will get something together to make sure the community is still using it and how to market it to the new CS people coming in.
