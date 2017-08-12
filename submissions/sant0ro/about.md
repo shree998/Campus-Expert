@@ -2,7 +2,7 @@
 
 ### Hello world!
 
-<img src="http://i.imgur.com/ET7fRj1.jpg" width="100">
+<img align="right" src="http://i.imgur.com/ET7fRj1.jpg" width="130">
 
 My name is **Claudio Santoro**. I'm a tech enthusiast and love reading books, eat chocolate and look the sky.
 
