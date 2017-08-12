@@ -5,7 +5,6 @@ Follow the instructions in community-assessment.md and community-impact-proposal
 ## Submitting the exercises
 
 - Navigate to your fork, at https://github.com/YOUR-USERNAME/open-training.
-- Create a new branch.
 - Navigate to submissions/YOUR-USERNAME and create a new folder named "module-1".
 - Inside this folder, create two files, "community-assessment.md" and "impact-proposal.md".
 - Enter the contents of your completed community assessment and community impact proposal in each file.
