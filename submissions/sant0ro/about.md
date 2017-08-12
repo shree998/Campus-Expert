@@ -1,4 +1,4 @@
-## Claudio Santoro
+## :smile: Claudio Santoro
 
 ### Hello world!
 
