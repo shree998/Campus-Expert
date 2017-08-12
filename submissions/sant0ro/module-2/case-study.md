@@ -25,3 +25,5 @@ the outcome was good, since one of the members really didn't give so much care f
 In the end, situations like that are unpredictable but with Telegram bots we can achieve automatic moderationing when any moderator is online.
 Also something important in a moderation it's being polite, understand both situations and try to solve the problem like you will
 when you do "decision makings" in your daily software developments.
+
+### Note.: Our rules are available here.: https://github.com/brazil-it-groups/code-of-conduct
