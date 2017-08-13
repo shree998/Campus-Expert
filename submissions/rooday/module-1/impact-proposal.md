@@ -17,10 +17,6 @@
 
 ## Your Proposal's Impact
 
-In this section, analyze your community's needs against what your proposal aims to accomplish.
-Itemize each of the needs you hope to address with your proposal and indicate whether each of these needs are within the scope of your proposal.
-
-When identifying the impact of your proposal, you should focus on the following areas:
 - **Target audience**
   - **Who are you expecting to impact based on your proposal?** Mainly CS and CE students who are interested in going to hackathons and/or gaining practical experience. However, I wouldn't be surprised if students of other disciplines, like business or design, wanted to come as well, as they also have skills that would be vital in a hackathon.
 - **Community needs**
