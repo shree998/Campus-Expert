@@ -1,0 +1,1 @@
+Hi! My name is John Pham and I am a 3rd year Computer Science student at the University of California Riverside. My interests interests are in visualizations, web development, and machine learning with experience working as a freelancer and from companies such as NASA's Jet Propulsion Laboratory and the Aerospace Corporation.
