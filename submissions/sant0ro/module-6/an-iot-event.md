@@ -130,6 +130,6 @@ The sponsorship packages are divided in: Bronze, Silver and Gold. Silver package
 | Silver | 25,000.00 | Total: 3, Now: 2 |
 | Gold | 50,000.00 | Total: 1, Now: 1 |
 
-<p align="center"><h3>Thanks</h3><b>Thanks for all the sponsors for made this event possible.</b><br><img src="http://imgur.com/iQU8c9L.png"></p>
+<h3 align="center">Thanks</h3><p align="center"><b>Thanks for all the sponsors for made this event possible.</b><br><img src="http://imgur.com/iQU8c9L.png"></p>
 
 
