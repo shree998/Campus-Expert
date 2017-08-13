@@ -94,6 +94,44 @@ The marketing section it's important to announce the event. This includes Facebo
 |  Item  |  Description  |  Price  |  Amount  |
 |--------|---------------|---------|----------|
 | Facebook + Twitter + Youtube Coverage Pack | All social media that we need | 4.000,00 | 1 |
-| Banners + Folders | 2.000,00 | 200 |
+| Banners + Folders | Banners and Folders for Adverteisement | 2.000,00 | 200 |
 
 ### Look & Feel
+
+The look & feel section it's about how the event will be.
+
+|  Item  |  Description  |  Price  |  Amount  |
+|--------|---------------|---------|----------|
+| Stands | The stands for our partners | 1,000.00 | 6 |
+| Logotype | A big banner for the entrances | 300.00 | 1 |
+| Section Banners | banners describing where you are | 100.00 | 4 |
+
+### Food & Drinks
+
+Section reserved for the future. The partnership between food vendors and the final price of the lunch, food, drinks, snacks need be calculated. Initial value of 3,000.00 it's calculated, by the Food&Drinks S.A.
+
+# For the Sponsors
+
+This section it's designed for the sponsors of the event. Here we will cover the sponsorship packages.
+
+### Packages
+
+The sponsorship packages are divided in: Bronze, Silver and Gold. Silver package have all benefits of Bronze, and Gold package have all benefits or Silver.
+
+#### What each package receives in benefit
+
+<img src="http://i.imgur.com/LMqsNan.png">
+
+#### What each Package need to pay.
+
+|  Package  |  Total amount | Slots Available |
+|-----------|---------------|-----------------|
+| Bronze | 10,000.00 | Total: 5, Now: 0 |
+| Silver | 25,000.00 | Total: 3, Now: 2 |
+| Gold | 50,000.00 | Total: 1, Now: 1 |
+
+### Thanks
+
+<p align="center"><b>Thanks for all the sponsors for made this event possible.</b><br><img src="http://imgur.com/iQU8c9L.png"></p>
+
+
