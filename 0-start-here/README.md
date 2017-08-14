@@ -1,12 +1,18 @@
 ![module-0-banner](https://user-images.githubusercontent.com/1790822/28998937-28374f98-7a05-11e7-828b-6fa51def47e0.png)
 
+# Did you enjoy this module? 👍👍
+_After completing the module, click an option below to select it. These answers help us improve content for you and future students._  
+
+[![](https://m131jyck4m.execute-api.us-west-2.amazonaws.com/prod/poll/01BQ932EFMQX4Y4R9DTKRRJJ14/I%20enjoyed%20this%20module)](https://m131jyck4m.execute-api.us-west-2.amazonaws.com/prod/poll/01BQ932EFMQX4Y4R9DTKRRJJ14/I%20enjoyed%20this%20module/vote)
+[![](https://m131jyck4m.execute-api.us-west-2.amazonaws.com/prod/poll/01BQ932EFMQX4Y4R9DTKRRJJ14/I%20did%20not%20enjoy%20this%20module)](https://m131jyck4m.execute-api.us-west-2.amazonaws.com/prod/poll/01BQ932EFMQX4Y4R9DTKRRJJ14/I%20did%20not%20enjoy%20this%20module/vote)
+
 # Getting Started 🚀
 
-This module walks you through everything you need to be able to follow the GitHub Campus Expert training. Follow the steps below before progressing on to module 1 - the introduction.
+This module walks you through everything you need to be able to follow the GitHub Campus Expert training. Follow the steps below before progressing on to module 1 - the introduction. If you are familiar with using GitHub, you can skip straight to the [instructions on completing an exercise](https://github.com/campus-experts/open-training/tree/master/0-start-here#completing-an-exercise).
 
 _TIP: If at any stage during this (or future) modules, you need help or are stuck, you can find out how to get support in the "Support" section of the [README.md](./README.md#support-)._
 
-**PRO-TIP** _This repository generates a lot of notifications. You should read [our guide](../docs/managing-notifications.md) on managing notifications._
+**PRO-TIP**: _This repository generates a lot of notifications. You should read [our guide](../docs/managing-notifications.md) on managing notifications._
 
 ## Learning Goals 🥅
 
@@ -25,6 +31,7 @@ The Campus Expert training features content from many creators. This content is 
 [Joe](https://github.com/joenash) is Student Program Manager at [GitHub](https://education.github.com), where his job is to tell students to capitalise the 'h' in GitHub. When he's not doing that, Joe maintains the Campus Expert program, supporting student leaders in building tech communities on campus. Joe is an unrepentant Haskell enthusiast, and has a weakness for the sparkle heart emoji 💖.  
 
 ## Video 📹
+_We try to accommodate a variety of learning styles. Every module contains a video, that covers the content of the module, as well as a written alternative. You can follow whichever works best for you._
 
 Youtube: https://www.youtube.com/watch?v=bKCa9LVacUk
 
@@ -52,8 +59,7 @@ We've named this file about.md because it is here that we're going to introduce 
 
 Once you've done that, scroll to the bottom of the page to find the "new commit" box. This is how we save this file: by creating a Git commit. Enter a short description such as "Introduced myself to the Campus Experts" and then hit the green button.
 
-Although we've made this directory and this file, it currently only exists in our copy of the repository, our fork. Now we need to bring these changes over to the original repository. To do that, navigate to https://github.com/campus-experts/open-training. You will see at the top of the page there is a banner asking if you want to "compare and pull request".
-Guess what? We do want to do that! So go ahead and click the green button.
+Although we've made this directory and this file, it currently only exists in our copy of the repository, our fork. Now we need to bring these changes over to the original repository. To do that, follow [this guide](https://help.github.com/articles/creating-a-pull-request-from-a-fork/).
 
 A pull request is like asking for a review: we have made some changes to this repository, and now we'd like someone to look at those, and if they like them, accept those changes into the original repository. Once you've clicked the green button, you'll have the opportunity to describe your changes. You will see that the box has some information in it already: this is a template. Whenever we make a pull request to the open-training repository, we should follow this template so that the trainers can help and review our changes as quickly as possible.
 
@@ -85,7 +91,7 @@ To complete an exercise:
 
 ## Keeping your fork in sync
 
-As more content is added to this repository and more people contribute, your fork will fall out of date. This can sometimes lead to tricky situations with your pull requests. It's recommended to occasionally [sync your fork with this repository](https://help.github.com/articles/syncing-a-fork/). 
+As more content is added to this repository and more people contribute, your fork will fall out of date. This can sometimes lead to tricky situations with your pull requests. It's recommended to occasionally [sync your fork with this repository](https://help.github.com/articles/syncing-a-fork/).
 
 ## Exercise 📝
 
@@ -125,10 +131,11 @@ This module is complete when:
 - You have created a fork of the repository.
 - You have created a directory, titled after your username, and an "about.md" file in the "submissions" directory of your fork.
 - You have submitted a pull request to the campus-experts/open-training repository to merge your changes.
+- You have completed the [survey](https://goo.gl/forms/yWLpRp4xycPs6PKS2).
 
 ## Campus Expert Benefits 🏅
 
 Every module completed allows a Campus Expert to access certain benefits. To become a Campus Expert, follow the instructions in the [Application module](../n+1-application/README.md).
 
 Completing this module earns:
-- The "Getting started" badge!
+- The "Getting started" [badge](../docs/badges.md).

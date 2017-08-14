@@ -1,5 +1,11 @@
 ![module-5-banner](https://user-images.githubusercontent.com/1790822/28998941-31bc9226-7a05-11e7-98e2-07e604f90c07.png)
 
+# Did you enjoy this module? 👍:-1:
+_After completing the module, click an option below to select it. These answers help us improve content for you and future students._  
+
+[![](https://m131jyck4m.execute-api.us-west-2.amazonaws.com/prod/poll/01BQ93C0JV9JMJA91TK6Y2QZJQ/I%20enjoyed%20this%20module)](https://m131jyck4m.execute-api.us-west-2.amazonaws.com/prod/poll/01BQ93C0JV9JMJA91TK6Y2QZJQ/I%20enjoyed%20this%20module/vote)
+[![](https://m131jyck4m.execute-api.us-west-2.amazonaws.com/prod/poll/01BQ93C0JV9JMJA91TK6Y2QZJQ/I%20did%20not%20enjoy%20this%20module)](https://m131jyck4m.execute-api.us-west-2.amazonaws.com/prod/poll/01BQ93C0JV9JMJA91TK6Y2QZJQ/I%20did%20not%20enjoy%20this%20module/vote)
+
 # Technical Writing 👩🏽‍💻🖍
 
 ## Learning Goals 🥅
@@ -78,11 +84,12 @@ This module is complete when:
 - You have improved or created a README for yours, or someone elses, project.
 - You have followed the instructions to submit.
 - Your pull request is merged! (note, your pull request for the exercise. Your improved pull request does not have to be accepted to the project you used.)
+- You have completed the [survey](https://goo.gl/forms/yWLpRp4xycPs6PKS2).
 
 ## Campus Expert Benefits 🏅
 
 Every module completed allows a Campus Expert to access certain benefits. To become a Campus Expert, you must complete a minimum number of training modules and then complete an application. More instructions can be found in the application module.
 
 Completing this module earns:
-- The "Technical writing" badge!
+- The "Technical writing" [badge](../docs/badges.md).
 - Support from GitHub content team in getting your writing to significant publications, including the GitHub blog.  
