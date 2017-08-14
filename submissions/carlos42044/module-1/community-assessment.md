@@ -7,7 +7,7 @@ My main community would be students around my university, Kean University, Union
 #### Ideal version:
 My ideal community would not only consist of the students in the CS department at Kean, but also students interested in CS. I would also like our local community college to join the community.
 #### Ideas on how to improve: 
-I would like to open up Kean's computer science meetings to not only Kean student's, but students from nearby highschools or community colleges. This would be a great way to get even more people interested in tech and get people together.
+I would like to open up Kean's computer science meetings to not only Kean student's, but students from nearby high schools or community colleges. This would be a great way to get even more people interested in tech and get people together.
 
 ## Size
 #### Current community: 
@@ -21,11 +21,11 @@ I would love to see Kean's CS department grow! I would also like high school stu
 
 Historically has the group been the same size?
 
-The community has been slowly growing along with Kean's CS department. As more students joing the CS department the community grows. 
+The community has been slowly growing along with Kean's CS department. As more students join the CS department the community grows. 
 #### Ideal version:
-Larger community of not only CS students, as well as students from nearby community college and highschool students interested in tech.
+Larger community of not only CS students, as well as students from nearby community college and high school students interested in tech.
 #### Ideas on how to improve: 
-Plan to communicate with local community colleges and highschools to invite students to Kean's ACM meetings.
+Plan to communicate with local community colleges and high schools to invite students to Kean's ACM meetings.
 
 ## Resources 
 #### Current community:
@@ -44,7 +44,7 @@ I really hope to gain the necessary skills to better serve my community by becom
 * Meetings are held during college hour, 3:30pm to 4:30pm.
 * Childcare is not available.
 #### Ideal Version: 
-Maybe try to somehow make meetings more available to those who cannot attent at college hour? Only problem is college hour is the one time that most students are available to meet.
+Maybe try to somehow make meetings more available to those who cannot attend at college hour? Only problem is college hour is the one time that most students are available to meet.
 #### Ideas on how to improve:
 Maybe ACM can live stream meetings so people can tune in from wherever they are.
 
@@ -63,7 +63,7 @@ I think people in the community mostly get involved hoping to ramp-up to get a j
 I would say one of my main goals for the community would be to offer better workshops to learn new skills and get people more interested in developing.
 
 ## Location 
-My community gathers at Kean's North Avenue Academic building. We typically meet around 3 times a month for ACM meetings. There is parking but only available to students, there are guest passes available. The location is very accessible, Kean is largely a commuter college so our members are already traveling to the school. Fortunately, we do not have to pay for the space where we meet. The space is set up lecture style, powerpoint ready. We have quite a few options where we can acommodate any where from 30 t0 120 students. There is comfortable seating. We offer pizza and refreshments during meetings.
+My community gathers at Kean's North Avenue Academic building. We typically meet around 3 times a month for ACM meetings. There is parking but only available to students, there are guest passes available. The location is very accessible, Kean is largely a commuter college so our members are already traveling to the school. Fortunately, we do not have to pay for the space where we meet. The space is set up lecture style, PowerPoint ready. We have quite a few options where we can accommodate anywhere from 30 t0 120 students. There is comfortable seating. We offer pizza and refreshments during meetings.
 
 #### Ideal Version: 
 I don't think our space can improve anymore than it already has. Our department used to be in an older building with limited space. We are now in a new building.
