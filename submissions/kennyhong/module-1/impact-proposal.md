@@ -20,6 +20,18 @@ The Proposal
 
 During the Campus Experts program, I hope to use what I learn to build on the current community and help it grow. I've looked into the different modules created by this program, and I believe that this is a great opportunity to learn a wealth of information and bring it back to the growing community. My role as an advisor to devClub is not to dictate what ideas should be implemented or organized. I will be there to help them grow their ideas and do everything within my power to help in the organization of the event they have in mind or the implementation of a new project that they want to start. On the side, I am able to organize events such as workshops and speakers to help supplement this community as well. To summarize the goals in the community assessment, we want students to learn what is in the world of technology outside of academia, but we want to expose this in a fun and engaging way. My proposal addresses these goals by gaining the knowledge to help the organizers plan and execute events without a hitch. Communication has already been established with the group. I want to provide support to this group in any way so that it grows and sets a precedent for the future iterations to come.
 
+Some modules I am looking to finish are:
+
+* Module 2: Community Management -> Estimated Due Date: September 3rd
+
+* Module 6: Fundraising -> Estimated Due Date: September 6th
+
+* Module 5: Technical Writing -> Estimated Due Date: September 10th
+
+* Module 3: Public Speaking -> Estimated Due Date: September 10th
+
+This can be expanded for the future.
+
 Proposal's Impact
 =================
 
