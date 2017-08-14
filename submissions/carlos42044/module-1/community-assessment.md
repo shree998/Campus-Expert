@@ -11,15 +11,15 @@ I would like to open up Kean's computer science meetings to not only Kean studen
 
 ## Size
 #### Current community: 
-* How many people in your community?
+How many people in your community?
 
 There are roughly 500 students in the CS department at Kean.
 
-* How many would you like to be in your community?
+How many would you like to be in your community?
 
 I would love to see Kean's CS department grow! I would also like high school students interested in CS to join my community. That being said if the community could grow by 40 or 50 people by the end of the year, that would be great!
 
-* Historically has the group been the same size?
+Historically has the group been the same size?
 
 The community has been slowly growing along with Kean's CS department. As more students joing the CS department the community grows. 
 #### Ideal version:
