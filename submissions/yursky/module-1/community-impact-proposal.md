@@ -1,14 +1,43 @@
 ## Summary of the Community's Needs
 
-Freetail Hackers is a really large and wide spread community that encompasses a lot of different sub groups. One of the biggest underlying problems of the current state of the community is the lack of physical community that we have throughout the year. I wish that people felt like they could find some of their closest friends through our community but that seems almost impossible from the current way we run things. 
+[Freetail Hackers](https://freetailhackers.com/) is a large and wide spread community that encompasses a lot of different sub groups. At 631 online members it is already a large community. We organize workshops, meetups, and hackathons for the student community at the **University of Texas at Austin**. We facilitate most of our community wide communication through online channels just as mailing lists or [facebook groups](https://www.facebook.com/groups/freetail/). Because of this, the culture within the group is not as close knit as I would like it to be. We are an extremely open community the reaches out to a lot of parts of campus to find people interested in hacker culture but I think we don't do enough to bring them together afterward. I feel like we need to do more to develop conversations that people have at our in person events and meetups and continue them outside of the planned spaces. Community engagement drops off significantly right after we have a meetup and I feel like we need to do something about it.
 
-The following pieces might help strengthen this section:
-- **Community demographics**: Include data gathered from your community assessment like: the size of the community that you are targeting with your proposal, the educational background of your community, and the resources they currently have at their disposal and how accessible they are to the community.
-- **Communication**: For a community to thrive, they need to be able to communicate with each other, identify how your community prefers to communicate.
-- **Culture**: Summarize the existing culture within the community you are working with.
+Some statistics for throughout the history of the facebook group:
+- **67 posts**
+- **23 authors**
+- **29 commenters**
+- **155 reactors**
+
+![post history image](./assets/history.png)
+
+Looking at the history of posts on the FB group we see that things drastically die down during break periods and when we don't have planned events. While this pattern is expected, I believe that effects this drastic show an underlying issue in the way we run the group.
+
+My proposal for bringing the Freetail Hackers community closer together centers around bringing more **social events** to the group. I think one of the biggest reasons that things tend to die out and not become more personal at our events is that they are not a conducive social atmosphere. Hackathons are great for meeting other individuals if they are of a more casual nature. But if there are big prizes on the line or if they have a strongly competitive atmosphere to them, it becomes difficult to socialize with hackers from other teams.
+
+In addition, workshops are a great format for learning about new things and getting hands on experience with a mentor nearby. But again, it doesn't facilitate meaningful discussions between attendees of the event.
 
 
 ## Your Proposal
+
+#### Plan of Attack
+
+Since *bringing more social events to the community*  is the overall goal, I see a few different styles of event to have.
+
+1. **Texas Traveling Hacker Meetups**
+2. **Develop the Freetail Hacker Identity**
+
+___
+
+#### Texas Traveling Hacker Meetups
+
+Most hackathons in Texas have a great relationship with each and send buses to other schools to bring hackers over to their own events. Since we are one of the largest universities in the state and have a pretty active traveling hacker community we are very lucky to almost always have at least one bus stop by our campus. I think it would be great if we could get all UT hackers that will be traveling to various other Texas hackathons to meet up around a week before the event to get to know other students that will be traveling with them whether on the bus or otherwise. This accomplish a few goals:
+
+- natural team formation
+- cross team communication
+- ideation
+- community development through a more casual environment
+
+I think this would be a great way to accomplish all of these things.
 
 In this section, articulate the project you want to accomplish during the Campus Experts program; provide a brief summary of what you are planning to accomplish with your project.
 

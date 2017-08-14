@@ -4,7 +4,7 @@
 Freetail Hackers is a community of UT Austin students that encourages and empowers anyone who wants to build cool tech, learn new skills, meet new people, and become a part of the hacker community.
 
 ### Size
-The facebook group for Freetail Hackers currently has 632 members at the time that I am writing this. However we don't feel as though we impact nearly that many people as closely as we want to. Our largest event, HackTX brings together about that many hackers into one place to learn together, but we don't end up doing as much as we want to facilitate our goals during the rest of the year. I guess in a weird way I hope for the community to become smaller and more close knit.
+The facebook group for [Freetail Hackers](https://freetailhackers.com/) currently has 631 members at the time that I am writing this. However we don't feel as though we impact nearly that many people as closely as we want to. Our largest event, HackTX brings together about that many hackers into one place to learn together, but we don't end up doing as much as we want to facilitate our goals during the rest of the year. I guess in a weird way I hope for the community to become smaller and more close knit.
 
 ### Resources
 As a group we organize multiple hackathons throughout the year. This serves as our main form of outreach and community engagement. I want to move towards more personal events like meetups for hackers going to certain hackathons or workshops. I feel like that will help in achieving the goal of introducing more people to the hacker community and not just hackathons in general.
@@ -29,6 +29,10 @@ It would be awesome if we could open up these meetups and workshops that we cond
 
 ### Communication
 Our main method of communication is on campus announcements and our facebook group. We have another dedicated facebook group, twitter account, and email list for all of our attendees of our flagship event, HackTX. I feel like it would be better to have a more direct or in person method of communication. In my opinion, word of mouth is always the best way to spread ideas.
+
+Post history over time in the fb group. (*Peaks whenever there is an event - dies down during the summer and other breaks*)
+
+![History image](./assets/history.png)
 
 ### Culture
 We welcome any and everyone interested in hacker culture! There is a place for everyone's skillset at a hackathon, the hard part comes with finding like minded people or finding a niche where you can meet others just as interested as yourself. We make a lot of our community and direction decisions as a team inside of our leadership committee. We have excellent conditions in place for when we internally disagree within the leadership team as a whole. However, I think one of our biggest weak points is being a little out of touch with the general opinion of all of our community members. A lot of our personal interactions occur during workshops or one on one debugging sessions at our events.
