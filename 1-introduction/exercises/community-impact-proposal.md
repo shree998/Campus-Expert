@@ -1,8 +1,6 @@
-Now that you've [thought about your community's needs](community-assessment.md), it's time to take some action! Use this template to help you fill out your proposal. We invite you to change the contents of this template around and use the embedded tips and evaluation criteria to help you make a :sparkles: impact on your community.
 
 ## Summary of the Community's Needs
 
-Provide a summary of what you learned from your community assessment, coupled with the feedback from others (like the opinion of other Campus Experts, community leaders, and stakeholders).
 
 The following pieces might help strengthen this section:
 - **Community demographics**: Include data gathered from your community assessment like: the size of the community that you are targeting with your proposal, the educational background of your community, and the resources they currently have at their disposal and how accessible they are to the community.
