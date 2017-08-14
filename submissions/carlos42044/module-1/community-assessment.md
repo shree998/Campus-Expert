@@ -61,3 +61,23 @@ Advertise ACM meetings throughout Kean's campus, not just in the CS building.
 ## Goals
 I think people in the community mostly get involved hoping to ramp-up to get a job. The ACM chapter at Kean helps students with resumes, internship applications, and interview prep. I would say that mostly the CS majors are passionate about developing. I've heard from many IT majors that they really don't like to develop.
 I would say one of my main goals for the community would be to offer better workshops to learn new skills and get people more interested in developing.
+
+## Location 
+My community gathers at Kean's North Avenue Academic building. We typically meet around 3 times a month for ACM meetings. There is parking but only available to students, there are guest passes available. The location is very accessible, Kean is largely a commuter college so our members are already traveling to the school. Fortunately, we do not have to pay for the space where we meet. The space is set up lecture style, powerpoint ready. We have quite a few options where we can acommodate any where from 30 t0 120 students. There is comfortable seating. We offer pizza and refreshments during meetings.
+
+#### Ideal Version: 
+I don't think our space can improve anymore than it already has. Our department used to be in an older building with limited space. We are now in a new building.
+
+## Communication
+We have a dedicated slack channel where every member of the ACM can join. We also have a twitter account where students can go look at pictures of events we've held.
+#### Ideal Version: 
+Ideally I would like to see more participation from students in the slack. Our slack is not very active. 
+#### How to improve: 
+I'd like to show off some of the features slack offers in an attempt to entice people to use it more. I also think I have to find more interesting material to post on the slack. 
+
+## Culture
+The ACM is very welcoming to new members. We try and be extremely helpful and open to anybody who wants to join us. We always try and be very welcoming. If there is a disagreement we like to take a moment to calm down and talk it out. We find its often better to walk away from a situation and cool down, then come back with a level head to resolve the situation. I do not think there are any procedures documented or in place. I would personally ask the participants to take a moment and think about the situation from the other party's point of view. 
+#### Ideal Version: 
+I would like to open up a suggestion box to see what the ACM can improve on. I think it's also a good idea to document how to handle disagreements.
+#### How to improve: 
+It will be a good idea to talk to the members of the community and agree on a policy or procedure to deal with disagreements.
