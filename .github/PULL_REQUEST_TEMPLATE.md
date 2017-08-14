@@ -16,3 +16,5 @@ DELETE THIS SECTION AFTER COMPLETING
 You've completed a module, congratulations! Please now complete the survey below. This survey helps us improve the training for you and future students.
 
 SURVEY: https://goo.gl/forms/yWLpRp4xycPs6PKS2.
+
+ONCE YOUR PR IS OPENED it will be reviewed as soon as possible, you can find more information about reviews here: https://github.com/campus-experts/open-training/docs/review-and-response.md

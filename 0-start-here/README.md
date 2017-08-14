@@ -61,7 +61,7 @@ Once you've done that, scroll to the bottom of the page to find the "new commit"
 
 Although we've made this directory and this file, it currently only exists in our copy of the repository, our fork. Now we need to bring these changes over to the original repository. To do that, follow [this guide](https://help.github.com/articles/creating-a-pull-request-from-a-fork/).
 
-A pull request is like asking for a review: we have made some changes to this repository, and now we'd like someone to look at those, and if they like them, accept those changes into the original repository. Once you've clicked the green button, you'll have the opportunity to describe your changes. You will see that the box has some information in it already: this is a template. Whenever we make a pull request to the open-training repository, we should follow this template so that the trainers can help and review our changes as quickly as possible.
+A pull request is like asking for a review: we have made some changes to this repository, and now we'd like someone to look at those, and if they like them, accept those changes into the original repository. Once you've clicked the green button, you'll have the opportunity to describe your changes. You will see that the box has some information in it already: this is a template. Whenever we make a pull request to the open-training repository, we should follow this template so that the trainers can help and [review](../docs/review-and-response.md) our changes as quickly as possible.
 
 Follow the template now, being sure to follow instructions about how to set the title and the correct labels.
 
@@ -87,7 +87,7 @@ To complete an exercise:
 - Navigate back to the original "open-training" repository.
 - Start a pull request with your changes.
 - Follow the pull request template to complete the title, description, and labels.
-- Wait for review!
+- Wait for [review](../docs/review-and-response.md)!
 
 ## Keeping your fork in sync
 

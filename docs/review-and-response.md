@@ -14,4 +14,4 @@ We review submissions as fast as we can. Some modules submissions take longer th
 
 ## Review notices
 
-- 2017 August 14th: Reviews may take longer than usual as @joenash is on vacation until the 17th August. 
+- 2017 August 14th: Reviews may take longer than usual as @joenash is on vacation until the 17th August.
