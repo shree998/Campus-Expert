@@ -28,12 +28,16 @@ Larger community of not only CS students, as well as students from nearby commun
 Plan to communicate with local community colleges and highschools to invite students to Kean's ACM meetings.
 
 ## Resources 
-#### What is currently available in your community to learn about tech?
+#### Current community:
+What is currently available in your community to learn about tech?
+
 We have monthly ACM meetings where all students are free to attend and learn more about events the CS department is hosting. The ACM club has also traditionally held informative workshops. Students also have access to 2 netlabs furnished with computers and whiteboards. CS department office hours are typically from 9am - 4pm.
 
 Kean has also held 4 hackathons in the past. We hope to host up to 200-250 students for the upcoming 2018 hackathon.
 #### Ideal Version: 
 Ideally I would like to be able to offer more workshops to students to improve and learn new technologies.
+#### Ideas on how to improve:
+I really hope to gain the necessary skills to better serve my community by becoming a Campus Expert! I also plan to take advantage of the mlh localhost program to give better and more informative tech workshops.
 
 ## Accessibility
 * Currently resources are only accessible to Kean University students.
