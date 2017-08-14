@@ -1,6 +1,6 @@
 ![module-5-banner](https://user-images.githubusercontent.com/1790822/28998941-31bc9226-7a05-11e7-98e2-07e604f90c07.png)
 
-# Did you enjoy this module? 👍👍
+# Did you enjoy this module? 👍:-1:
 _After completing the module, click an option below to select it. These answers help us improve content for you and future students._  
 
 [![](https://m131jyck4m.execute-api.us-west-2.amazonaws.com/prod/poll/01BQ93C0JV9JMJA91TK6Y2QZJQ/I%20enjoyed%20this%20module)](https://m131jyck4m.execute-api.us-west-2.amazonaws.com/prod/poll/01BQ93C0JV9JMJA91TK6Y2QZJQ/I%20enjoyed%20this%20module/vote)

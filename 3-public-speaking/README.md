@@ -52,8 +52,8 @@ The exercise for this module is to create a proposal for a talk. You can find a 
 
 - [Demystifying public speaking](https://abookapart.com/products/demystifying-public-speaking)
 - [What Your Conference Proposal is Missing](http://www.sarahmei.com/blog/2014/04/07/what-your-conference-proposal-is-missing/)
-- [We are all awesome](https://weareallaweso.me), advice for first time speakers
-- [Speaking.io](https://speaking.io) advice for speakers
+- [We are all awesome](http://weareallaweso.me), advice for first time speakers
+- [Speaking.io](http://speaking.io) advice for speakers
 - [Papercall](http://papercall.io), [Technically Speaking](https://tinyletter.com/techspeak) or [Eventil](eventil.com), places to find conferences you can submit talks to
 
 ## Support 🙋🏿
