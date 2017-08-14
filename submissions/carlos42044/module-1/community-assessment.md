@@ -43,8 +43,21 @@ I really hope to gain the necessary skills to better serve my community by becom
 * Currently resources are only accessible to Kean University students.
 * Meetings are held during college hour, 3:30pm to 4:30pm.
 * Childcare is not available.
+#### Ideal Version: 
+Maybe try to somehow make meetings more available to those who cannot attent at college hour? Only problem is college hour is the one time that most students are available to meet.
+#### Ideas on how to improve:
+Maybe ACM can live stream meetings so people can tune in from wherever they are.
 
 ## Interests
-Currently the community is made up of the CS department at Kean. That includes CS majors, IT majors, and CIS majors. I would like the community to include people who are interested in tech, not just CS students.
+#### Current community:
+Currently the community is made up of the CS department at Kean. That includes CS majors, IT majors, and CIS majors. I would like the community to include people who are interested in tech, not just CS students. 
 
 There are students in the community who get together and play video games or share hobby's such as photography.
+#### Ideal Version:
+I'd like the community to be more inclusive of students of all majors who are interested in tech.
+#### How to improve:
+Advertise ACM meetings throughout Kean's campus, not just in the CS building.
+
+## Goals
+I think people in the community mostly get involved hoping to ramp-up to get a job. The ACM chapter at Kean helps students with resumes, internship applications, and interview prep. I would say that mostly the CS majors are passionate about developing. I've heard from many IT majors that they really don't like to develop.
+I would say one of my main goals for the community would be to offer better workshops to learn new skills and get people more interested in developing.
