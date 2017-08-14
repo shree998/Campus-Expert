@@ -5,13 +5,13 @@ I define my community as students interested in technology at McMaster Universit
 
 # Size 
 
-At current, we reach around 500 students. I would like to expand this community to at least 800. I would also like to enhance the community that we have in place. The community at the moment, is very scattered, and there is not a lot of hype around PhaseOne activities, so I would like to better the participant experience, and try to get them more involved in our events. 
+At current, we reach around 500 students. I would like to expand this community to at least 800. I would also like to enhance the community that we have in place. The community at the moment, is very scattered, and there is not a lot of hype around PhaseOne activities, so I would like to better the participant experience, and try to get them more involved in our events. This is a long term vision between 2-3 years.  
 
 The group has always been around the same size. 
 
 # Resources 
 
-We have weekly CodeNights, each night with a different focus. This allows many students to dip their feet into new technologies that they may not otherwise have access to such as Arduinos, 3D printing tutorials, IOT ideas, Web Development Tutorials, and many others. 
+We have weekly CodeNights, each night with a different focus. This allows many students to dip their feet into new technologies that they may not otherwise have access to such as Arduinos, 3D printing tutorials, IOT ideas, Web Development Tutorials, and many others. While attendance is lower than I would like, this is one of the things that I would like to target this coming year. 
 
 Under PhaseOne, we run DeltaHacks, an annual hackathon at McMaster University for social change. DeltaHacks was formed when members of our community realized that there were not many social impact related hackathons in Canada, so we started our own. This focus proved very useful throughout the years, as a lot of our winning projects involved health care industry applications such as helping doctors with diagnostics, and helping patients better their hospital experience.
 
