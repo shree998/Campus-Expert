@@ -17,18 +17,19 @@ My proposal for bringing the Freetail Hackers community closer together centers 
 In addition, workshops are a great format for learning about new things and getting hands on experience with a mentor nearby. But again, it doesn't facilitate meaningful discussions between attendees of the event.
 
 
-## Your Proposal
+## The Proposal
 
-#### Plan of Attack
+#### Plan of Attack 👊
 
 Since *bringing more social events to the community*  is the overall goal, I see a few different styles of event to have.
 
 1. **Texas Traveling Hacker Meetups**
-2. **Develop the Freetail Hacker Identity**
+2. **Technology Oriented Meetups**
+3. **More casual events such as board game nights**
 
 ___
 
-#### Texas Traveling Hacker Meetups
+##### Texas Traveling Hacker Meetups
 
 Most hackathons in Texas have a great relationship with each and send buses to other schools to bring hackers over to their own events. Since we are one of the largest universities in the state and have a pretty active traveling hacker community we are very lucky to almost always have at least one bus stop by our campus. I think it would be great if we could get all UT hackers that will be traveling to various other Texas hackathons to meet up around a week before the event to get to know other students that will be traveling with them whether on the bus or otherwise. This accomplish a few goals:
 
@@ -37,44 +38,105 @@ Most hackathons in Texas have a great relationship with each and send buses to o
 - ideation
 - community development through a more casual environment
 
-I think this would be a great way to accomplish all of these things.
+I think this would be a great way to accomplish all of these things. In addition, this would provide a fun way to develop the Freetail Hacker member identity by perhaps handing out event oriented or community oriented swag such as stickers on board the bus to event. This would help members of Freetail Hackers to recognize others at the event that are traveling with them and function as a sort of badge of honor/camaraderie. (This sounds so cool to me. 😁)
 
-In this section, articulate the project you want to accomplish during the Campus Experts program; provide a brief summary of what you are planning to accomplish with your project.
+| Hackathon | Date                                    
+| ---|---:                          
+| HackTX | Oct 28-29                           
+| HackRice | Sep 22-24
+| HackUTA | Sep 30 - Oct 1
+| TamuHack | TBA
+| RowdyHacks | TBA
+| HackWesTx | TBA
+| RGV Hackathon? | TBA
 
-The following pieces might help strengthen this section:
-- **Timing**: For most of you, it'll be nearing summer as you finish the training. This means exams, end of semester, and students disappearing to go on internships. This means it might be best to consider an event that happens after you return in the new semester: think about the impact that the new students will have on the event, and what the effect of students graduating will be.
-- **Community demographics**: If you are planning on increasing the size of the community, identify ways you are planning on accomplishing that. Explain how your efforts might help you create a more diverse community.
-- **Goals**: You identified the goals of your community assessment. Include a summary of those goals and how your proposal addresses those goals.
-- **Communication**: For a community to thrive, they need to be able to communicate with each other, identify how your community will be able to stay in-contact. This includes in-person meetings, webinars, and chat/forum platforms.
+These are the dates of most of the major Texas hackathons that come to mind for me. It would be ideal if we could have a meetup before each one. 🙌
+___
 
+##### Tech Oriented Meetups
+
+Tech oriented meetups would facilitate to bring together hackers excited about a specific technology. These would be structured differently from workshops as they would not have a required program to demand attention from attendees. Instead, these would facilitate group discussions to bring other students together.
+
+These could also be integrated with existing hackathons that we put on in a "week of hacks" scenario leading up to the event.
+
+Another scenario where these events could be implemented is whenever certain technologies hit the news or a big announcement is made. These discussions could be made to facilitate discussions related to just that topic. For example, at the time of writing this OpenAI just built an AI successfully beat one of the worlds best Dota 2 players in a 1v1 competition. It would be awesome to have a meetup with discussion points prepared about the significance of this achievement.
+
+I think these type of meetups work well for broad categories of interest and not smaller more specific ones. Mostly because its harder to gather together a group of people who have a very specific field of interest.
+
+**Some topics and ideas**:
+
+- Machine Learning
+- Security
+- Web Development
+- Games Development
+- Hardware Hacking
+
+I think the most important thing is to gauge interest from our existing community before going forward and starting a program similar to this. We would need to see what interests the community has beforehand.
+
+**Timeline**:
+
+1. Survery interest within the first week of the semester
+2. Reassess after preliminary data arrives.
+
+___
+
+##### Casual/Fun Meetups! 🎲 🎮
+
+The idea here would be to host meetups where all we do is play board games, hang out, or just talk. This is a weird idea because I feel like it treads dangerously close to not fulfilling the goals of the original community.
+
+Another avenue to approach this idea from is to bring things like board games and video games to existing meetups for traveling hackers or tech topics as discussed above. What this may accomplish is provide another bonding and ice breaker experience to attendees at our events.
+
+While it is true that people have multiple interests and oftentimes these overlap in communities such as this, I feel like it would be almost rude to tread on the toes of an existing community. This is definitely an idea that I would want to discuss with others before considering it any further.
 
 ## Your Proposal's Impact
 
-In this section, analyze your community's needs against what your proposal aims to accomplish.
-Itemize each of the needs you hope to address with your proposal and indicate whether each of these needs are within the scope of your proposal.
-
-When identifying the impact of your proposal, you should focus on the following areas:
-- Target audience
-  - Who are you expecting to impact based on your proposal?
-- Community needs
-  - What specific issue are you addressing with your proposal?
+- *Target audience*
+  - Students interested in hacker culture at UT 🤘
+- *Community needs*
+  - The lack of personal relationships and 1 on 1 interactions created by Freetail Hackers.
 - Resources
-  - What resources do you need to accomplish your proposal?
-  - How will you obtain those resources?   
+  - We don't need much to accomplish our goals. The only things I could imagine needing are stickers for distribution to traveling hackers and any resources we might need to give workshops
+  - We have funds set aside for community outreach at our event!
 - Media
-  - How are you preparing to deliver your community impact project?
-  - What are you going to do to prepare to deliver the content?
+  - We will perform outreach through various social media streams. (fb, twitter)
+  - Hopefully we will just need to create the custom assets for the events that we want to host and go from there. If we need to do any specialized outreach or community focusing that will become evident during a later check in period.
 - Content knowledge
-  - How knowledgeable are you on about the topic your community impact project focuses on?
-  - What resources do you have at your disposal to enhance that knowledge?
+  - I have a lot of personal experience with hosting workshops and leading ice breaker sessions for new groups of people so hopefully I will be able to identify any pain points that arise throughout hosting our events.
+  - I think the most valuable method of developing knowledge related to these topics would be hosting these meetups. In terms of technical knowledge for putting on hackathons, I have the whole interwebs at my disposal! 🕸
 - Timeline
-  - Develop a rough timeline for your community impact project.
-  - If you are presenting content, identify the timing of your presentation.
 
+```
+┌───────────────────────────────────────────────────┐   .
+│   Survey Student Hackers on Topics - August 28    ├──( )
+└───────────────────────────────────────────────────┘   │
+                                                        │
+                                                        │
+┌───────────────────────────────────────────────────┐   │
+│    Meetup for HackRice and HackUTA - Sep 10-15    ├──( )
+└───────────────────────────────────────────────────┘   │
+                                                        │
+                                                        │
+┌───────────────────────────────────────────────────┐   │
+│    Have first tech oriented meetup - Early Oct    ├──( )
+└───────────────────────────────────────────────────┘   │
+                                                        │
+                                                        │
+                             ┌──────────────────────┐   │
+                             │  HackTX ! - Oct 28   ├──( )
+                             └──────────────────────┘   │
+                                                        │
+                                                        │
+     ┌──────────────────────────────────────────────┐   │
+     │  First Assessment and Next Planning Session  ├──( )
+     └──────────────────────────────────────────────┘   '
+
+```
 ## Planning for the Future
 
-In this section, think about how your efforts can expand beyond this 8-week program. Some questions you can answer that might help strengthen this section are:
+We will review the performance of current strategy in late October immediately following HackTX.
 
-- When will you review the impact of your proposal?
-- How will you measure success?
-- How frequently will you iterate on your community plans?
+It will be difficult to create an objective metric for measurement the success of this project. Activity on the fb group is a way of measuring success however not completely indicative of the overall activity in the community at large.
+
+Hopefully we will be able to succeed in building more personal interactions in Freetail Hackers!
+
+🍊
