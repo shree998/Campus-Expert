@@ -18,7 +18,6 @@ People learn better when they can learn with a community of likeminded peers. A 
 
 To become a Campus Expert, you must complete the following:
 
-- [Module 0](/0-start-here) - Getting Started.
 - [Module 1](/1-introduction) - Introduction.
 - At least 3 other modules.
 
@@ -38,7 +37,7 @@ _PLEASE NOTE_: We try to accommodate a variety of learning styles. The videos ar
 
 ## How do I choose which modules to complete?
 
-Every Campus Expert should start with the Introduction module. During this module, you will gain a much better understanding of your community, and what you need to learn in order to make your community shine. Completing the Introduction module will guide your further module choices.
+Every Campus Expert should start with Module 0, Getting Started. If you are familiar with GitHub, you can skip straight to the [instructions on completing an exercise](https://github.com/campus-experts/open-training/tree/master/0-start-here#completing-an-exercise). During this module, you will gain a much better understanding of your community, and what you need to learn in order to make your community shine. Completing the Introduction module will guide your further module choices.
 
 ## What training modules are available?
 

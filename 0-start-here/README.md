@@ -8,7 +8,7 @@ _After completing the module, click an option below to select it. These answers 
 
 # Getting Started 🚀
 
-This module walks you through everything you need to be able to follow the GitHub Campus Expert training. Follow the steps below before progressing on to module 1 - the introduction.
+This module walks you through everything you need to be able to follow the GitHub Campus Expert training. Follow the steps below before progressing on to module 1 - the introduction. If you are familiar with using GitHub, you can skip straight to the [instructions on completing an exercise](https://github.com/campus-experts/open-training/tree/master/0-start-here#completing-an-exercise).
 
 _TIP: If at any stage during this (or future) modules, you need help or are stuck, you can find out how to get support in the "Support" section of the [README.md](./README.md#support-)._
 
