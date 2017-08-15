@@ -1,5 +1,11 @@
 ![module-3-banner](https://user-images.githubusercontent.com/1790822/28998963-b12c375a-7a05-11e7-8fbc-7199bafca144.png)
 
+# Did you enjoy this module? 👍👎
+_After completing the module, click an option below to select it. These answers help us improve content for you and future students._  
+
+[![](https://m131jyck4m.execute-api.us-west-2.amazonaws.com/prod/poll/01BQ938NSBAH7F0R209S3T9THE/I%20enjoyed%20this%20module)](https://m131jyck4m.execute-api.us-west-2.amazonaws.com/prod/poll/01BQ938NSBAH7F0R209S3T9THE/I%20enjoyed%20this%20module/vote)
+[![](https://m131jyck4m.execute-api.us-west-2.amazonaws.com/prod/poll/01BQ938NSBAH7F0R209S3T9THE/I%20did%20not%20enjoy%20this%20module)](https://m131jyck4m.execute-api.us-west-2.amazonaws.com/prod/poll/01BQ938NSBAH7F0R209S3T9THE/I%20did%20not%20enjoy%20this%20module/vote) 
+
 # Public Speaking 📣💁🏽
 
 ## Learning Goals 🥅
@@ -46,8 +52,8 @@ The exercise for this module is to create a proposal for a talk. You can find a 
 
 - [Demystifying public speaking](https://abookapart.com/products/demystifying-public-speaking)
 - [What Your Conference Proposal is Missing](http://www.sarahmei.com/blog/2014/04/07/what-your-conference-proposal-is-missing/)
-- [We are all awesome](https://weareallaweso.me), advice for first time speakers
-- [Speaking.io](https://speaking.io) advice for speakers
+- [We are all awesome](http://weareallaweso.me), advice for first time speakers
+- [Speaking.io](http://speaking.io) advice for speakers
 - [Papercall](http://papercall.io), [Technically Speaking](https://tinyletter.com/techspeak) or [Eventil](eventil.com), places to find conferences you can submit talks to
 
 ## Support 🙋🏿
@@ -80,12 +86,13 @@ This module is complete when:
 - You have completed the write a proposal exercise.
 - You have followed the instructions to submit.
 - Your pull request is merged!
+- You have completed the [survey](https://goo.gl/forms/yWLpRp4xycPs6PKS2).
 
 ## Campus Expert Benefits 🏅
 
 Every module completed allows a Campus Expert to access certain benefits. To become a Campus Expert, you must complete a minimum number of training modules and then complete an application. More instructions can be found in the application module.
 
 Completing this module earns:
-- The "Public Speaking" badge!
+- The "Public Speaking" [badge](../docs/badges.md).
 - An ebook copy of "Demystifying Public Speaking"
 - Eligibility for speaking opportunity travel support. Campus Experts who have completed this module can apply for funding to support travel and attendance at conferences or events where they may be speaking. You may also be invited to give talks at GitHub events and conferences, such as Field Day, Satellite and Universe.

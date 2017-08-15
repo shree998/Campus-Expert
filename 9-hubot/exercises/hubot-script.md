@@ -21,7 +21,7 @@ Once you have written your Hubot script, include it in a file called "module-2.m
 
 - Navigate to your fork, at https://github.com/YOUR-USERNAME/open-training.
 - Create a new branch.
-- Navigate to submissions/YOUR-USERNAME and create a new file named "module-2.md".
+- Navigate to submissions/YOUR-USERNAME and create a new file named "module-9.md".
 - Enter the contents of your completed exercise, as described above.
 - Commit the file.
 - Navigate to https://github.com/campus-experts/open-training.
