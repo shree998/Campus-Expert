@@ -28,7 +28,7 @@ Completing this module earns:
 - An ebook copy of "Demystifying Public Speaking"
 - Eligibility for speaking opportunity travel support. Campus Experts who have completed this module can apply for funding to support travel and attendance at conferences or events where they may be speaking. You may also be invited to give talks at GitHub events and conferences, such as Field Day, Satellite, and Universe.
 
-## Module 4 - Community Management
+## Module 4 - Workshop Development
 
 Completing this module earns:
 - The "Workshop development" badge!
@@ -62,6 +62,12 @@ Completing this module earns:
 Completing this module earns:
 - The "Hubot" badge!
 - Eligibility for funding support to host GraphQL workshops on your campus or at hackathons GitHub supports.
+
+## Module 10 - Opensource Clubs
+
+Completing this module earns:
+- The "Opensource Clubs" badge.
+- Access to funding in support of your opensource club activities.
 
 ## Application
 

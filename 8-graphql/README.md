@@ -1,5 +1,13 @@
 ![module-8-banner](https://user-images.githubusercontent.com/1790822/28998944-37647626-7a05-11e7-846d-ee250d31d8d9.png)
 
+# Did you enjoy this module? 👍👍
+_After completing the module, click an option below to select it. These answers help us improve content for you and future students._  
+
+
+[![](https://m131jyck4m.execute-api.us-west-2.amazonaws.com/prod/poll/01BQ93GH3VS8GRJKTWJVTMRN4X/I%20enjoyed%20this%20module)](https://m131jyck4m.execute-api.us-west-2.amazonaws.com/prod/poll/01BQ93GH3VS8GRJKTWJVTMRN4X/I%20enjoyed%20this%20module/vote)
+[![](https://m131jyck4m.execute-api.us-west-2.amazonaws.com/prod/poll/01BQ93GH3VS8GRJKTWJVTMRN4X/I%20did%20not%20enjoy%20this%20module)](https://m131jyck4m.execute-api.us-west-2.amazonaws.com/prod/poll/01BQ93GH3VS8GRJKTWJVTMRN4X/I%20did%20not%20enjoy%20this%20module/vote)
+
+
 # GraphQL 📈⁉️
 
 ## Learning Goals 🥅
@@ -30,6 +38,8 @@ Youtube: https://www.youtube.com/watch?v=PPWWPLuN4nU
 
 ## Introduction 👋
 
+_Please follow these [pre workshop instructions](https://gist.github.com/wilhelmklopp/96309b04f67d4ac029d1880ca26fc2aa) before following the workshop._
+
 In this module, you'll learn about GraphQL from Fall 2016 Campus Expert, and GitHub Education intern, Wilhelm Klopp. Wilhelm delivered this workshop, along with GitHub platform engineer, Brooks Swinnerton, to the Spring 2017 cohort of campus experts.
 
 This workshop features live examples and interactive exercises heavily, so it is recommended you watch the video. If you are unable to follow the video, the GitHub Professional Services team offer an online GraphQL training course that is a good alternative.
@@ -43,6 +53,7 @@ During the video, Wilhelm set multiple challenges for using GraphQL. The exercis
 ## Resources 📖
 
 - [GitHub GraphQL training](https://services.github.com/on-demand/graphql/)
+- [Pre workshop instructions](https://gist.github.com/wilhelmklopp/96309b04f67d4ac029d1880ca26fc2aa)
 
 ## Support 🙋🏿
 
@@ -74,11 +85,12 @@ This module is complete when:
 - You have completed the challenges in the video.
 - You have followed the steps to submit.
 - Your pull request is merged!
+- You have completed the [survey](https://goo.gl/forms/yWLpRp4xycPs6PKS2).
 
 ## Campus Expert Benefits 🏅
 
 Every module completed allows a Campus Expert to access certain benefits. To become a Campus Expert, you must complete a minimum number of training modules and then complete an application. More instructions can be found in the application module.
 
 Completing this module earns:
-- The "GraphQL" badge.
+- The "GraphQL" [badge](../docs/badges.md).
 - Eligibility for funding support to host GraphQL workshops on your campus or at hackathons GitHub supports.

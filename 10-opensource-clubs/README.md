@@ -1,6 +1,12 @@
 ![module-10-banner](https://user-images.githubusercontent.com/1790822/28998947-3af4f2f2-7a05-11e7-97c5-5701a171d152.png)
 
-# Open Source Clubs
+# Did you enjoy this module? 👍👎
+_After completing the module, click an option below to select it. These answers help us improve content for you and future students._  
+
+[![](https://m131jyck4m.execute-api.us-west-2.amazonaws.com/prod/poll/01BQ93HQ6J3E3MYCKGM9R8V6N9/I%20enjoyed%20this%20module)](https://m131jyck4m.execute-api.us-west-2.amazonaws.com/prod/poll/01BQ93HQ6J3E3MYCKGM9R8V6N9/I%20enjoyed%20this%20module/vote)
+[![](https://m131jyck4m.execute-api.us-west-2.amazonaws.com/prod/poll/01BQ93HQ6J3E3MYCKGM9R8V6N9/I%20did%20not%20enjoy%20this%20module)](https://m131jyck4m.execute-api.us-west-2.amazonaws.com/prod/poll/01BQ93HQ6J3E3MYCKGM9R8V6N9/I%20did%20not%20enjoy%20this%20module/vote)
+
+# Open Source Clubs 📖♣️
 
 ## Learning Goals 🥅
 
@@ -51,10 +57,12 @@ This module is complete when:
 - You have completed your proposal document.
 - You have followed the instructions to submit.
 - Your pull request is merged!
+- You have completed the [survey](https://goo.gl/forms/yWLpRp4xycPs6PKS2).
 
 ## Campus Expert Benefits 🏅
 
 Every module completed allows a Campus Expert to access certain benefits. To become a Campus Expert, you must complete a minimum number of training modules and then complete an application. More instructions can be found in the application module.
 
 Completing this module earns:
-- The "Open Source Clubs" badge!
+- The "Open Source Clubs" [badge](../docs/badges.md).
+- Access to funding in support of your opensource club activities.

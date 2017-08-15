@@ -46,7 +46,7 @@ When identifying the impact of your proposal, you should focus on the following 
 
 ## Planning for the Future
 
-In this section, think about how your efforts can expand beyond this 8-week program. Some questions you can answer that might help strengthen this section are:
+In this section, think about how your efforts can expand through your time as a Campus Expert. Some questions you can answer that might help strengthen this section are:
 
 - When will you review the impact of your proposal?
 - How will you measure success?
