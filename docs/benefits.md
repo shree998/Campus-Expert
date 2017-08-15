@@ -61,7 +61,7 @@ Completing this module earns:
 
 Completing this module earns:
 - The "Hubot" badge!
-- Eligibility for funding support to host GraphQL workshops on your campus or at hackathons GitHub supports.
+- Eligibility for funding support to host Hubot workshops on your campus or at hackathons GitHub supports.
 
 ## Module 10 - Opensource Clubs
 
