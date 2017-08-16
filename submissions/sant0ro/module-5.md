@@ -1,3 +1,5 @@
+<sup>see this repository <a href="https://github.com/uiot/raise">here</a></sup>
+
 <p align="center">
   <img src="http://imgur.com/iQU8c9L.png"/>
   <h4 align="center">RAISe</h4>
@@ -116,4 +118,4 @@ You can also **fetch** the [API Documentation](docs/) and check it **online** by
 
 <br>
 <br>
-<img align="right" src="http://imgur.com/l5hOjj4.gif">
+<p align="right"><img src="http://imgur.com/l5hOjj4.gif"><br><sup>Repository Under <a href="https://github.com/uiot/raise/blob/sbr/LICENSE.md">MIT</a> License. Supported by the University of Brasília</sup></p>
