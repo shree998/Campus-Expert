@@ -24,7 +24,7 @@ Our community mainly communicates through our [Telegram](https://t.me/ComputerSc
 
 Our cultuer it's a lot **diversified**, really. We have people from many different IT areas, students, non-students, olders, youngers, milleniums, and woah, a really big **set** of cultures (asian, portuguese, brazilian, german... a ton.).
 
-We focus on equality of genre and of culture, in terms of preservation and respect. But we don't create quotas for genres or cultures. Everyone it's invited. Our culture it's focused in [learning, familly, prosperity].
+We focus on equality (and diversity) of gender and culture, in terms of preservation and respect. But we don't create quotas for genres or cultures. Everyone it's invited. Our culture it's focused in [learning, familly, prosperity].
 
 ## Your Proposal
 
