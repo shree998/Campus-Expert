@@ -88,30 +88,31 @@ The finnancial part of the event it's divided in four areas: Logistic, Marketing
 
 The logistic section need to be backed by paying the event staffs, security, transport and others.
 
-|  Item  |  Description  |  Price  |  Amount  |
-|--------|---------------|---------|----------|
-| Staffs | The staffs will be maintain the event, selling tickets, and other stuff. Each staff will receive BRL 400,00 peer day worked. (two days) | 400,00 * 5 * 2 | At least 5 |
-| Security | Security... it's security, you know. | 800 * 5 * 2 | At least 5 |
-| Van | The official way of transport for the staffs and other stuff | 500 * 2 | At least 1 |
+|  Item  |  Description  |  Price  |  Amount  | Total Cost |
+|--------|---------------|---------|----------|------------|
+| Staffs | The staffs will be maintain the event, selling tickets, and other stuff. Each staff will receive BRL 400,00 peer day worked. (two days) | $400,00 | At least 5 | $4,000.00 |
+| Security | Security... it's security, you know. | $800.00 | At least 5 | $4,000.00 |
+| Van | The official way of transport for the staffs and other stuff | 500 | At least 1 | $1,000.00 |
 
 ### Marketing
 
 The marketing section it's important to announce the event. This includes Facebook Page, Facebook Adverteisement, Twitter too, Banners and Folders.
 
-|  Item  |  Description  |  Price  |  Amount  |
-|--------|---------------|---------|----------|
-| Facebook + Twitter + Youtube Coverage Pack | All social media that we need | 4.000,00 | 1 |
-| Banners + Folders | Banners and Folders for Adverteisement | 2.000,00 | 200 |
+|  Item  |  Description  |  Price  |  Amount  | Total Cost |
+|--------|---------------|---------|----------|------------|
+| Facebook + Twitter + Youtube Coverage Pack | All social media that we need | $4.000,00 | 1 | $4.000,00 
+| Banners | Banners for Adverteismenet | $200.00 | 6 | $1,200.00 |
+| Folders | Folders for Adverteisement | $5.00 | 200 | $1,000.00 |
 
 ### Look & Feel
 
 The look & feel section it's about how the event will be.
 
-|  Item  |  Description  |  Price  |  Amount  |
-|--------|---------------|---------|----------|
-| Stands | The stands for our partners | 1,000.00 | 6 |
-| Logotype | A big banner for the entrances | 300.00 | 1 |
-| Section Banners | banners describing where you are | 100.00 | 4 |
+|  Item  |  Description  |  Price  |  Amount  | Total Cost |
+|--------|---------------|---------|----------|------------|
+| Stands | The stands for our partners | $1,000.00 | 6 | $6,000.00 |
+| Logotype | A big banner for the entrances | $300.00 | 1 | $300.00 |
+| Section Banners | banners describing where you are | $100.00 | 4 | $400.00 |
 
 ### Food & Drinks
 
@@ -131,11 +132,11 @@ The sponsorship packages are divided in: Bronze, Silver and Gold. Silver package
 
 #### What each Package need to pay.
 
-|  Package  |  Total amount | Slots Available |
+|  Package  |  Total amount | Remaining Slots |
 |-----------|---------------|-----------------|
-| Bronze | 10,000.00 | Total: 5, Now: 0 |
-| Silver | 25,000.00 | Total: 3, Now: 2 |
-| Gold | 50,000.00 | Total: 1, Now: 1 |
+| Bronze | 10,000.00 | 0 |
+| Silver | 25,000.00 | 2 _Hurry Up!!!_ |
+| Gold | 50,000.00 | 1 _Hurry Up!!_ |
 
 <h3 align="center">Thanks</h3><p align="center"><b>Thanks for all the sponsors for made this event possible.</b><br><br><img src="http://imgur.com/iQU8c9L.png" width="50"></p>
 
