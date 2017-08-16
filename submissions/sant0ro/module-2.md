@@ -26,4 +26,19 @@ In the end, situations like that are unpredictable but with Telegram bots we can
 Also something important in a moderation it's being polite, understand both situations and try to solve the problem like you will
 when you do "decision makings" in your daily software developments.
 
+#### Some Aikido
+
+Actually the conversation started like that (the original transcript will not be added, ensuring privacy protection).
+
+* Subject 1: "Subject 1" Joined the group
+* Subject 1: Hello everyone, how are the rules?
+* (gap of time... like 5min)
+* Subject 2: You already broke they, hehe hehe
+* (gap of time.. other dialogues)
+* Subject 1: Oh now you're a english and rules professor? (...) -- started to create problems
+* (subject 3 involved, subject 1 fighting against subject 2...)
+* Me: -- trying to solve the problem --
+
+I just added the start of it, because I really don't feel good putting some internal stuff here.
+
 #### Note.: Our rules are available here.: https://github.com/brazil-it-groups/code-of-conduct
