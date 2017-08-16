@@ -18,7 +18,16 @@ Create events, conferences, hackatons, dialogue, study, and more. Because my com
 
 ### Size
 
+<img src="https://image.prntscr.com/image/HoW59NAeR1KJj9S98GInCw.png" width="500" align="right">
+
 Actually we have 180~ members on our community, that it's maintained by a Telegram Super Group. We really want to increase those frontier, and create events spreaded over Brazil, actually our main focus it's Brasília and Federal District of Brazil, since the Administrators of the group come from it. But we incentive the spread of technology events, knowledge and more in Brazil-wide. We need be united. I don't want fix a limit of members, when more members, better, more people to help. More people to participate. We have rules. And we follow it. The groups it's like some months old, three or four, we started with 5 members, and with 3 months we actually have 180~. We want to increase our size and create a familly based community.
+
+#### Facts about the members
+
+* generally 20-30 goes to our events (including hackatons, code dojos and capture the flags)
+* generally 40-60 goes to local tech events or travel to Campus Party, and other events.
+* generally 60+~ members are active in terms of dialoguing on the group.
+* we have members that are students or not, professionals, tech gurus, tech lovers and even people that doesn't know well engineering or tech, but only a surface of it.
 
 ### Resources
 
