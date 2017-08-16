@@ -74,6 +74,12 @@ On the web, specifically Telegram. But in the future: GitHub + Blog + Website. W
 
 We get touch by Telegram. It's easy to use and accessible in any device (or pratically any, except in your watch.. I mean also it's!) We in the future will create a Facebook group, GitHub organization and website.
 
+What we will do with each social media resource?
+
+* **Facebook group:** Internal discussion, announces, share events, news and links
+* **GitHub:** our hackatons, codes, documentations, rules, workshops, our website, etc.
+* **Website:** blog, calendar, and things like that.
+
 ### Culture
 
 Our community it's in stage of development, we accept 100% new ideas, but those need be discussed and approved democratically. When happens a disagreement we follow the rules of the group and recommendations, depending of what happens we try to do a formal discouragement or a simple dialogue. Sometimes mute or block need be executed, this depends on the severity of the discouragement. All our policies are documented and available at GitHub.
