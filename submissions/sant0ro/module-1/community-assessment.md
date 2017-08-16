@@ -58,6 +58,14 @@ Our community it's based for any IT base field, that means Engineering, Analysts
 
 People mainly get involded by curiosity, but they know also because it's discussed and spreaded over the net. A great part of our members are students hoping to get a degree, and we try to ensure that they would get. We also incredibly try to help with Calculus, awesome yeah? We also spread job opportunities and job related content on the community, we also give hiring tips and tries to answer any possible question. We explain also the fields of IT working, like Data Scientist, DevOps, Security DevOps, those fields that are rapidly getting famous on companies and we try to answer any related question to those fields. Many of they are passionate of developing, we answer coding questions on the group and focus on "learn-oriented-development", so we mainly doesn't try to solve the question but help the member to understand the problem and got the question solved by itself (with the help of the members). We have many activities, as explained before. But our goals? Simple, just one. "Be a big familly".
 
+And what we mean with "Being a big family?", we mean that our community it's founded with concepts that tanges what ever familly has to be. That means:
+
+* A trustable community. Our members need to be trustable
+* A solid community. Democracy on decisions.
+* Being Honest and True it's essencial.
+* Respect (gender, race, and more). We need respect each other, every time.
+* Follow the rules (each family has rules. We too)
+
 ### Location
 
 On the web, specifically Telegram. But in the future: GitHub + Blog + Website. We have many places to meet, literally, any. Restaurants, Laboratories in the University, Shopping, Event based locations, and more. Parking it's free. We also provide rides. Yeah we only try to create meetings were everyone can easily go to it, mainly with public transport. The location it's accessible both on and off campus. Also if the member isn't a student of the University we get special access to it. The place it's absolutely **FREE** (woah). Depending on were we do the meetings, we have different materials. Sometimes in Auditoriums, Laboratories, also sometimes in Picnics hehe. Since our members are spread over the country, we try to create pools asking who can go on it, and allocating space based on the amount of people. Yes, we focus in comfort, but we only can give what the University of the other locals provides. We have free water, but we doesn't actually have enough budget to provide snacks. Also we doesn't have our **community** HQ. We use many spaces.
