@@ -1,3 +1,10 @@
+<hr>
+<h3 align="center">You're receiving a digital copy of the UIoT 2017 Sponsorship Prospectus</h3>
+<p align="center"><sup><sup>This document outlines the goals and objectives for the UIoT 2017 Internet of Things Open Conference, this Prospectus explains how you or/and your company can support us or get involved with the event.</sup></sup></p>
+<hr>
+<br>
+<br>
+
 <img src="http://i.imgur.com/6lAAgJn.jpg" align="right" width="600">
 
 <h1 align="center">An Internet of Things event!</h1>
