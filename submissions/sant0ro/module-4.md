@@ -99,6 +99,29 @@ Knowing why your students are interested in this material will help you frame it
 
 You got a **certificate** that you finished it. And the three best groups will receive an Arduino Starter Kit.
 
+### Q&A - FAQS
+
+* **Q:** What happens if someone falls behind, how do you bring them back up to speed with everyone else?
+* **A:** If the people falls behind, some things can be done depending of how the subject it's acting
+  * If the subject it's not anymore interested on what the workshop does, this can be:
+     * The subject doesn't liked the way of the teachers are doing it
+     * The subject though IoT or Microservices were different things
+     * It's more interested in using his smartphone because of anxiety or distraction, some members have disabilities like autism or TDAH (Attention Deficit Hyperactivity Disorder) and we need give they a special treatment.
+   * the subject it's having troubles doing the workshop things
+      * We can try to give special attention
+      * explain things again, or reformulate the way of explaining
+      * try giving to the subject another use case or way of comprehension.
+* **Q:** How do you get people interacting together rather than silently following your instructions.
+* **A:** The teachers aren't only me, If you see, other UIoT members would be part of it. I didn't added they because they aren't doing the Campus Experts Training, and this should be a privacy violation. (_Remembering.: I'm not only a student on my university, I'm also a researcher. So teaching it's something that I do really often._) Also the groups will interact by theyself, we will just give the instructions, examples, explain and give support, also we will encourage the people to do the things.
+* **Q:** What happens if you have all 180 people turn up? Maybe you want to cap the workshop at 15 people so you can help everyone, or maybe you have some others who can help run the workshop and help people that need it.
+* **A:** Some faults on my "Workshop example" was not giving more specific details about the sessions, but depending of the personnel, I think 30 max students/members by session it's sufficient. Remebering, IoT it's a surging area, and not many people know about it. Also developing complex things require time, attention and care.
+* **Q:** What will you do if most people that turn up don't know what REST is? Have you accounted for some space to explain it so they'll understand what they're doing.
+* **A:** Since REST and other key-terms are the fundamentals of what will be covered on the workshop, it's not really necessary knowing REST or either IoT. Anyone can be part of the workshop and we will ensure that the entirely guides and theory terms will be given. Also we will give little "state-of-art" and brief resumés of what it's each things. Teams will be free to choose programming languages, and we will try to give support to many of it. Our meta, it's use technologies available on many language as possible. Like BigInteger, JWT, Tree Algorithms, HTTP Frameworks, and more.
+* **Q:** How will they continue their learning after the workshop.
+* **A:** Learning gives practice. The groups after finishing it will be invited to be part of an International Internet of Things open source organization. Also if some teams didn't finished up in one session, they can go to others. We will encourage that applying on the daily life scenario it's something important.
+
+_Questions made by a cumminity member and answered by Claudio Santoro_
+
 ### The Schedule :calendar:
 
 We're still preparing when the event will happen. But here some brief information:
@@ -113,8 +136,10 @@ Faculdade de Tecnologia, Universidade de Brasília, Brasília - Brazil. CEP: 709
 
 ### Agenda
 
-Session | Date |
---------|------|
-Session 1 | Not Defined |
-Session 2 | Not Defined |
-Session 3 | Not Defined |
+Session | Date | Maximum of Members |
+--------|------|--------------------|
+Session 1 | Not Defined* | 40 |
+Session 2 | Not Defined* | 30 |
+Session 3 | Not Defined* | 40 |
+
+<sup>* will be defined</sup>
