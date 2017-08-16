@@ -83,3 +83,5 @@ What we will do with each social media resource?
 ### Culture
 
 Our community it's in stage of development, we accept 100% new ideas, but those need be discussed and approved democratically. When happens a disagreement we follow the rules of the group and recommendations, depending of what happens we try to do a formal discouragement or a simple dialogue. Sometimes mute or block need be executed, this depends on the severity of the discouragement. All our policies are documented and available at GitHub.
+
+**Note.:** you can check our community rules and policies by clicking [here](https://github.com/brazil-it-groups/code-of-conduct)
