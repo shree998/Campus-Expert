@@ -37,6 +37,19 @@ We actually spread Technology resources, guides, webinars, links to courses, dis
 
 We focus on Hangouts based meetings or physical meetings. The times have a big variety, but we focus on weekend were people doesn't work. We also focus on helping people to get over the place with community transport or with rides.
 
+#### Accessibility Facts
+
+Since this community isn't restricted to a single University, or a single district of Brazil, we schedule many encounters, events, and more that can be targeted (generally because of distance problems) for only some districts or a single district. Events like Campus Party we invite everyone from the group to assemble with our community, and we relay on the event's infrastructure and logistics.
+
+But small events, like hackatons, encounters, meetings, and others, we generally provide our own Infrastructure. That means:
+
+* The event can be in a laboratory, class, room, hall of an University that a members belongs
+* A house, restaurant, club or others too.
+
+Each event will be coordinated by a micro-team that want to setup (or organize) the event, with approval of the administrators. Anyone can give an idea or create an event, but need be approved.
+
+Those specific locations, depends and relays on the local infrastructure. Generally if people without disability want to join us on the event, we meet in locations without strictly thinking on accessibility. But if it's an open event, or someone with a disease or disability need special attendment, we try our best to provide a place that supports wheel chair, or child care, or whatever depending on the accessibility. We can't handle all type of disabilities... And many times we also depend on the selected place infrastructure and logistics.
+
 ### Interests
 
 Our community it's based for any IT base field, that means Engineering, Analysts, Scientist, and more. Also not only students can enter on the community. Obviously the group it's focused for **students**, because students are strictly focused in academics and research. But anyone that love tech can enter, why not? Our topics aren't only specifically **tech** but politics, health, education topics that are relevant or involved with tech. Since social skills are important.
