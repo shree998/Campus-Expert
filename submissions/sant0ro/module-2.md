@@ -41,4 +41,10 @@ Actually the conversation started like that (the original transcript will not be
 
 I just added the start of it, because I really don't feel good putting some internal stuff here.
 
+#### Moderation
+
+I wasn't the onliest to try to maintain calm the Subject 1 and Subject 2. Other members ensured the following of the rules. No agressive actions were taken, and I and other members solved the problem with a really calm conversation. (Subject 1 was angry, but I was polite and calmmed).
+
+The situation solved without problems after a couple of hours.
+
 #### Note.: Our rules are available here.: https://github.com/brazil-it-groups/code-of-conduct
