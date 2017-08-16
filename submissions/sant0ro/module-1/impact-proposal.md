@@ -34,15 +34,31 @@ That's a thoug question :bowtie:
 
 Timing it's important. Our members are from many different Universities, and each one with their schedules. We mainly focus in creating events or inviting events based on a flex calendar. That means, when the majority of the group can enjoy the events. Also in periods that are vacations for both (we actually have a good intersection of vacations periods). During the semester, we focus on weekends. 
 
+#### Proposal
+
+* For scheduling, time reability and more. We're planning to use Google Calendar in order to know which days and hours members are generally free, and also seek which areas are more common accessible to the members (when we're talking about the small and local events).
+* Planning events need be a lot of days before when planning to do it, we need aggregate members and plan the event. This is hard, and comes more harder with more members.
+* I personally want to develop a small "member system" where members say which course do, which study level, where lives, which times are available and for where. So we can create events based on clustering and aggregating "data" and send mailing alerts of news, events and more based on social (and cultural) criterias.
+
 ### Community Demographics
 
 Actually I think that our diversity it's in a great rate, what I propose, it's simple. Continue on focusing on "everyone it's welcome", no restriction.
+
+#### Proposal
+
+Actually we have a good dissemination of our demographic rules, and it's being solid applied, but we intend to spread the existence and activities of the group and the metas (like social inclusion) more and more, specifically before creating our website.
 
 ### Goals
 
 Oh, I have so many goals, many of these are similar and the same of the other Administrators, and my focus it's create a set of ideas that can tange the needings of almost every member of the community.
 
 Like adopt the usage of shared Google Calendar, official website using GitHub Pages. A Blog with content, and many other things related to organization, logistics and features, like as an example Telegram bots. Simple things make a great difference.
+
+#### Proposal
+
+Our technologic specific goals are by creating a new Website with members area, blog, news, calendar and more. Also creating a Google Calendar of our events. We also intend create our GitHub Organization for result codes of workshops, rules, policies and other things. Facebook Group for massive information spread and for sharing links, content, and events. Also good for planning they.
+
+Our goals it's make more easy the way to enter, participate, iterate and have a good dialogue in the group. It's hard, we need to do many things, since enable Telegram Bots for logistics, pools, security and more. To organization and logistic ones.
 
 ### Communication
 
