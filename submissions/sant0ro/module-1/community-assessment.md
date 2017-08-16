@@ -33,6 +33,12 @@ Actually we have 180~ members on our community, that it's maintained by a Telegr
 
 We actually spread Technology resources, guides, webinars, links to courses, discounts in courses, Campus Party resources, live stream videos, hackatons invites, and we actually solve problems and questions of everyone on the group. The community it's a big family, we help each other. We spread everything that we get, and everything that we search, we focus on improve the tech and social capabilities of all members, without exception.
 
+#### About our Resources
+
+* We don't receive money or support from any institute (yet), we use our money for everything.
+* Everyone can join, for now, being from Brazil. No membership fees are applied or required.
+* We don't have a HQ or something just ours. We use many different locations provided by the members of the group. This varies from Events space (like doing a meeting or encounter on events like Campus Party), meetings or encounters or even hackatons in public spaces or restaurants, space inside facilities, universities, and others.
+
 ### Accessibility
 
 We focus on Hangouts based meetings or physical meetings. The times have a big variety, but we focus on weekend were people doesn't work. We also focus on helping people to get over the place with community transport or with rides.
