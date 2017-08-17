@@ -20,8 +20,7 @@ We meet up at the university premises, or at hackathon venues usually. We use an
 
 ## Culture
 
-The community is very open to learning new things, and we have very funfilled gatherings teaching new things to each other and looking for projects to take up.
-
+The community is very open to learning new things, and we have very funfilled gatherings teaching new things to each other and looking for projects to take up. We do not yet have any policies in place. There aren't a lot of disagreements since all of us are usually involved in the decision making process.
 
 
 
