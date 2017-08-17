@@ -1,18 +1,18 @@
 Definition:
-1. Club of CS students (primarily majors, minors, women taking a CS class, women interested in tech) interested in learning, growing, and supporting each other.
+1. Sudo Hoot is a club of CS students (primarily majors, minors, women taking a CS class, women interested in tech) interested in learning, growing, and supporting each other.
 
 Size:
 1. ~140 active members in club
 2. ~1500 in college, ~900 at coed consortium school 25-min walk away (10-min bus), ~2000 at coed consortium school a 35-min shuttle ride away
-3. When I was a She++ Ambassador, I had more funding to use for events, so that helped increase interest at meetings and online. 
+3. When I was a [She++](https://sheplusplus.org) Ambassador, I had more funding to use for events, so that helped increase interest at meetings and online. 
 
 Resources:
-1. There's a blog, website, and Facebook group that includes upcoming events like hackathons and conferences, scholarship information (travel, event tickets, etc), interview preparation, programming resources, and more links and information of that sort.
+1. There's a [blog](http://blog.sudohoot.com/), [website](http://sudohoot.com/), and [Facebook group](https://www.facebook.com/groups/SudoHoot/) that includes upcoming events like hackathons and conferences, scholarship information (travel, event tickets, etc), interview preparation, programming resources, and more links and information of that sort.
 2. There are office hours, online tools, meetups, and seminars. We bring in external speakers from industry and also host video chats.
 3. My tech events newsletter and GitHub repo :D 
 
 Accessibility:
-1. Very accessible...the Facebook group is extremely open, supportive, and active. I just wish in-person meetings were the same!
+1. Very accessible...the Facebook group is extremely open, supportive, and active. I just wish in-person meetings were the same...they seem too open-ended, so they end up being slow or vague. Also, there's just not as much engagement and conversation there in-person.
 2. Meetings are held when some have other club meetings, sport practices, or work.
 3. Childcare is not available.
 
