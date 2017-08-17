@@ -33,3 +33,37 @@ As indicated earlier, we will continue to use IRC and emails unless someone poin
 ## Target Audience
 I plan to impact people (mostly women students of the University of Helsinki) who aim to take their coding skills to an advanced level.
 
+## Community needs 
+### What specific issue are you addressing with your proposal?
+I am addressing the lack of a tech community for women at the university of Helsinki aimed at helping those of intermediate skill level to develop and move on to the advanced-level communities.
+
+## Resources
+### What resources do you need to accomplish your proposal?
+We already have all the resouerces I would need. 
+
+## Media
+### How are you preparing to deliver your community impact proposal?
+I will start with advertising during the orientation week with the help of student ambassadors of the university.
+
+### What are you going to prepare to deliver the content?
+I will write a blog post on the university website, to increase the visibility and also put up ads on the notice boards at the university. 
+
+## Content knowledge
+### How knowledgable are you on the topic your community impact proposal focuses on?
+As indicated earlier, we have been hosting a few meetups and attending hackathons over the past year. Therefore, I believe I have a good experience with tech communities with respect to both organizing and participating.
+
+## Timeline
+## Develop a rough timeline for your community impact project.
+We are targeting to start meeting the new students who are starting this autumn at the orientation week other fresher activities in the month of September. 
+
+# Planning for the Future
+## When will you review the impact of your proposal?
+I will review the impact at the end of the semester, so that I have had enough time to reflect and understand the community better.
+
+## How will you measure success?
+I will measure success based on the amount of new pwople we are successful in inducting into the group.
+
+## How frequently will you iterate on your community plans?
+I will have the participants fill out a survey after every meetup or activity, and also encourage feedback at any time anyone wants.
+
+
