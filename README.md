@@ -18,6 +18,7 @@ People learn better when they can learn with a community of likeminded peers. A 
 
 To become a Campus Expert, you must complete the following:
 
+- [Module 0](/0-start-here) - Getting Started
 - [Module 1](/1-introduction) - Introduction.
 - At least 3 other modules.
 
@@ -42,7 +43,7 @@ Every Campus Expert should start with Module 0, Getting Started. If you are fami
 ## What training modules are available?
 
 The currently available training modules are:
-- [Module 0](/0-start-here) - Getting Started (Recommend)
+- [Module 0](/0-start-here) - Getting Started (Compulsory)
 - [Module 1](/1-introduction) - Introduction (Compulsory)
 - [Module 2](/2-community-management) - Community Management
 - [Module 3](/3-public-speaking) - Public Speaking
