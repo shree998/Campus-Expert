@@ -41,10 +41,10 @@ Underrepresented groups trying to get started in tech, specifically at my school
 ### Communication
 - How does your community get in touch with one another? We send out weekly emails to our mailing list and have a Facebook group.
 - Is there an email group, a Gatha organization, a Twitter account, a Facebook group, a chat room or channel? Email mailing list and Facebook.
-- Could your organization benefit from one or more of those, or another way of communicating? I think what we have is enough, if not too much. We make a Facebook event for every event we host and I think some people think it's too much notification spam.
+- Could your organization benefit from one or more of those, or another way of communicating? I think what we have is enough, if not too much. We make a Facebook event for every event we host and I think some people think it's too much notification spam. I'm not sure the best way to communicate with our members though.
 
 ### Culture
 - How welcoming is your community to new people and new ideas? Very welcoming! We host an event at the beginning of this school to get to know each other and encourage new invitees. We frequently send out community surveys to gather feedback. But it's hard to make such a small community seem less intimidating because you can't really blend in, or just watch, and I think that intimidates some people.
 - What happens if there is a disagreement? I don't think this has ever happened, but in a worst case scenario we have campus safety on speed dial.
-- Are there any policies or procedures in place, and are they documented? No.
+- Are there any policies or procedures in place, and are they documented? No, but in an ideal community, we would certainly.
 - How will you personally handle it? I will try to get people to act reasonably, but if anyone's safety is in danger, I will call campus safety.
