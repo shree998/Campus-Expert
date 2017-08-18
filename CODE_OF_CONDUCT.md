@@ -175,6 +175,6 @@ If some attendees were angered by the incident, it is best to apologize to them 
 
 If for any reason, you feel unsafe, unwelcome or uncomfortable as a result of an interaction within the Campus Experts program, ways to report the incident and get support are listed below. Please note the [Procedure for Handling violations](#procedure-for-handling-violations).
 
-- Contact Joe & the Education team at [education@github.com](email:education@github.com)
-- In the event your report concerns Joe, contact John Britton, Senior Director of Developer Marketing, [jdb@github.com](email:jdb@github.com)
+- Contact Joe & the Education team at education@github.com
+- In the event your report concerns Joe, contact John Britton, Senior Director of Developer Marketing, jdb@github.com
 - To submit a report anonymously, [https://goo.gl/forms/GwZb7HS1nvDiOhG12](https://goo.gl/forms/GwZb7HS1nvDiOhG12)
