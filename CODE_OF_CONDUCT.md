@@ -22,7 +22,7 @@ You can also contact the GitHub Education team to discuss an incident or report 
 
 If you need to talk to a GitHubber other than Joe (i.e. in the event that your report concerns Joe):
 
-- John Britton, jdb@github.com
+- John Britton, Senior Director of Developer Marketing. jdb@github.com
 
 ### Contacting a Campus Rep
 Campus Reps are experienced Campus Experts who support students undergoing training in their region.
