@@ -4,7 +4,7 @@
 
 **PRO-TIP** _This repository generates a lot of notifications. You should read [our guide](docs/managing-notifications.md) on managing notifications._
 
-This README explains how to get started with the training, and how to become a Campus Expert. By participating in the Campus Expert program, you agree to the [terms](https://education.github.com/experts/terms).
+This README explains how to get started with the training, and how to become a Campus Expert. By participating in the Campus Expert program, you agree to the [terms](https://education.github.com/experts/terms) and to abide by the [code of conduct](CODE_OF_CONDUCT.md).
 
 ## Latest news
 

@@ -42,6 +42,7 @@ Youtube: https://www.youtube.com/watch?v=bKCa9LVacUk
 - To complete a training module, you have to submit a solution to the exercises.
 - Exercises for a training module can be found in each modules "exercises" directory.
 - Check issues regularly! Issues aren't just for bugs, they're a great place to chat and start discussions. In Campus Experts, we use them like a forum!
+- Remember, whenever you submit a document, participate in an issue or pull request, or interact with another student, you are bound to abide by the [Code of Conduct](../CODE_OF_CONDUCT.md).
 
 ## Getting ready to complete exercises
 
@@ -124,6 +125,10 @@ Please note that webinars take place through Zoom. The Zoom client will automati
 ### 1-to-1 calls 💖📞
 
 If you have questions you would like to talk to a trainer face to face about, you can request a video call [here](https://calendly.com/joenash/campus-experts-support). Please ensure you answer all questions in the form, or your call request may be denied.
+
+### Code of Conduct violations
+
+If you need support with a code of conduct violation or incident, please refer to the [Code of Conduct](../CODE_OF_CONDUCT.md).
 
 ## Module Completion ✅
 

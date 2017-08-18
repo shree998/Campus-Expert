@@ -1,3 +1,5 @@
+# Managing Notifications
+
 This repository generates a lot of notifications. Before you get started, you should change your settings to save your inbox. Here are some tips:
 
 - You can find your notifications in GitHub [here](https://github.com/notifications).
@@ -7,4 +9,4 @@ This repository generates a lot of notifications. Before you get started, you sh
 - [Mike McQuaid](https://github.com/mikemcquaid) wrote a blog post about [managing large number of GitHub notifications](https://github.com/blog/2399-managing-large-numbers-of-github-notifications).
 - As you use GitHub more, you may find [Octobox a useful tool](https://octobox.io/) for getting and reading notifications.
 
-Additionally, by default, you will be subscribed (watching) every fork of this repository. You can disable that at the top of the [notifications settings page](https://github.com/settings/notifications). 
+Additionally, by default, you will be subscribed (watching) every fork of this repository. You can disable that at the top of the [notifications settings page](https://github.com/settings/notifications).

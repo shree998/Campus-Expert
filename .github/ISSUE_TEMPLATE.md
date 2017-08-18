@@ -1,4 +1,4 @@
-THIS IS AN ISSUE TEMPLATE! This helps you complete an issue. Please follow the instructions below.
+THIS IS AN ISSUE TEMPLATE! This helps you complete an issue. Please follow the instructions below. Reminder that you are bound to abide by the [Code of Conduct](../CODE_OF_CONDUCT.md). 
 
 ## Labels
 DELETE THIS SECTION ONCE COMPLETED.

@@ -1,4 +1,4 @@
-THIS IS A PULL REQUEST TEMPLATE! This helps you complete a pull request. Please follow the instructions below.
+THIS IS A PULL REQUEST TEMPLATE! This helps you complete a pull request. Please follow the instructions below. Reminder that you are bound to abide by the [Code of Conduct](../CODE_OF_CONDUCT.md)
 
 ## Labels
 DELETE THIS SECTION AFTER COMPLETING
