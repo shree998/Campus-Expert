@@ -32,6 +32,7 @@
     - Well, Thats the most important question, why people should join our community. In this era of technology, anyone can learn anything from internet as there is nothing that is not available on Internet but sometimes we need the support of people and requires teams to work on a project. Most important thing is that the learning curve of students rises sharply after joining our community as we have great projects which can help them to learn a lot of things.
     - Yes, the students in our community is passionate about developing.
     - Create a welcoming community of hackers that always provide a platform to the other students for their development and growth and always ready to help each other in achieving their goals.
+    - We people at our community is not only targeting students who are actually in our community, we are actually targeting the students of our college, we are trying to make students know and learn about new technologies and help them in chasing their dreams and passion.
 
 
 ### Location
