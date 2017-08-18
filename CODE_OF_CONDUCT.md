@@ -112,6 +112,8 @@ for handling harassment in the repository.
 
 **Campus Experts team**
 - Joe Nash, GitHub staff, student program manager. joenash@github.com
+- Amy Dickens, Campus Rep for the Midlands, UK. amy@adickens.co.uk
+- Wilhelm Klopp, Campus Rep for London, UK. will@ucl.ac.uk
 
 2\. Report the harassment incident (preferably in writing) to a staff member. All reports
 are confidential. Please do not disclose public information about the incident until the staff have had sufficient time in which to address the situation. This is as much for your safety and protection as it is for the other students.
