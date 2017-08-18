@@ -1,4 +1,4 @@
-# Campus Experts Open Training is governed by the Contributor Covenant
+# campus-experts/open-training is governed by the Contributor Covenant
 
 As an aspiring Campus Expert, you are undergoing a journey to make tech communities more accessible and inclusive. You, and other students learning around you, should expect to conduct this journey safely, and harassment-free. To ensure that everyone is safe, comfortable and feels welcomed, participants in this repository abide by the terms of the Contributor Covenant, version 1.4 (http://contributor-covenant.org/version/1/4/code_of_conduct.md). Full text of the code of conduct as pertains to this repository is [included below](#contributor-covenant-code-of-conduct-version), along with the [incident handling procedure](#procedure-for-handling-harassment).
 
@@ -6,7 +6,7 @@ As an aspiring Campus Expert, you are undergoing a journey to make tech communit
 
 If for any reason, you feel unsafe, unwelcome or uncomfortable as a result of an interaction within the Campus Experts program, ways to report the incident and get support are listed below. Please note the [Procedure for Handling harassment](#procedure-for-handling-harassment).
 
-## Contacting Joe Nash (GitHub Student Program Manager)
+### Contacting Joe Nash (GitHub Student Program Manager)
 Joe is the GitHubber responsible for Campus Experts, and is here to ensure your comfort and safety whilst undergoing the training.
 When contacting Joe, your report is completely confidential, the steps followed when handling it are detailed in the [Procedure for Handling harassment](#procedure-for-handling-harassment).
 
@@ -15,12 +15,12 @@ Please note that Joe is based on the UTC+0 timezone. If you are experiencing an 
 - Email: joenash@github.com
 - 1:1 call: You can book a confidential call with Joe to discuss any concerns using [https://calendly.com/joenash/campus-experts-support](https://calendly.com/joenash/campus-experts-support).
 
-## Contacting another GitHub staff member
+### Contacting another GitHub staff member
 You can also contact the GitHub Education team to discuss an incident or report a violation.
 
 - Email: education@github.com
 
-## Reporting a violation anonymously
+### Reporting a violation anonymously
 You can use the below form to report a violation anonymously:
 
 [https://goo.gl/forms/GwZb7HS1nvDiOhG12](https://goo.gl/forms/GwZb7HS1nvDiOhG12)
