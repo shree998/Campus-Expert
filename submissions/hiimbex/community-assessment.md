@@ -16,14 +16,14 @@ Underrepresented groups trying to get started in tech, specifically at my school
 - Is there childcare available? I do not believe so, but am unsure the capabilities of my campus since that is where the meetings are.
 
 ### Interests
-- Is your community made up only of computer science students? Are you OK with that? Mostly, or at least computer science minors. I think so because most majors at my school are very political, so it's nice to have a space for kids who don't talk politics non-stop.
-- Is your community open to other topics, or are their interests very specific?
+- Is your community made up only of computer science students? Are you OK with that? Mostly, or at least computer science minors. I think so because most majors at my school are very political, so it's nice to have a space where the goal isn't to talk about politics or do political activities.
+- Is your community open to other topics, or are their interests very specific? I think our interests are pretty specific, but we do get lots of talks from alums in various CS careers, ie software engineering, IT, systems engineering, etc. I think we are open to any topics and usually we have fewer talks than time, so we're always looking for new content.
 
 ### Goals
 - Why do people get involved in your community? They want to learn CS or get a tech career and meet like-minded people on campus.
 - Are they students hoping to get a degree? Yes, usually.
 - Are they trying to ramp-up to get a job? Yes, eventually.
-- Are they passionate about developing, regardless of their major? Not necessarily.
+- Are they passionate about developing, regardless of their major? Not necessarily. I think a lot of students at my school see CS as a means to a good career, which is completely valid. I personally am passionate about developing, but a lot of people use our club for career development and job advice.
 - What activities and goals can you set for your community based on their existing goals? Maybe more CS class office hours, and chill coding sessions. A goal is basically to do well in school and have friends in your classes.
 
 ### Location
