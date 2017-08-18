@@ -56,7 +56,7 @@ Navigate to the "submissions" directory. We are going to create a directory, and
 
 Once we've clicked "New file", we'll start by putting in the directory name. The name for this directory will just be your GitHub username, so go ahead and enter your GitHub username, followed by a trailing slash, "/". This tells GitHub that we're not done with this file name yet, and actually we'd like the file we're making to be inside a directory. Once you've done that, enter "about.md". So the full path should be "/submissions/YOUR-USERNAME/about.md".
 
-We've named this file about.md because it is here that we're going to introduce ourselves to the other Campus Expert trainees. Tell us a little bit about yourself: what do you study, what community are you involved with, what's your favourite emoji? Please be mindful that the open-training repository is accessible to any student and to treat your private information as you would in any public space.
+We've named this file about.md because it is here that we're going to introduce ourselves to the other Campus Expert trainees. Tell us a little bit about yourself: what do you study, what community are you involved with, what's your favourite emoji? Please be mindful that the open-training repository is accessible to any student and to treat your private information as you would in any public space. Please also remember you are bound to abide, and are protected by, the [Code of Conduct](../CODE_OF_CONDUCT.md).
 
 Once you've done that, scroll to the bottom of the page to find the "new commit" box. This is how we save this file: by creating a Git commit. Enter a short description such as "Introduced myself to the Campus Experts" and then hit the green button.
 
