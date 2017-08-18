@@ -1,6 +1,6 @@
 ### Definition:
 - Now: Women in CS at Tufts
-- Want: All notmen who are comfortable in femme spaces in CS at Tufts
+- Want: All non-men who are comfortable in femme spaces in CS at Tufts
 
 ### Size:
 - We have about 70 interested, but fewer than that are really active and come to things. Part of the problem might be that the “things” we have aren’t what they’re interested in.
@@ -9,7 +9,7 @@
 
 ### Resources: 
 - We have a strong department of classes, but we absolutely don’t have a lot of meet ups and workshops. That’s a thing I’d love to have more of. 
-- We have 2 major hackathons and are, this year, holding our first tech conference.
+- We have 2 major hackathons ([Polyhack](polyhack.tufts.io) and [ID Hack](https://idhack16.devpost.com/)) and are, this year, holding our first tech conference.
 
 ### Accessibility: 
 - In terms of physical accessibility, they are accessible for people with movement impairments, except that the computer science building is kind of across campus from some places. We could work on that, maybe hold workshops in different places.
