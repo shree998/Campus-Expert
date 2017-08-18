@@ -22,7 +22,14 @@ You can also contact the GitHub Education team to discuss an incident or report 
 
 If you need to talk to a GitHubber other than Joe:
 
-- John Britton, jdb@github.com 
+- John Britton, jdb@github.com
+
+### Contacting a Campus Rep
+Campus Reps are experienced Campus Experts who support students undergoing training in their region.
+In the event of an incident or violation, you can reach out to any Campus Rep, regardless of whether you are in their region.
+
+- Amy Dickens, Campus Rep for Midlands, UK. amy@adickens.co.uk
+- Wilhelm Klopp, Campus Rep for London, UK. will@ucl.ac.uk
 
 ### Reporting a violation anonymously
 You can use the below form to report a violation anonymously:
