@@ -15,7 +15,7 @@ I'd like us to improve our communication skills and get more community involveme
 
 When identifying the impact of your proposal, you should focus on the following areas:
 - Target audience
-  - Who are you expecting to impact based on your proposal? Students studying CS at AU from underrepresented backgrounds
+  - Who are you expecting to impact based on your proposal? Students interested in tech at AU from underrepresented backgrounds
 - Community needs
   - What specific issue are you addressing with your proposal? Our need to have people like us in our environment to support each other in a white cis male dominated tech world.
 - Resources
@@ -33,6 +33,6 @@ When identifying the impact of your proposal, you should focus on the following 
 
 ## Planning for the Future
 
-- When will you review the impact of your proposal? I think it will go into effect when I go back to AU next spring, and I can evaluate at the end of the semester.
+- When will you review the impact of your proposal? I think it will go into effect when I go back to AU next spring, and I can evaluate at the end of the semester. Maybe in the meantime I can video call into some meetings.
 - How will you measure success? Community involvement. There are ~30 members of my community but only 5-10 regularly show up to meetings and participate in our events.
 - How frequently will you iterate on your community plans? Probably per semester, since we vote on a new exec board for every semester.
