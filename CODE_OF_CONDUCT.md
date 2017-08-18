@@ -20,6 +20,10 @@ You can also contact the GitHub Education team to discuss an incident or report 
 
 - Email: education@github.com
 
+If you need to talk to a GitHubber other than Joe:
+
+- John Britton, jdb@github.com 
+
 ### Reporting a violation anonymously
 You can use the below form to report a violation anonymously:
 
