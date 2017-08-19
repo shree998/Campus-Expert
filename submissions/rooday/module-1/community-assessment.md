@@ -1,5 +1,5 @@
 ### Definition
-A group of students who enjoy creating things, especially in a hackathon environment.
+A group of students who enjoy creating things, especially in a hackathon environment. The group name is MakeBU.
 
 ### Size
 - **How many people are currently in your community?** At the moment, there are around 20 or so members that consistently show up to meetings, although the total number of members who are technically affiliated is much higher.
