@@ -34,7 +34,7 @@
 - Is the location accessible to those both on and off campus?
 - How much does it cost to use the space?
 - How flexible is the space for different types of presentations and meetings?
-- How many people can it fit? The largest room on campus is maybe 100 people?
+- How many people can it fit?
 - Is there comfortable seating for all shapes and sizes?
 - Is there water or snacks available nearby?
 
