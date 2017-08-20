@@ -1,6 +1,8 @@
-When i joined my college, I attend a workshops that was organized by the community of which i am member now. They introduced us about different different fields like Web, Machince Learning, IoT, Open Source, AI and many more. This created a curiosity in me to know more about these fields. I have found my keen interest in Web, Machine Learning and Open Source. From then, I started looking for contributing to some open source projects. It was difficult for me to start but i start by creating my own project from which i learnt a lot about the Git and Github and its workflow which further help me in contributing to other projects.
+>When I joined my college, I attended various workshops that were organized by the community of which i am currently a member. They introduced us about different different fields like Web, Machince Learning, IoT, Open Source, AI and many more. This created a curiosity in me to know more about these fields. I have found my keen interest in Web, Machine Learning and Open Source. From then, I started looking for contributing to some open source projects. It was difficult for me to start but i started by contributing to my own projects from which i learnt a lot about the Git and Github and its workflow which further helped me in contributing to other's projects.
 
-##Contributions
+
+## Contributions
+
 
 ### [Fossasia/searss](https://github.com/fossasia/searss)
 
