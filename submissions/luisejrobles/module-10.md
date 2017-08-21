@@ -1,7 +1,8 @@
-#Tech players
+Tech players
+
 The mission is to help undergraduate people get into the industry technology by offering them regularly talks and reunions once every two weeks.
 
-##Activities & Benefits:
+Activities & Benefits:
 -Learn what technologies are using companies.
 -See what others are doing to be a successful dev.
 -Help others with their code problems.
