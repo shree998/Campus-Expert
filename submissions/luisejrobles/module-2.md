@@ -21,10 +21,10 @@ I'm part of an awesome community called Google Developer Group Tijuana where we 
 Our mission is to share with others our experience about using and working with Google technologies such as Firebase, Polymer, etc. We're a 9 year old community.
 
 ##Nature of incident
-There was a group of persons back in 2010 who said they were part of the GDG community, making events and collecting money with them ( we NEVER collect money from our events ).
+There was a group of persons back in 2010 who said they were part of the GDG community making events and collecting money with them ( we NEVER collect money from our events ).
 
 ##Moderation action
-We talked with them, make them know that it was not correct to do that. Out community was always free for the people and if they want to collect money they should start their own community.
+We talked with them, make them know that it was wrong to do that because our community was always free for the people and if they want to collect money they should start their own community.
 
 ##Outcome
 The persons were sorry about their actions and made us know that it was the last that they do that.
