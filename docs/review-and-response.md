@@ -14,6 +14,6 @@ We review submissions as fast as we can. Some modules submissions take longer th
 
 ## Review notices
 
-- 2017 August 17th: @joenash will be slow on reviews due to some travel disruption, combined with the mass merge incident, this may result in slow merges this week - sorry! 
+- 2017 August 22nd: @joenash will be slow on reviews due to some travel disruption, combined with the mass merge incident, this may result in slow merges this week - sorry! 
 - 2017 August 17th: @joenash is back from vacation, let it rain reviews! 
 - 2017 August 14th: Reviews may take longer than usual as @joenash is on vacation until the 17th August.
