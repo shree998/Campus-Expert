@@ -7,4 +7,4 @@
 
 ## Target Audience
 This workshop is intended for students who have already completed an Introduction to Git workshop
-_or_ has taken COMP167.
+_or_ have taken COMP167.
