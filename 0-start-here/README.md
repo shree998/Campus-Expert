@@ -33,7 +33,7 @@ The Campus Expert training features content from many creators. This content is 
 [Joe](https://github.com/joenash) is Student Program Manager at [GitHub](https://education.github.com), where his job is to tell students to capitalise the 'h' in GitHub. When he's not doing that, Joe maintains the Campus Expert program, supporting student leaders in building tech communities on campus. Joe is an unrepentant Haskell enthusiast, and has a weakness for the sparkle heart emoji 💖.  
 
 ## Video 📹
-_We try to accommodate a variety of learning styles. Every module contains a video, that covers the content of the module, as well as a written alternative. You can follow whichever works best for you._
+_We try to accommodate a variety of learning styles. Every module contains a video that covers the content of the module. The written content in the README mirrors the content of the video, and is provided as an alternative. For most videos, you will also find a complete transcript in the module's 'resources' folder._
 
 Youtube: https://www.youtube.com/watch?v=bKCa9LVacUk
 
