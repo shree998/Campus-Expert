@@ -78,7 +78,7 @@ With the help of GitHub, I will work with other students to create a stronger te
 
 ## Your Proposal's Impact
 
-The proposal aims to address the problem of the community being disconnected in certain areas such as communication and events that are being held. It will also help orgamizations at ASU to communicate with eachother more. 
+The proposal aims to address the problem of the community being disconnected in certain areas such as communication and events that are being held. It will also encourage organizations at ASU to communicate with eachother about events and opportunities. 
 
 When identifying the impact of your proposal, you should focus on the following areas:
 - Target audience
