@@ -14,7 +14,7 @@ I am involved in the [Mauritius Software Craftsmanship Community](https://www.me
 
 I participated in a number of hackathons in Mauritius: [Krakathon](http://krakathon.com) 2016, [#RiSk[Solutions] Mauritius](https://www.facebook.com/RisksMu) 2017 and [WebCup Mauritius](https://www.facebook.com/WebCupMaurice) 2017 (and I will participate in the upcoming Krakathon 2017 and the [Startup Weekend Mauritius](https://www.facebook.com/StartupWeekendMUR) 2017). I also participated in the incubator program of the [MIT Global Startup Labs Mauritius](http://www.telecomcampus.mu/mit-gsl-programme) 2017.
 
-I talked at the [Developers Conference](https://conference.mscc.mu) 2017 about simple 2D game development using Phaser and JavaScript. 
+I talked at the [Developers Conference](https://conference.mscc.mu) 2017 about simple 2D game development using JavaScript and Phaser.
 
 I am in the organising team of Front-End Dev Mauritius and help as a coach during their events. We organised the [Front-End Code Camp](https://frontendcodecamp.com) and we are organising a bigger one soon. 
 
