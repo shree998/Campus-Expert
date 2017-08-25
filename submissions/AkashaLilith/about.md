@@ -18,7 +18,9 @@ I talked at the [Developers Conference](https://conference.mscc.mu) 2017 about s
 
 I am in the organising team of Front-End Dev Mauritius and help as a coach during their events. We organised the [Front-End Code Camp](https://frontendcodecamp.com) and we are organising a bigger one soon. 
 
-I have one year of experience as a Salesforce developer/consultant intern at Spoon Consulting.
+I tutored A-Level Computing and A-Level and O-Level Mathematics, among other subjects, and I have one year of experience as a Salesforce developer/consultant intern at Spoon Consulting.
+
+I volunteered during the [Africa Code Week](http://africacodeweek.org) 2017 in Mauritius as a trainer.
 
 # Why I joined the GitHub Campus Expert training
 
