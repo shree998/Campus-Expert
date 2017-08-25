@@ -1,4 +1,6 @@
-Hello! I am Akasha.
+Hello!
+
+I am Akasha.
 
 # What I study
 
