@@ -1,13 +1,22 @@
-# About Ralph Maamari
-Hey, I'm Ralph. I am the Founder/Head Organizer of Hack the Valley for 2 Editions straight! Right now I'm interning at PagerDuty for the summer. I also happen to be the President of my campus student assiociation AMACSS (Assiociation of Mathematical and Computer Science Students).
+# About Joshua Joshua
+Hey, I'm Joshua . I am the CTO of ForeFront Agency, a Microsoft Student Partner , a Former Google Ambassador...a Developer Evangelist ! i am currently experimenting of the cure of Malaria using Image diagnosis. I lead the student arm of Technology in my University, 
+I’m leveraging the power of technology to improve the lives of as many people as possible. I believe that, with the
+right environment, education, skills, tools and opportunities, everyone can live, work and achieve their greatness.
+I am profecient in  HTML, CSS and C# and. I'm currently learning node.js!
+I love playing golf, Computer Car Race (Need 4 Speed(maybe we can play one day) )!
 
-# Interests
-I am profecient in Python, Java, Scala, C and HTML, CSS and a bit of JavaScript. I'm currently learning Kafka!
-I love soccer, frisbee and biking!
 
+# Communities 
+Microsoft Students Club
+ForLoop
+Silicon Africa
+SE Dot Net User Group
+< i have more communities but this are dear to my heart. I am a community man cause i believe in their power of help>
 
-# Reach Ralph @
-*  LinkedIn: https://www.linkedin.com/in/ralphmaamari
+# Reach Joshua @
+*  Website: www.joshuajoshua.me
+*  LinkedIn: https://www.linkedin.com/in/joshuajosh
+* Twitter: www.twitter.com/joshuajsmart
 
 # Favourite Emoji?
-:wolf:
+ :vulcan
