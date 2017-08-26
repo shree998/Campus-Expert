@@ -78,6 +78,10 @@ Please note that webinars take place through Zoom. The Zoom client will automati
 
 If you have questions you would like to talk to a trainer face to face about, you can request a video call [here](https://calendly.com/joenash/campus-experts-support). Please ensure you answer all questions in the form, or your call request may be denied.
 
+### Code of Conduct violations
+
+If you need support with a code of conduct violation or incident, please refer to the [Code of Conduct](../CODE_OF_CONDUCT.md).
+
 ## Module Completion ✅
 
 This module is complete when:

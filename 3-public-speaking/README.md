@@ -54,7 +54,7 @@ The exercise for this module is to create a proposal for a talk. You can find a 
 - [What Your Conference Proposal is Missing](http://www.sarahmei.com/blog/2014/04/07/what-your-conference-proposal-is-missing/)
 - [We are all awesome](http://weareallaweso.me), advice for first time speakers
 - [Speaking.io](http://speaking.io) advice for speakers
-- [Papercall](http://papercall.io), [Technically Speaking](https://tinyletter.com/techspeak) or [Eventil](eventil.com), places to find conferences you can submit talks to
+- [Papercall](http://papercall.io), [Technically Speaking](https://tinyletter.com/techspeak) or [Eventil](https://eventil.com), places to find conferences you can submit talks to
 
 ## Support 🙋🏿
 
@@ -79,6 +79,10 @@ Please note that webinars take place through Zoom. The Zoom client will automati
 ### 1-to-1 calls 💖📞
 
 If you have questions you would like to talk to a trainer face to face about, you can request a video call [here](https://calendly.com/joenash/campus-experts-support). Please ensure you answer all questions in the form, or your call request may be denied.
+
+### Code of Conduct violations
+
+If you need support with a code of conduct violation or incident, please refer to the [Code of Conduct](../CODE_OF_CONDUCT.md).
 
 ## Module Completion ✅
 

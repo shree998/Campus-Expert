@@ -27,9 +27,9 @@ But public speaking, as we all know, isn't just about conference talks, right? I
 
 So these skills that I'm utilizing to not fall on my face - I'm standing in my kitchen right now while I'm talking to you - they're really valuable when I'm leading a meeting at work, or when my boss asks me to talk about what projects are on my team's plate, or when I'm pitching a technical implementation in an architecture review. 
 
-So there are lots of different places in our daily lives when we have this spotlight on us and we have to think about some words that we want to say and, hopefully, make it through that moment without puking or being reduced to a fit of nervous giggles. Y
+So there are lots of different places in our daily lives when we have this spotlight on us and we have to think about some words that we want to say and, hopefully, make it through that moment without puking or being reduced to a fit of nervous giggles.
 
-ou do these things already, right? They're a big part of our work, of our studies, of everything. I want you take a moment and think about what circumstances you already have in your daily work life, and school life, when there's a spotlight on you, you need to say something coherent. 
+You do these things already, right? They're a big part of our work, of our studies, of everything. I want you to take a moment and think about what circumstances you already have in your daily work life, and school life, when there's a spotlight on you, you need to say something coherent. 
 
 But most of us get nervous when we're in that spotlight. I'm going to guess that the majority of people on this call get a little bit anxious when we think about public speaking, right?
 
@@ -116,7 +116,7 @@ We actively avoid asking for feedback because it's just so painful sometimes. Or
 ## Don't be afraid to seek feedback - Video time: 14:36
 So in the next section, I want to help encourage you to overcome your fear of asking for feedback and help people give you specific, actionable, and truly helpful feedback. So I'm going to keep on using the example of getting feedback on some prepared words to ground us in specifics, but I'm hopeful that this is going to help you in any circumstance you encounter in life.
 
-So first, pick your feedback crew. Draw from your co-workers, your friends, and your other peers. I like to limit it to three or four people, at least at first. It's helpful if they're people that you already know are good at giving feedback or folks you share a similar context-- someone who knows your team, or your client, or your boss, or whoever you want to say these words to. 
+So first, pick your feedback crew. Draw from your co-workers, your friends, and your other peers. I like to limit it to three or four people, at least at first. It's helpful if they're people that you already know are good at giving feedback or folks who share a similar context-- someone who knows your team, or your client, or your boss, or whoever you want to say these words to. 
 
 Don't just pick people who you know are going to speak highly of you, though, because we want to learn how to get better, and these people need to give your trustworthy and honest opinions back to you.
 
@@ -137,7 +137,7 @@ It's key to set expectations for your feedback-givers and prepare yourself to ab
 
 Here are just a few examples of the kinds of things you can ask your feedback crew to think about as they listen to you practice. By priming their brains ahead of time, and cluing them into the kinds of feedback you're looking for, you'll both equip them well to help you and make sure you're ready to hear the kinds of things that they're going to say.
 
-## Practice your failures & preparing for feedback - Video time: 17:£5
+## Practice your failures & preparing for feedback - Video time: 17:45
 So for this prepared talk, I wanted to make sure that the flow of the content made sense and it didn't jump around too much. So when I practiced, I asked my crew to just pay special attention to whether or not I was building the information in a way that flowed. So when you're doing this practice run, don't stop if you fumble your words or make a mistake. 
 
 Lots of us instinctively restart when we mess up during a run-through. We'll fumble our words or something, and then stop, and then sigh. And I know there's that little voice inside all of us that wants us to wallow for a minute when we mess up. That voice wants us to just settle into that defeated feeling while practicing. But you can't get stuck there. You've got to push on through.
@@ -155,7 +155,7 @@ A company called LifeLabs developed a way to think about feedback that uses suit
 
 So hearts is feedback that's positive but not specific, like, "I really liked your talk." It's a very nice heart. 
 
-But diamonds takes that feedback and makes it specific or actionable. So, "I thought your talk was funny, especially that joke about that joke about Buttercup. It held my attention." That's a solid diamond. 
+But diamonds takes that feedback and makes it specific or actionable. So, "I thought your talk was funny, especially that joke about Buttercup. It held my attention." That's a solid diamond. 
 
 Clubs, it's feedback that's negative but not specific or constructive. So someone might say, like, "I thought your talk was boring." 
 

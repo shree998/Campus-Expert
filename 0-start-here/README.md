@@ -8,7 +8,9 @@ _After completing the module, click an option below to select it. These answers 
 
 # Getting Started 🚀
 
-This module walks you through everything you need to be able to follow the GitHub Campus Expert training. Follow the steps below before progressing on to module 1 - the introduction. If you are familiar with using GitHub, you can skip straight to the [instructions on completing an exercise](https://github.com/campus-experts/open-training/tree/master/0-start-here#completing-an-exercise).
+**If you are already familiar with using GitHub, you can skip straight to the [instructions on completing an exercise](https://github.com/campus-experts/open-training/tree/master/0-start-here#completing-an-exercise).**
+
+This module walks you through everything you need to be able to follow the GitHub Campus Expert training. Follow the steps below before progressing on to module 1 - the introduction. 
 
 _TIP: If at any stage during this (or future) modules, you need help or are stuck, you can find out how to get support in the "Support" section of the [README.md](./README.md#support-)._
 
@@ -31,7 +33,7 @@ The Campus Expert training features content from many creators. This content is 
 [Joe](https://github.com/joenash) is Student Program Manager at [GitHub](https://education.github.com), where his job is to tell students to capitalise the 'h' in GitHub. When he's not doing that, Joe maintains the Campus Expert program, supporting student leaders in building tech communities on campus. Joe is an unrepentant Haskell enthusiast, and has a weakness for the sparkle heart emoji 💖.  
 
 ## Video 📹
-_We try to accommodate a variety of learning styles. Every module contains a video, that covers the content of the module, as well as a written alternative. You can follow whichever works best for you._
+_We try to accommodate a variety of learning styles. Every module contains a video that covers the content of the module. The written content in the README mirrors the content of the video, and is provided as an alternative. For most videos, you will also find a complete transcript in the module's 'resources' folder._
 
 Youtube: https://www.youtube.com/watch?v=bKCa9LVacUk
 
@@ -42,6 +44,7 @@ Youtube: https://www.youtube.com/watch?v=bKCa9LVacUk
 - To complete a training module, you have to submit a solution to the exercises.
 - Exercises for a training module can be found in each modules "exercises" directory.
 - Check issues regularly! Issues aren't just for bugs, they're a great place to chat and start discussions. In Campus Experts, we use them like a forum!
+- Remember, whenever you submit a document, participate in an issue or pull request, or interact with another student, you are bound to abide by the [Code of Conduct](../CODE_OF_CONDUCT.md).
 
 ## Getting ready to complete exercises
 
@@ -55,13 +58,13 @@ Navigate to the "submissions" directory. We are going to create a directory, and
 
 Once we've clicked "New file", we'll start by putting in the directory name. The name for this directory will just be your GitHub username, so go ahead and enter your GitHub username, followed by a trailing slash, "/". This tells GitHub that we're not done with this file name yet, and actually we'd like the file we're making to be inside a directory. Once you've done that, enter "about.md". So the full path should be "/submissions/YOUR-USERNAME/about.md".
 
-We've named this file about.md because it is here that we're going to introduce ourselves to the other Campus Expert trainees. Tell us a little bit about yourself: what do you study, what community are you involved with, what's your favourite emoji? Please be mindful that the open-training repository is accessible to any student and to treat your private information as you would in any public space.
+We've named this file about.md because it is here that we're going to introduce ourselves to the other Campus Expert trainees. Tell us a little bit about yourself: what do you study, what community are you involved with, what's your favourite emoji? Please be mindful that the open-training repository is accessible to any student and to treat your private information as you would in any public space. Please also remember you are bound to abide, and are protected by, the [Code of Conduct](../CODE_OF_CONDUCT.md).
 
 Once you've done that, scroll to the bottom of the page to find the "new commit" box. This is how we save this file: by creating a Git commit. Enter a short description such as "Introduced myself to the Campus Experts" and then hit the green button.
 
 Although we've made this directory and this file, it currently only exists in our copy of the repository, our fork. Now we need to bring these changes over to the original repository. To do that, follow [this guide](https://help.github.com/articles/creating-a-pull-request-from-a-fork/).
 
-A pull request is like asking for a review: we have made some changes to this repository, and now we'd like someone to look at those, and if they like them, accept those changes into the original repository. Once you've clicked the green button, you'll have the opportunity to describe your changes. You will see that the box has some information in it already: this is a template. Whenever we make a pull request to the open-training repository, we should follow this template so that the trainers can help and review our changes as quickly as possible.
+A pull request is like asking for a review: we have made some changes to this repository, and now we'd like someone to look at those, and if they like them, accept those changes into the original repository. Once you've clicked the green button, you'll have the opportunity to describe your changes. You will see that the box has some information in it already: this is a template. Whenever we make a pull request to the open-training repository, we should follow this template so that the trainers can help and [review](../docs/review-and-response.md) our changes as quickly as possible.
 
 Follow the template now, being sure to follow instructions about how to set the title and the correct labels.
 
@@ -87,7 +90,7 @@ To complete an exercise:
 - Navigate back to the original "open-training" repository.
 - Start a pull request with your changes.
 - Follow the pull request template to complete the title, description, and labels.
-- Wait for review!
+- Wait for [review](../docs/review-and-response.md)!
 
 ## Keeping your fork in sync
 
@@ -124,6 +127,10 @@ Please note that webinars take place through Zoom. The Zoom client will automati
 ### 1-to-1 calls 💖📞
 
 If you have questions you would like to talk to a trainer face to face about, you can request a video call [here](https://calendly.com/joenash/campus-experts-support). Please ensure you answer all questions in the form, or your call request may be denied.
+
+### Code of Conduct violations
+
+If you need support with a code of conduct violation or incident, please refer to the [Code of Conduct](../CODE_OF_CONDUCT.md).
 
 ## Module Completion ✅
 
