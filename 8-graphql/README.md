@@ -24,7 +24,7 @@ The content in this module is provided by Wilhelm Klopp and Brooks Swinnerton.
 ###  Wilhelm Klopp
 <img src="https://github.com/wilhelmklopp.png" href="https://github.com/wilhelmklopp" title="Wilhelm Klopp" width="150"></img>
 
-[Wilhelm](https://wilhelmklopp.com) is currently an intern on the Education team at GitHub, where he has built [GitHub Field Day](https://githubfieldday.com). Wilhelm is a Campus Expert and student at University College London, where he lead the [UCLU Technology Society](http://techsoc.io/), and worked with administrators to release an [open API for students](http://uclapi.com/). He almost created the Slack plugin, [SimplePoll](https://simplepoll.rocks/).
+[Wilhelm](https://wilhelmklopp.com) is currently an intern on the Education team at GitHub, where he has built [GitHub Field Day](https://githubfieldday.com). Wilhelm is a Campus Expert and student at University College London, where he lead the [UCLU Technology Society](http://techsoc.io/), and worked with administrators to release an [open API for students](http://uclapi.com/). He also created the Slack plugin, [SimplePoll](https://simplepoll.rocks/).
 
 
 ###  Brooks Swinnerton
@@ -78,6 +78,10 @@ Please note that webinars take place through Zoom. The Zoom client will automati
 ### 1-to-1 calls 💖📞
 
 If you have questions you would like to talk to a trainer face to face about, you can request a video call [here](https://calendly.com/joenash/campus-experts-support). Please ensure you answer all questions in the form, or your call request may be denied.
+
+### Code of Conduct violations
+
+If you need support with a code of conduct violation or incident, please refer to the [Code of Conduct](../CODE_OF_CONDUCT.md).
 
 ## Module Completion ✅
 

@@ -4,9 +4,11 @@
 
 **PRO-TIP** _This repository generates a lot of notifications. You should read [our guide](docs/managing-notifications.md) on managing notifications._
 
-This README explains how to get started with the training, and how to become a Campus Expert. By participating in the Campus Expert program, you agree to the [terms](https://education.github.com/experts/terms).
+This README explains how to get started with the training, and how to become a Campus Expert. By participating in the Campus Expert program, you agree to the [terms](https://education.github.com/experts/terms) and to abide by the [code of conduct](CODE_OF_CONDUCT.md).
 
 ## Latest news
+
+### [Mass Merge Incident - 2017 August 20th](https://github.com/campus-experts/open-training/issues/233)
 
 [This issue](https://github.com/campus-experts/open-training/issues/40) contains announcements and latest news about the training, features and benefits for you. You should [subscribe to this issue](https://help.github.com/articles/subscribing-to-conversations/) so you're always able to participate in the latest cool things!
 
@@ -18,7 +20,7 @@ People learn better when they can learn with a community of likeminded peers. A 
 
 To become a Campus Expert, you must complete the following:
 
-- [Module 0](/0-start-here) - Getting Started.
+- [Module 0](/0-start-here) - Getting Started
 - [Module 1](/1-introduction) - Introduction.
 - At least 3 other modules.
 
@@ -38,12 +40,12 @@ _PLEASE NOTE_: We try to accommodate a variety of learning styles. The videos ar
 
 ## How do I choose which modules to complete?
 
-Every Campus Expert should start with the Introduction module. During this module, you will gain a much better understanding of your community, and what you need to learn in order to make your community shine. Completing the Introduction module will guide your further module choices.
+Every Campus Expert should start with Module 0, Getting Started. If you are familiar with GitHub, you can skip straight to the [instructions on completing an exercise](https://github.com/campus-experts/open-training/tree/master/0-start-here#completing-an-exercise). During this module, you will gain a much better understanding of your community, and what you need to learn in order to make your community shine. Completing the Introduction module will guide your further module choices.
 
 ## What training modules are available?
 
 The currently available training modules are:
-- [Module 0](/0-start-here) - Getting Started (Recommend)
+- [Module 0](/0-start-here) - Getting Started (Compulsory)
 - [Module 1](/1-introduction) - Introduction (Compulsory)
 - [Module 2](/2-community-management) - Community Management
 - [Module 3](/3-public-speaking) - Public Speaking

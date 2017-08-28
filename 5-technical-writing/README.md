@@ -1,6 +1,6 @@
 ![module-5-banner](https://user-images.githubusercontent.com/1790822/28998941-31bc9226-7a05-11e7-98e2-07e604f90c07.png)
 
-# Did you enjoy this module? 👍👍
+# Did you enjoy this module? 👍:-1:
 _After completing the module, click an option below to select it. These answers help us improve content for you and future students._  
 
 [![](https://m131jyck4m.execute-api.us-west-2.amazonaws.com/prod/poll/01BQ93C0JV9JMJA91TK6Y2QZJQ/I%20enjoyed%20this%20module)](https://m131jyck4m.execute-api.us-west-2.amazonaws.com/prod/poll/01BQ93C0JV9JMJA91TK6Y2QZJQ/I%20enjoyed%20this%20module/vote)
@@ -77,6 +77,10 @@ Please note that webinars take place through Zoom. The Zoom client will automati
 ### 1-to-1 calls 💖📞
 
 If you have questions you would like to talk to a trainer face to face about, you can request a video call [here](https://calendly.com/joenash/campus-experts-support). Please ensure you answer all questions in the form, or your call request may be denied.
+
+### Code of Conduct violations
+
+If you need support with a code of conduct violation or incident, please refer to the [Code of Conduct](../CODE_OF_CONDUCT.md).
 
 ## Module Completion ✅
 

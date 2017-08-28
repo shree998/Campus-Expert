@@ -41,5 +41,3 @@ They'll say, "Oh, no. You're being rude by calling out my behavior," or, "Why is
 Step two is, if it continues, just ban them. You don't have to wring your hands over it. You don't have to worry about it. Just ban them. For every single bad person, they're driving away 20 good people, good people that want to contribute, but turn away from the community because they see these people, and they just don't want to deal with it.
 
 And you can't expect things to get better if there aren't consequences for negative actions and swift and immediate consequences also. The most important thing is the community, not the moderator, not any individual or clique of members. The community is the most important thing because the needs of the many outweigh the needs of the few or the one.
-
-~TODO~ Spock meme

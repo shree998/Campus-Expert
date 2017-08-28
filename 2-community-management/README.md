@@ -38,11 +38,11 @@ Why are we talking about online communities on a program called Campus Experts? 
 
 Consider a weekly meetup: this is a great facility, but how does collaboration continue in the time between those meetups? And if a member of the community is unable to attend in a given week, and needs support, where do they turn to?
 
-The ability to enable constant collaboration and provide an accessible, always available space is part of what makes online spaces invaluable. Another key benefit is the presence of a written record. If a community member asks a question in a physical space, and receives a great answer, unless they were thoughtful enough to record it and share it instantly, chances are it will be lost to the wider group. Other members who shared similar questions or who may have that question in the future cannot benefit from its answering. With an online space, however, retention and availability of this information is implicit (in most platforms, platforms like the free edition of Slack provide permanent history as a premium feature).
+The ability to enable constant collaboration and provide an accessible, always available space is part of what makes online spaces invaluable. Another key benefit is the presence of a written record. If a community member asks a question in a physical space, and receives a great answer, unless they were thoughtful enough to record it and share it instantly, chances are it will be lost to the wider group. Other members who shared similar questions or who may have that question in the future cannot benefit from its answering. With an online space, however, retention and availability of this information is implicit (in most platforms; platforms like the free edition of Slack provide permanent history as a premium feature).
 
 ### Types of online spaces
 
-There are lots of different types of online spaces where student groups gather. If there's an application that enables communication amongst a group, chances are someone has made it work for them. A notable example is Hackathon Hackers, a Facebook group of over 50,000 student hackers. Which application you use has many factors. Geography, for example, influences the choice of platform, with WeChat being essential in China. Some choices just come down to pervasive culture: IRC is very popular with student groups in the city of Edinburgh.
+There are lots of different types of online spaces where student groups gather. If there's an application that enables communication amongst a group, chances are someone has made it work for them. A notable example is Hackathon Hackers, a Facebook group of over 50,000 student hackers. Which application you use has many factors. Geography, for example, influences the choice of platform. Just consider how essential WeChat is in China. Some choices just come down to pervasive culture: IRC is very popular with student groups in the city of Edinburgh for instance.
 
 When it comes to choosing a platform for your online space though, there is one sure thing to optimise for. You want to choose a platform where your members are gathering regularly anyway. In other words, you want a platform with regular foot traffic. Let me give an example: Facebook is the most popular choice with US students not because it has the best features for online communities or groups, but because those students _use Facebook every day already_.
 
@@ -94,6 +94,10 @@ Please note that webinars take place through Zoom. The Zoom client will automati
 ### 1-to-1 calls 💖📞
 
 If you have questions you would like to talk to a trainer face to face about, you can request a video call [here](ttps://calendly.com/joenash/campus-experts-support). Please ensure you answer all questions in the form, or your call request may be denied.
+
+### Code of Conduct violations
+
+If you need support with a code of conduct violation or incident, please refer to the [Code of Conduct](../CODE_OF_CONDUCT.md).
 
 ## Module Completion ✅
 
