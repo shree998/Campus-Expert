@@ -18,7 +18,7 @@ Here are some elements you could include in a workshop:
   - What happens if someone falls behind?
   - Consider building in breaks that can also be used to catch up.
   - How can you structure your content to provide ways to catch up. For example, a GitHub repo with branches for every stage of the workshop, so someone who gets stuck at stage 2 can skip ahead to the code for stage 3 and continue to follow.
-- Participatory learning.
+- Learner participation
   - What questions can you ask the audience to keep them engaged with the content you are presenting?
   - How can you involve the participants in your exercises?
 - Adapting to your participants.
