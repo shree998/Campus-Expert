@@ -1,5 +1,11 @@
 THIS IS A PULL REQUEST TEMPLATE! This helps you complete a pull request. Please follow the instructions below. Reminder that you are bound to abide by the [Code of Conduct](../CODE_OF_CONDUCT.md)
 
+# 🚨 VERY IMPORTANT 🚨 - DELETE THIS SECTION AFTER COMPLETING
+
+**Please make sure your submission is in the correct directory**. In most cases, this is in submissions/YOUR-USERNAME/module-MODULENUMBER.
+
+You can find complete details in the submission instructions for each module. 
+
 ## Description
 Tell us about your pull request!
 
