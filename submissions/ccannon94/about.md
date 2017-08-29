@@ -5,4 +5,4 @@ communities. I am on the executive board of the ACM chapter at NCAT, as well as 
 our MakerSpace, and an undergraduate TA for the Computer Science department. I plan to use the "pop-up classes" format used by the
 Robotics Club and the MakerSpace to reach as many engineering students as possible with git, GitHub, and open source instruction.
 
-My favorite emoji is definitely :+1:, its my go-to response to pretty much everything!
+My favorite emoji is definitely :+1:, its my go-to response to pretty much everything! 
