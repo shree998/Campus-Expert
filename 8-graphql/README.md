@@ -24,7 +24,7 @@ The content in this module is provided by Wilhelm Klopp and Brooks Swinnerton.
 ###  Wilhelm Klopp
 <img src="https://github.com/wilhelmklopp.png" href="https://github.com/wilhelmklopp" title="Wilhelm Klopp" width="150"></img>
 
-[Wilhelm](https://wilhelmklopp.com) is currently an intern on the Education team at GitHub, where he has built [GitHub Field Day](https://githubfieldday.com). Wilhelm is a Campus Expert and student at University College London, where he lead the [UCLU Technology Society](http://techsoc.io/), and worked with administrators to release an [open API for students](http://uclapi.com/). He almost created the Slack plugin, [SimplePoll](https://simplepoll.rocks/).
+[Wilhelm](https://wilhelmklopp.com) is currently an intern on the Education team at GitHub, where he has built [GitHub Field Day](https://githubfieldday.com). Wilhelm is a Campus Expert and student at University College London, where he lead the [UCLU Technology Society](http://techsoc.io/), and worked with administrators to release an [open API for students](http://uclapi.com/). He also created the Slack plugin, [SimplePoll](https://simplepoll.rocks/).
 
 
 ###  Brooks Swinnerton
