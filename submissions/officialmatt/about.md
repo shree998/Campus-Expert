@@ -1,5 +1,3 @@
-![](https://avatars3.githubusercontent.com/u/923242?v=4&s=150)
-
 # About Matt
 
 Hello I'm Matt - about to be 3rd year Computer Science student at UCL. I'm currently working as an intern at Rightmove where I'm learning all sorts of Java wizardry and how to tell people that I don't sell houses.
