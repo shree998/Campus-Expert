@@ -1,5 +1,11 @@
 ![module-7-banner](https://user-images.githubusercontent.com/1790822/28998943-35f6ce92-7a05-11e7-834d-25158f31b3da.png)
 
+# Did you enjoy this module? 👍👎
+_After completing the module, click an option below to select it. These answers help us improve content for you and future students._  
+
+[![](https://m131jyck4m.execute-api.us-west-2.amazonaws.com/prod/poll/01BQ93FTHCJ1YXWAZVSA3N1890/I%20enjoyed%20this%20module)](https://m131jyck4m.execute-api.us-west-2.amazonaws.com/prod/poll/01BQ93FTHCJ1YXWAZVSA3N1890/I%20enjoyed%20this%20module/vote)
+[![](https://m131jyck4m.execute-api.us-west-2.amazonaws.com/prod/poll/01BQ93FTHCJ1YXWAZVSA3N1890/I%20did%20not%20enjoy%20this%20module)](https://m131jyck4m.execute-api.us-west-2.amazonaws.com/prod/poll/01BQ93FTHCJ1YXWAZVSA3N1890/I%20did%20not%20enjoy%20this%20module/vote)
+
 # Contributing to your Career 💼🆙
 
 ## Learning Goals 🥅
@@ -72,16 +78,21 @@ Please note that webinars take place through Zoom. The Zoom client will automati
 
 If you have questions you would like to talk to a trainer face to face about, you can request a video call [here](https://calendly.com/joenash/campus-experts-support). Please ensure you answer all questions in the form, or your call request may be denied.
 
+### Code of Conduct violations
+
+If you need support with a code of conduct violation or incident, please refer to the [Code of Conduct](../CODE_OF_CONDUCT.md).
+
 ## Module Completion ✅
 
 This module is complete when:
 - You have made a contribution to an open source project, whether your own, your communities, a third party, or a Campus Expert project.
 - You have followed the steps to submit.
 - Your pull request is merged!
+- You have completed the [survey](https://goo.gl/forms/yWLpRp4xycPs6PKS2).
 
 ## Campus Expert Benefits 🏅
 
 Every module completed allows a Campus Expert to access certain benefits. To become a Campus Expert, you must complete a minimum number of training modules and then complete an application. More instructions can be found in the application module.
 
 Completing this module earns:
-- The "Contributing to your career" badge!
+- The "Contributing to your career" [badge](../docs/badges.md).

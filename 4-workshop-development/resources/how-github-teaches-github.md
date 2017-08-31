@@ -1,6 +1,6 @@
 # How GitHub teaches GitHub
 
-_The content below is edited excerpts from the recorded talk in the README.md. You can find the full transcript in the [resources](resources/) folder_
+_The content below is edited excerpts from the recorded talk in the README.md. You can find the full transcript in the [resources](../resources) folder_
 
 When newcomers first approach Git and GitHub, there is a dizzying array of choices. Take starting a new project, for example. A newcomer is confronted with the following choices:
 

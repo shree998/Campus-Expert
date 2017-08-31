@@ -1,5 +1,13 @@
 ![module-8-banner](https://user-images.githubusercontent.com/1790822/28998944-37647626-7a05-11e7-846d-ee250d31d8d9.png)
 
+# Did you enjoy this module? 👍👍
+_After completing the module, click an option below to select it. These answers help us improve content for you and future students._  
+
+
+[![](https://m131jyck4m.execute-api.us-west-2.amazonaws.com/prod/poll/01BQ93GH3VS8GRJKTWJVTMRN4X/I%20enjoyed%20this%20module)](https://m131jyck4m.execute-api.us-west-2.amazonaws.com/prod/poll/01BQ93GH3VS8GRJKTWJVTMRN4X/I%20enjoyed%20this%20module/vote)
+[![](https://m131jyck4m.execute-api.us-west-2.amazonaws.com/prod/poll/01BQ93GH3VS8GRJKTWJVTMRN4X/I%20did%20not%20enjoy%20this%20module)](https://m131jyck4m.execute-api.us-west-2.amazonaws.com/prod/poll/01BQ93GH3VS8GRJKTWJVTMRN4X/I%20did%20not%20enjoy%20this%20module/vote)
+
+
 # GraphQL 📈⁉️
 
 ## Learning Goals 🥅
@@ -16,7 +24,7 @@ The content in this module is provided by Wilhelm Klopp and Brooks Swinnerton.
 ###  Wilhelm Klopp
 <img src="https://github.com/wilhelmklopp.png" href="https://github.com/wilhelmklopp" title="Wilhelm Klopp" width="150"></img>
 
-[Wilhelm](https://wilhelmklopp.com) is currently an intern on the Education team at GitHub, where he has built [GitHub Field Day](https://githubfieldday.com). Wilhelm is a Campus Expert and student at University College London, where he lead the [UCLU Technology Society](http://techsoc.io/), and worked with administrators to release an [open API for students](http://uclapi.com/). He almost created the Slack plugin, [SimplePoll](https://simplepoll.rocks/).
+[Wilhelm](https://wilhelmklopp.com) is currently an intern on the Education team at GitHub, where he has built [GitHub Field Day](https://githubfieldday.com). Wilhelm is a Campus Expert and student at University College London, where he lead the [UCLU Technology Society](http://techsoc.io/), and worked with administrators to release an [open API for students](http://uclapi.com/). He also created the Slack plugin, [SimplePoll](https://simplepoll.rocks/).
 
 
 ###  Brooks Swinnerton
@@ -71,17 +79,22 @@ Please note that webinars take place through Zoom. The Zoom client will automati
 
 If you have questions you would like to talk to a trainer face to face about, you can request a video call [here](https://calendly.com/joenash/campus-experts-support). Please ensure you answer all questions in the form, or your call request may be denied.
 
+### Code of Conduct violations
+
+If you need support with a code of conduct violation or incident, please refer to the [Code of Conduct](../CODE_OF_CONDUCT.md).
+
 ## Module Completion ✅
 
 This module is complete when:
 - You have completed the challenges in the video.
 - You have followed the steps to submit.
 - Your pull request is merged!
+- You have completed the [survey](https://goo.gl/forms/yWLpRp4xycPs6PKS2).
 
 ## Campus Expert Benefits 🏅
 
 Every module completed allows a Campus Expert to access certain benefits. To become a Campus Expert, you must complete a minimum number of training modules and then complete an application. More instructions can be found in the application module.
 
 Completing this module earns:
-- The "GraphQL" badge.
+- The "GraphQL" [badge](../docs/badges.md).
 - Eligibility for funding support to host GraphQL workshops on your campus or at hackathons GitHub supports.

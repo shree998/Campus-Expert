@@ -1,5 +1,11 @@
 ![module-1-banner](https://user-images.githubusercontent.com/1790822/28998938-2912b34e-7a05-11e7-9117-af6149c4f5f0.png)
 
+# Did you enjoy this module? 👍👎
+_After completing the module, click an option below to select it. These answers help us improve content for you and future students._  
+
+[![](https://m131jyck4m.execute-api.us-west-2.amazonaws.com/prod/poll/01BQ936T45DHYK8Q4J3WXR7NWW/I%20enjoy%20this%20module)](https://m131jyck4m.execute-api.us-west-2.amazonaws.com/prod/poll/01BQ936T45DHYK8Q4J3WXR7NWW/I%20enjoy%20this%20module/vote)
+[![](https://m131jyck4m.execute-api.us-west-2.amazonaws.com/prod/poll/01BQ936T45DHYK8Q4J3WXR7NWW/I%20did%20not%20enjoy%20this%20module)](https://m131jyck4m.execute-api.us-west-2.amazonaws.com/prod/poll/01BQ936T45DHYK8Q4J3WXR7NWW/I%20did%20not%20enjoy%20this%20module/vote)
+
 # Introduction 👋
 
 ## Learning Goals 🥅
@@ -20,9 +26,11 @@ The content in this module is provided by Joe Nash.
 
 ## Video 📹
 
+_We try to accommodate a variety of learning styles. Every module contains a video that covers the content of the module. The written content in the README mirrors the content of the video, and is provided as an alternative. For most videos, you will also find a complete transcript in the module's 'resources' folder._
+
 Youtube: https://www.youtube.com/watch?v=kCs0gSlFM1A
 
-## Welcome to Campus Experts. 👋🚩
+## Welcome to Campus Experts 👋🚩
 
 Campus Experts are students passionate about building technical communities on campus, with training and support from GitHub. We all learn better when part of a group of likeminded individuals. When surrounded by our peers, we can be supported, have a surface to test ideas against, and have greater access to more diverse knowledge. At GitHub Education, we believe there is no place this is more true than at school, or on campus.
 
@@ -44,13 +52,13 @@ _What different shared struggles might a group of students in a computer science
 
 As you think about the campus and the people in it, think about what struggle you want to address. What problem do you want to tackle for your fellow students? That is a great starting place for a community.
 
-Let's have a look at an example of an existing and highly successful community. In the below video, you'll find a talk by Emma and Andrew Seward of TechNottingham. TechNottingham is a technical community in the city of Nottingham, in the UK. In this video, Andrew and Emma talk about the community, their philosophy, and some of the tools, techniques and events they use to bring that community closer together.
+Let's have a look at an example of an existing and highly successful community. In the video for this module, you'll find a talk by Emma and Andrew Seward of TechNottingham. TechNottingham is a technical community in the city of Nottingham, in the UK. In this video, Andrew and Emma talk about the community, their philosophy, and some of the tools, techniques, and events they use to bring that community closer together.
 
 _What common struggle does your community have?_
 
 Now that we have some idea of the core of a successful community, how do we move to make that community a reality? The other modules in the training hope to provide some of the answer to that question. But there's a lot of modules to choose from, so let's talk about how you can define what your community needs.
 
-In the exercises document inside this module, you will find a couple of exercises to complete. These are the community assessment and the community impact proposal. The community assessment is a tool of sorts that helps you analyse, or define, the community on your campus. Where it is now, and where you want it to be. The community impact proposal is where you define how you'll move your community between the two: it helps you construct a plan and goals. Once you have analysed your community, and made a plan, you'll have a much better idea of which modules to study. For example, you might analyse your community and determine that it's focused around helping new students learn about web technology. You have a core group of passionate students who know lots about web development, but you're not sure how to convey that knowledge. Well the public speaking and workshop modules might be for you. Or maybe you're part of a community that's been around for a while, but your membership has stopped growing, inactivity is high, and rifts are starting to open. In that case, the community management and inclusive community modules might be ideal for you. It may be the case that you discover you need something we don't yet have a module for: if you have module requests, you can make suggestions in this issue.
+In the exercises document inside this module, you will find a couple of exercises to complete. These are the community assessment and the community impact proposal. The community assessment is a tool of sorts that helps you analyse, or define, the community on your campus. Where it is now, and where you want it to be. The community impact proposal is where you define how you'll move your community between the two: it helps you construct a plan and goals. Once you have analysed your community, and made a plan, you'll have a much better idea of which modules to study. For example, you might analyse your community and determine that it's focused around helping new students learn about web technology. You have a core group of passionate students who know lots about web development, but you're not sure how to convey that knowledge. Well the public speaking and workshop modules might be for you. Or maybe you're part of a community that's been around for a while, but your membership has stopped growing, inactivity is high, and rifts are starting to open. In that case, the community management and inclusive community modules might be ideal for you. It may be the case that you discover you need something we don't yet have a module for: if you have module requests, you can make suggestions by opening an issue.
 
 ## Exercise 📝
 
@@ -84,18 +92,23 @@ Please note that webinars take place through Zoom. The Zoom client will automati
 
 If you have questions you would like to talk to a trainer face to face about, you can request a video call [here](https://calendly.com/joenash/campus-experts-support). Please ensure you answer all questions in the form, or your call request may be denied.
 
+### Code of Conduct violations
+
+If you need support with a code of conduct violation or incident, please refer to the [Code of Conduct](../CODE_OF_CONDUCT.md).
+
 ## Module Completion ✅
 
 This module is complete when:
 - You have completed the community assessment.
 - You have completed the community impact proposal.
-- You have followed the instructions to submit.
+- You have followed the [instructions to submit](https://github.com/campus-experts/open-training/blob/master/1-introduction/exercises/submission.md).
 - Your pull request is merged!
+- You have completed the [survey](https://goo.gl/forms/yWLpRp4xycPs6PKS2).
 
 ## Campus Expert Benefits 🏅
 
 Every module completed allows a Campus Expert to access certain benefits. To become a Campus Expert, follow the instructions in the [Application module](../n+1-application/README.md).
 
 Completing this module earns:
-- The "Introduction" badge!
+- The "Introduction" [badge](../docs/badges.md).
 - A GitHub swag bag for your community ✨.

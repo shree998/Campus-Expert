@@ -1,5 +1,11 @@
 ![module-2-banner](https://user-images.githubusercontent.com/1790822/28998939-2e27574a-7a05-11e7-84be-bc158d21855f.png)
 
+# Did you enjoy this module? 👍👎
+_After completing the module, click an option below to select it. These answers help us improve content for you and future students._  
+
+[![](https://m131jyck4m.execute-api.us-west-2.amazonaws.com/prod/poll/01BQ937P6RST9KJFKPSV1FC9RW/I%20enjoyed%20this%20module)](https://m131jyck4m.execute-api.us-west-2.amazonaws.com/prod/poll/01BQ937P6RST9KJFKPSV1FC9RW/I%20enjoyed%20this%20module/vote)
+[![](https://m131jyck4m.execute-api.us-west-2.amazonaws.com/prod/poll/01BQ937P6RST9KJFKPSV1FC9RW/I%20did%20not%20enjoy%20this%20module)](https://m131jyck4m.execute-api.us-west-2.amazonaws.com/prod/poll/01BQ937P6RST9KJFKPSV1FC9RW/I%20did%20not%20enjoy%20this%20module/vote)
+
 # Community Management 💬😈
 
 ## Learning Goals 🥅
@@ -32,11 +38,11 @@ Why are we talking about online communities on a program called Campus Experts? 
 
 Consider a weekly meetup: this is a great facility, but how does collaboration continue in the time between those meetups? And if a member of the community is unable to attend in a given week, and needs support, where do they turn to?
 
-The ability to enable constant collaboration and provide an accessible, always available space is part of what makes online spaces invaluable. Another key benefit is the presence of a written record. If a community member asks a question in a physical space, and receives a great answer, unless they were thoughtful enough to record it and share it instantly, chances are it will be lost to the wider group. Other members who shared similar questions or who may have that question in the future cannot benefit from its answering. With an online space, however, retention and availability of this information is implicit (in most platforms, platforms like the free edition of Slack provide permanent history as a premium feature).
+The ability to enable constant collaboration and provide an accessible, always available space is part of what makes online spaces invaluable. Another key benefit is the presence of a written record. If a community member asks a question in a physical space, and receives a great answer, unless they were thoughtful enough to record it and share it instantly, chances are it will be lost to the wider group. Other members who shared similar questions or who may have that question in the future cannot benefit from its answering. With an online space, however, retention and availability of this information is implicit (in most platforms; platforms like the free edition of Slack provide permanent history as a premium feature).
 
 ### Types of online spaces
 
-There are lots of different types of online spaces where student groups gather. If there's an application that enables communication amongst a group, chances are someone has made it work for them. A notable example is Hackathon Hackers, a Facebook group of over 50,000 student hackers. Which application you use has many factors. Geography, for example, influences the choice of platform, with WeChat being essential in China. Some choices just come down to pervasive culture: IRC is very popular with student groups in the city of Edinburgh.
+There are lots of different types of online spaces where student groups gather. If there's an application that enables communication amongst a group, chances are someone has made it work for them. A notable example is Hackathon Hackers, a Facebook group of over 50,000 student hackers. Which application you use has many factors. Geography, for example, influences the choice of platform. Just consider how essential WeChat is in China. Some choices just come down to pervasive culture: IRC is very popular with student groups in the city of Edinburgh for instance.
 
 When it comes to choosing a platform for your online space though, there is one sure thing to optimise for. You want to choose a platform where your members are gathering regularly anyway. In other words, you want a platform with regular foot traffic. Let me give an example: Facebook is the most popular choice with US students not because it has the best features for online communities or groups, but because those students _use Facebook every day already_.
 
@@ -89,17 +95,22 @@ Please note that webinars take place through Zoom. The Zoom client will automati
 
 If you have questions you would like to talk to a trainer face to face about, you can request a video call [here](ttps://calendly.com/joenash/campus-experts-support). Please ensure you answer all questions in the form, or your call request may be denied.
 
+### Code of Conduct violations
+
+If you need support with a code of conduct violation or incident, please refer to the [Code of Conduct](../CODE_OF_CONDUCT.md).
+
 ## Module Completion ✅
 
 This module is complete when:
 - You have completed a case study of a community moderation action.
 - You have followed the instructions to submit.
 - Your pull request is merged!
+- You have completed the [survey](https://goo.gl/forms/yWLpRp4xycPs6PKS2).
 
 ## Campus Expert Benefits 🥇
 
 Every module completed allows a Campus Expert to access certain benefits. To become a Campus Expert, follow the instructions in the [Application module](../n+1-application/README.md).
 
 Completing this module earns:
-- The "Community management" badge.
+- The "Community management" [badge](../docs/badges.md).
 - Access to a [free GitHub Team plan](https://github.com/pricing/team), to create a GitHub organisation for your community and members.
