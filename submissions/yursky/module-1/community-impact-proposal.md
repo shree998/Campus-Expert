@@ -51,6 +51,8 @@ I think this would be a great way to accomplish all of these things. In addition
 | RGV Hackathon? | TBA
 
 These are the dates of most of the major Texas hackathons that come to mind for me. It would be ideal if we could have a meetup before each one. 🙌
+
+[Florida Hackers](http://www.floridahackers.com/) is an existing community of cross school hackers that is extremely successful in bringing together hackers in a greater community. There are quite a few things that can be taken from them as examples on how to implement something like this well.
 ___
 
 ##### Tech Oriented Meetups
@@ -135,7 +137,7 @@ While it is true that people have multiple interests and oftentimes these overla
 
 We will review the performance of current strategy in late October immediately following HackTX.
 
-It will be difficult to create an objective metric for measurement the success of this project. Activity on the fb group is a way of measuring success however not completely indicative of the overall activity in the community at large.
+It will be difficult to create an objective metric for measurement the success of this project. Activity on the fb group is a way of measuring success however not completely indicative of the overall activity in the community at large. I think it will be mostly a question of how the community feels as a whole after the event. Maybe a survey or some other method of gathering concrete data may be more effective.
 
 Hopefully we will be able to succeed in building more personal interactions in Freetail Hackers!
 
