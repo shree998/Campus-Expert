@@ -5,10 +5,11 @@ Hello! My name is Joseph Schiarizzi.  I'm studying computer science at The Georg
 
 ## Interests
 
-In terms of technology I think AR stuff is very cool.  I like to build things from scratch with Arduinos and Raspberry Pi's.  I love cartography and making [maps](josephschiarizzi.com/Virginia-dems-election-map-2017/) too.
+In terms of technology I think AR stuff is very cool.  I like to build things from scratch with Arduinos and Raspberry Pi's.  
 
 I also love hiking and being in the woods.  Last summer I hiked 500 miles on the Appalachian Trail and after I graduate from college I plan to hike the entire trail from Georgia to Maine.  The woods are alive, man!
 
+I love cartography and making [maps](josephschiarizzi.com/Virginia-dems-election-map-2017/) is something I'm really passionate about too.
 
 ## Keep up with Joseph
 
