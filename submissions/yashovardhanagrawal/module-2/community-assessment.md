@@ -1,6 +1,6 @@
 ## Definition
 
-  I am a student of the LNM Institute of Information Technology, Jaipur India. A college widely known for its coding culture, especially in the Open Source Community. In GSoC selections, our college's open source community managed the top 10 most selection worldwide. Our college's computer clubs are quite wide and are divided into many divisions. There are 2 major Computer Science Clubs, namely `Computer Society of India (CSI), LNMIIT Students' Chapter` and `Cybros - the Computer Club`. Cybros basically deals with taking classes for specific topics for the college students and CSI for managing events. Cybros is further divided into divisions according to the Languages and Tech Stack people are interested while CSI has its Technical Team and Managerial Team. I being on of the heads of Front End Division in Cybros and Technical Team Core Member of CSI, am a part of the major decisions taken by the student community.
+  I am a student of the LNM Institute of Information Technology, Jaipur India. A college widely known for its coding culture, especially in the Open Source Community. In GSoC selections, our college's open source community managed the top 10 most selection worldwide. Our college's computer clubs are quite wide and are divided into many divisions. There are 2 major Computer Science Clubs, namely `Computer Society of India (CSI), LNMIIT Students' Chapter` and `Cybros - the Computer Club`. Cybros basically deals with taking classes for specific topics for the college students and CSI for managing events. Cybros is further divided into divisions according to the Languages and Tech Stack people are interested while CSI has its Technical Team and Managerial Team. I being on of the heads of Front End Division in Cybros and Technical Team Core Member of CSI, am a part of the major decisions taken by the student community. <b>Both of the clubs have a common decision making body at the top hence both clubs work collectively as a team.</b> The experiences I would gain as a campus expert will hence be shared with both of them.
 
   - Our whole college labs use Linux as their only Operating System.
   - Almost 20% of our community members are female, and many of them have cracked Google Summer of Code.
@@ -11,13 +11,27 @@
 
 ## Resources
   As mentioned earlier Cybros deals with taking classes for the college students and CSI deals with other CS related events happening in the college like Hackathons, Workshops, Meetups etc. Most of the discussions happen over our mailing lists and chat groups but at least a weekly meeting is called every Saturday/ Sunday to keep up the enthusiasm going amongst the student community.
-  - Cybros aims to conduct at least 3 classes a week for every tech stack.
-  - Monthly an intra college hackathon is conducted for the students to test their skills and get an experience of pitching their products in front of judges.
-  - Summer and Winter Internship projects are organized for interested students who are willing to dedicate their holidays doing some productive open source work.
+  - Our community has access to nearly every classroom and labs of our college, just that permission is required from the administration for legit usage.
+  - We have
+    - 4 Lecture Theatres, each with a capacity of about 200 people.
+    - 16 Classrooms, each with a capacity of about 100 people.
+    - An auditorium, capacity of about 1000 people.
+    - 3 Computer Science Labs with capacity of 100 people each
+    - 2 Electronics Labs with capacity of 150 people each
+    - 1 Mechanical Workshop of about 12000 sq ft.
+    - 8-9 other smaller computer science labs dedicated to specific areas of research.
+
+  - An yearly budget is passed by the college administration to help student community to carry out its events. Under special occasions like when some big event is happening, we may be granted with extra budget for that specific event. We also look for sponsors to help us conduct our events better.
+  - Our college campus is about 10Kms away from the main city, but is really accessible and Uber Cabs serve us at our location. Other than that, government busses and college busses run time to time, nearly every hour.
 
 ## Accessibility
 
   Our student community is quite well managed with people having different positions and quite nicely divided work. Being the students of the same college the environment is quite informal and friendly. Github serves as the best medium to organize our work and set deadlines for everyone according to the workflow.
+  - We hold weekly meeting preferably in certain classrooms which we get permission to use from the college administration. Small discussions can also be done in the college cafeteria.
+  - During events we get permission to use the lecture theatres (we have 4 of them each with a capacity of about 200 people) or our auditorium (capacity of 1000 people).
+  - During workshops we also get permission for using the Labs (we have 3 computer science with capacity of 100 people each, 2 electronics labs with capacity of 150 people each, 1 mechanical workshop of about 12000 sq ft., many other computer science related labs may also be arranged for the same).
+  - If people from outside our college are attending the workshop we arrange special busses for them from the railway station and airport.
+  - During our technical fest which happens in Jan end, appropriate arrangement is done for comfortable stay for the participants.
 
 ## Interests
 
@@ -57,3 +71,6 @@
   * What can be better than an easy junior senior culture in college club! Everybody is open to share their thoughts and communicate freely with everyone.
   * Recruiting new people is always fun. We have a series of interviews for people who want to get into the managerial council. Normal membership is open for all and they can attend all the sessions we organize.
   * Celebrations are important right? We have perfect celebrations after every successful event we host.
+  * Gender ratio is about 2:1 (boys : girls). We always encourage girls to participate more in our community.
+  * We have departments divided amongst the group like department handling Web Development FrontEnd, BackEnd, Android Development, iOS Development, ML, AI etc. People having similar interest are divided further into specific groups.
+  * Altogether we have a lot of fun, many a times during the off time we may also get into the party mood and may for a hiking session on the nearby hills, play guitar and start singing (I'm a singer ;P) and what not!
