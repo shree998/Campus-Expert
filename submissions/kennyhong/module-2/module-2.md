@@ -9,7 +9,9 @@ At my school, we have an active collegiate community for a specific online game.
 
 The executive who received our first ever shipment is an active member of another group of the game which is not affliated with the university student group. He decided to open the shipment, take some swag and distribute it within his non-affliated group and gave some of the swag away as 'owing favors to friends'. This swag was supposed to be used to encourage membership and recruit new members to the collegiate group within the university. The incident came to light when the box was dropped off open and when we did the inventory, the numbers did not match up with what we requested or what was written down. The person who took the swag did not ask the other members of the executive, it was just taken, and we were confused why there was quite the difference in missing items. 
 
-We had originally brushed it off as a shipping error and adjusted our recruitment plans, but a few days later, a member of both communities came into our club room to thank us for the cool lanyard. We were confused about and asked him what he was talking about. He explained that one of the executives was handing out the lanyards to random people at an event not affliated with our group. 
+We had originally brushed it off as a shipping error and adjusted our recruitment plans, but a few days later, a member of both communities posted in our club's Facebook group with a picture to thank us for the lanyard. We were confused about and asked him what he was talking about. He explained that one of the executives was handing out the lanyards to random people at an event not affliated with our group. 
+
+Another non-executive member who knew about the shipment quickly replied that the swag wasn't supposed to be distributed until the start of the school year. Some group members started to notice the post and voiced their disappointment. Before it was able to escalate, one of the other executives decided to delete the post, and explain the situation to the poster. The poster understood and kept to themselves. 
 
 # Reactions
 
@@ -21,13 +23,17 @@ Shocked, we quickly set up a meeting and discussed the reason why he took the sw
 
 * Trust was broken between him and his fellow executive members. How were we able to trust him again?
 
-* This can affects the group's image, if someone were to find out that an important person of the group was taking and distributing items without asking.
+* This can affects the group's image, what would someone think about a student group where a trusted important representative of the group was taking and distributing items without asking.
 
 * We asked him to return the rest of the items taken and developed a new inventory system for the club.
 
 * We didn't want this to affect the community negatively and forgiveness is important for a positive outcome. He was a huge part in the planning of events and a well known player of the game and we didn't want to start a bigger situation outside our community. We decided as a group to give the person another chance.
 
+* If they wanted to remain a key player in our group, he had to post an apology since by this point, many of the group members knew about the situation.
+
 # Outcome
+
+He apologized and continued to work with us with events. The community was mostly positive with the situation but there were still some who voiced their opinion in a very rude and unneccessary manner. We dealt with toxic posts promptly, gave out warnings, and suspended from the group as a final measure.
 
 A year later, the inventory system is still going strong. All new shipments must be dropped sealed by the executive, due to the design of the box, any tampering is very noticable and will be noted. The box is opened during a meeting and gets counted and added into the inventory on the spot. Any extra swag left over from events gets used in the next event and stored in a locker where it gets counted each week and only two people have the key to the items. With constant monitoring and frequent events, we never had another incident. The group was happy with this outcome and I was happy this did not escalate any further.
 
