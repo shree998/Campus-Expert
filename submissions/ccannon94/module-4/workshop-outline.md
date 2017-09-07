@@ -1,5 +1,7 @@
 # Managing Projects on GitHub
 
+Tentative Date/Time: 2017-10-12 1400 EST
+
 ## Workshop Requirements
 - Time: 90 minutes
 - Resources: Computer lab with projector (Graham 203)
