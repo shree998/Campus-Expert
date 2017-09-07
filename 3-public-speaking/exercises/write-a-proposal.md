@@ -12,8 +12,8 @@ A talk proposal is needed to submit your talk to conferences or meetups, and is 
 ## Stretch goals
 
 You've written an proposal, why not submit it to a conference?
-- Check out [Papercall](http://papercall.io), [Technically Speaking](https://tinyletter.com/techspeak) or [Eventil](eventil.com) to find places to submit your talk.
-- You could also look for [local meetups](meetup.com) that may be interested.
+- Check out [Papercall](http://papercall.io), [Technically Speaking](https://tinyletter.com/techspeak) or [Eventil](https://eventil.com) to find places to submit your talk.
+- You could also look for [local meetups](https://meetup.com) that may be interested.
 - Why not give the talk to other Campus Experts? :sparkles: Chat with Joe if you are interested.
 
 ## Submitting the exercise

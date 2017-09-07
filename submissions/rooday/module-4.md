@@ -1,0 +1,33 @@
+# Creating a Mobile Application with React Native
+
+- **Learning goals**
+  - Understanding some basics of ES6 JavaScript.
+  - Understanding some basics of the React framework.
+  - Know how to compile and deploy one React Native codebase onto multiple platforms.
+- **Demonstrations and examples**
+  - Begin the workshop with some examples of mobile applications, both created with React Native and without.
+  - Show the difference in complexity between React Native and more traditional codebases, especially when maintaining support for multiple platforms.
+  - Show an example of a React Native app I've made, something simple.
+- **Discussions and pairing opportunities**
+  - Prior to the workshop, I'd ideally send a survey to participants to self-report their skill level, and put participants into groups such that groups would contain participants of varying skill levels.
+  - In addition, I'd brief some volunteers prior to the workshop so they could step in and help as needed.
+  - This way, as the workshop progresses, participants can learn from each other and keep each other up to speed.
+- **Recovery points**
+  - Hopefully the above will prevent too many people from falling behind too often, but just in case:
+  - A Git repo would be available with starter and final code, with generous amounts of comments, for participants to move ahead or catch up as needed.
+  - In addition, the slides would be available online, and I'd make sure everyone would be able to access them at the start, to further facilitate catching up or moving ahead at one's own pace.
+  - Finally, there would be breaks at major stages in the workshop, to allow participants to catch up, discuss with each other, and get some refreshments.
+- **Participatory learning**
+  - As most workshops go, I'd start with a simple, but not as efficient way of doing something, and improve it as the workshop progressed. I'd ask participants what changes they think should be made, hoping they'd guess the next changes.
+  - At points where participants can customize or add extra features, I'd ask them what they would do or add to get their input.
+  - If someone is stuck/asks a question, I'd field it to the group and see if anyone wants to step in and respond.
+  - For all of them, I could incentive participation with swag.
+- **Adapting to your participants**
+  - Prior to the workshop, optional demographics, skill levels, interests, background.
+  - After the workshop, send out survey asking what was good and bad, ideas for improvement and for future workshops.
+  - If a participant already knows some content, the slides and code is available for them to move on. The same goes for someone who needs help, as they can use the material to catch up. In both cases, I, or a volunteer, would step in when available to discuss with the participant to ensure they get the most out of the workshop.
+- **What happens after**
+  - Provide some ideas for customizing/advancing the application they just made. Provide examples they can look to for inspiration.
+  - Incentivize the above by asking for participants to submit their creations, reward the best with swag, etc.
+  - Participants could discuss the workshop on a Slack channel that exists for the group I am a part. I'd monitor the channel to check for questions and comments.
+  - Also, the survey mentioned above.
