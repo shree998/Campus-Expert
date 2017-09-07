@@ -11,6 +11,8 @@ The resources that the society members have are easily accessible to them, howev
 
 ### Communication
 DevSoc mainly relies on Slack or Facebook to communicate. This is helpful as it enables instant communication between individual members or the entire group. 
+Facebook is mostly used for new/prosepective members of the society to find information. It also allows us to easily post information to the society members, such as updates that they may have missed, and to arrange events by judging who would be interested and when the events would work the best.
+Slack is more useful for more general discussions and knowledge sharing. However, we are also using it for planning events.
 
 ### Culture
 The culture within DevSoc isn't particularly diverse. This is mostly because the majority of the students who join are studying the same subject. This isn’t a problem in the respect that it allows students with a similar course to get help from their peers. However, this also means that the society might not seem as friendly to those that just want to join the society, so we lose out on people with different experiences of the tech world and the potential to make the society better.
@@ -56,8 +58,10 @@ What resources do you have at your disposal to enhance that knowledge?
 
 ## Timeline
 Within the first week of term one we will have had a society meeting, a small presentation for new students, as well as a few social events so we can meet people and get them talking.
+After this we are planning on having different event throught the terms. We would like to arrange trips to relevant sites, as well as arranging for members of different companies and organisations to come in and give talks to our members.
 
 
 ## Planning for the Future
 The main way that I can measure the success of the proposal is by judging the numbers of DevSoc members. This won’t be something I can measure quickly as some people might stop attending.
 We are planning on having events at least once a term, as well as advertising the society in person once a term. This is in the hope that by reminding people that we are there will encourage them to attend and take part in the society.
+We will measure this by looking at the numbers of people attending the events as well as people actively taking part in online discussions.
