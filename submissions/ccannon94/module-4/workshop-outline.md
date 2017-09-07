@@ -7,6 +7,7 @@ Tentative Date/Time: 2017-10-12 1400 EST
 - Resources: Computer lab with projector (Graham 203)
 - Lab Assistants: 2
 - GitHub classroom team assignment with project document
+- Introduction to Git and GitHub Keynote
 
 ## Target Audience
 This workshop is intended for students who have already completed an Introduction to Git workshop
