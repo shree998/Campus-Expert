@@ -44,3 +44,43 @@ companies. Note that teaching students to produce _almost industry-quality_
 work enables them to _almost succeed_ in the workforce. Contrast student-
 developed StarUML diagrams with industry specifications and note the
 similarities in quality.
+
+## Excerpts from "Using Industry Best Practices in Computer Science Education"
+"When I say we should be using industry best practices in our classrooms, I
+don't mean to say that you should run your class like a business. Our job as
+educators is to build up and empower our students, not demand that they produce
+for us. Rather, I'm postulating that we _owe_ it to our students to teach them
+the tools that make the _most_ sense to get any given job done. GitHub isn't the
+largest community of open source projects in the world by mistake, it has grown
+so rapidly because it _empowers_ its users to work _better_ together and be as
+efficient as possible."
+
+"Industry best practice also means emphasis on standardization, not as an
+obstacle to innovation but as a tool for encapsulation and modularity. When
+our students spend less time reinventing basic code infrastructure, because we
+have taught them how to reuse key building blocks from a well organized code
+base, we have more time to teach the advanced concepts that will give our
+students an edge in the technical interview."
+
+"Take, for example, COMP 167, Computer Program Design at North Carolina A&T
+State University. COMP 167 has a series of what's called 'major programming
+assignments'. These assignments address blocks of program design topics at once,
+and are intended to test students' ability to integrate skills to produce a
+single solution. They work _great_, but recently we made them work even better.
+Previously, these programs were submitted to a Teaching Assistant via a .zip
+file containing a NetBeans project, not exactly industry best-practice. Grades
+were assigned based on 'levels', with each added layer of functionality earning
+a student a higher level. However, a student's grade was limited by the first
+incomplete level. So, if levels 3-4 were perfect, but level 2 was accidentally
+incomplete, a student would only get about a 40 out of 100. We decided there was
+a better way to approach this problem. Now, as students work through their
+assignment, they make a new branch in a GitHub Classroom assignment for each
+level. Additionally, after completing each level, students submit a pull
+request. This gives the Teaching Assistants the ability to give constructive
+feedback _as the students complete their work_, just like they could receive in
+the workplace. Additionally, an approved pull request confirms that a student
+receives full marks for a given branch, so much of the surprise is taken out of
+grading. This industry-mimicking approach gives students more opportunities to
+succeed, and more opportunities to learn as they complete an assignment because
+the Teaching Assistants can watch which parts the students struggle with and
+give immediate feedback."
