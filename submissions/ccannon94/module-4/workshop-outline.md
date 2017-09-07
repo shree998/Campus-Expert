@@ -12,6 +12,9 @@ Tentative Date/Time: 2017-10-12 1400 EST
 This workshop is intended for students who have already completed an Introduction to Git workshop
 _or_ have taken COMP167.
 
+Graham 203 can accommodate 35 students. Registration will be held on a first-come, first-serve basis
+and announced through official department email lists.
+
 ## Objectives
 By the conclusion of this workshop, students will be able to:
 - Recognize situations where GitHub can help them effectively manage projects
