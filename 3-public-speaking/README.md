@@ -54,7 +54,7 @@ The exercise for this module is to create a proposal for a talk. You can find a 
 - [What Your Conference Proposal is Missing](http://www.sarahmei.com/blog/2014/04/07/what-your-conference-proposal-is-missing/)
 - [We are all awesome](http://weareallaweso.me), advice for first time speakers
 - [Speaking.io](http://speaking.io) advice for speakers
-- [Papercall](http://papercall.io), [Technically Speaking](https://tinyletter.com/techspeak) or [Eventil](eventil.com), places to find conferences you can submit talks to
+- [Papercall](http://papercall.io), [Technically Speaking](https://tinyletter.com/techspeak) or [Eventil](https://eventil.com), places to find conferences you can submit talks to
 
 ## Support 🙋🏿
 
