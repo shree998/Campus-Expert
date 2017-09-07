@@ -15,6 +15,12 @@ _or_ have taken COMP167.
 Graham 203 can accommodate 35 students. Registration will be held on a first-come, first-serve basis
 and announced through official department email lists.
 
+## Accessibility
+Graham Hall is fully handicap accessible and transportation to campus is available through the
+Greensboro HEAT bus system. Computers are available in the lab for students unable to provide
+their own. Any students with needs beyond the accommodations above can contact the
+[Office of Veteran and Disability Support Services](http://www.ncat.edu/student-affairs/student-services/ovdss/index.html).
+
 ## Objectives
 By the conclusion of this workshop, students will be able to:
 - Recognize situations where GitHub can help them effectively manage projects
