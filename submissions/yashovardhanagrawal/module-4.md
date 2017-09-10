@@ -1,9 +1,27 @@
-## Git Workshop - Using Version Control Systems
+## Git/GitHub Workshop - Using Version Control Systems
 
 # Learning goals
   * Understanding the need of version control systems
   * Getting Started with Git - know the basic terminologies
-  *  Hands on experience about Git commands
+  * Hands on experience about Git commands
+
+# Workshop Contents
+
+  In this workshop we'll first introduce the basic terminologies used in Git. The workflow of the workshop will follow the following workflow.
+
+  1. Getting Started: 30 mins - this will the introduction to Git, people will get to know the difference between git & GitHub, making them know about the usage of version control systems, their different types along with installing git in their local system.
+
+  2. Getting Familiar with the terms: 30 mins - People will get familiar with the terminologies they have to use in Git.
+
+  A 15mins break will follow this
+
+  3. Using Git: 1 hrs. - People will be made to use Git and create their first local repository **setup, init, add, commit**. An introduction to workflow will be given **branch, checkout, merge**. They will get to know how to examine their work **log, gitk, diff**. Lastly, they will be introduced on how to deal with remote repositories **local, origin, upstream**
+
+  A 30mins lunch break will follow
+
+  4. Some common reviews with collaboration: 45mins - An introduction will be given on how to collaborate and code with other, some deployment strategies will be explained **tag, branching strategies**, commands related to collaboration will be introduced **clone, pull, push**, merging concepts will be told **merge**, resolving merge conflicts will follow that **mergetools**
+
+  5. Question Answer Session: 15-30 mins
 
 # Demonstrations and examples
   * The workshop will start with making people know the difference between Git and GitHub as many people think they are the same thing, giving examples of other alternatives to GitHub that work on a similar principle.
