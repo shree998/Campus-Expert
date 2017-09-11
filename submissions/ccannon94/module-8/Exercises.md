@@ -290,6 +290,29 @@ Response
 
 ### Exercise 4
 
+Find the database ID of the GitHub CEO and check whether he's a campus expert
+
+Input
+```
+query{
+	user(login:"defunkt"){
+    databaseId
+    isCampusExpert
+  }
+}
+```
+Response
+```
+{
+  "data": {
+    "user": {
+      "databaseId": 2,
+      "isCampusExpert": false
+    }
+  }
+}
+```
+
 ### Exercise 5
 
 Add a thumbs-up to Wilhelm's most recent issue in _github-graphql-workshop_
