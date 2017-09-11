@@ -266,6 +266,28 @@ Response
 
 ### Exercise 3
 
+Find your database ID
+
+Input
+```
+query{
+	viewer{
+    databaseId
+  }
+}
+
+```
+Response
+```
+{
+  "data": {
+    "viewer": {
+      "databaseId": 16315060
+    }
+  }
+}
+```
+
 ### Exercise 4
 
 ### Exercise 5
