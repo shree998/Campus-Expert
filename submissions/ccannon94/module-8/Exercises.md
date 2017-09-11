@@ -183,6 +183,87 @@ Response
 
 ### Exercise 2
 
+Fetch the issues for the Facebook React repository
+
+Input
+```
+query{
+	repository(owner: "facebook", name:"react"){
+    issues(last: 10){
+      edges{
+        node{
+          title
+        }
+      }
+    }
+  }
+}
+
+```
+Response
+```
+{
+  "data": {
+    "repository": {
+      "issues": {
+        "edges": [
+          {
+            "node": {
+              "title": "Remove performWithPriority from scheduler"
+            }
+          },
+          {
+            "node": {
+              "title": "eifjccgigekurdbfdijghgfbdhbhticgjvcfkjhfjcbj"
+            }
+          },
+          {
+            "node": {
+              "title": "Interactive documentation for JSX"
+            }
+          },
+          {
+            "node": {
+              "title": "ReactChildFiber.coerceRef does not like undefined ref on a component"
+            }
+          },
+          {
+            "node": {
+              "title": "picture srcset error"
+            }
+          },
+          {
+            "node": {
+              "title": "cannot set property 'nextEffect' of undefined"
+            }
+          },
+          {
+            "node": {
+              "title": "BFcache, SSR and form elements"
+            }
+          },
+          {
+            "node": {
+              "title": "React doesn't correctly re-render dynamically created Components added to an <svg> via state"
+            }
+          },
+          {
+            "node": {
+              "title": "What's the difference between yarn and npm ??"
+            }
+          },
+          {
+            "node": {
+              "title": "Where can I find information about React 16?"
+            }
+          }
+        ]
+      }
+    }
+  }
+}
+```
+
 ### Exercise 3
 
 ### Exercise 4
