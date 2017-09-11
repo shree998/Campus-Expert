@@ -335,12 +335,20 @@ query{
 Response
 ```
 {
-  "data": null,
-  "errors": [
-    {
-      "message": "No operation named \"\""
+  "data": {
+    "repository": {
+      "issues": {
+        "edges": [
+          {
+            "node": {
+              "id": "MDU6SXNzdWUyMTg2NjA4OTQ=",
+              "title": "Like me ✅"
+            }
+          }
+        ]
+      }
     }
-  ]
+  }
 }
 ```
 Input
