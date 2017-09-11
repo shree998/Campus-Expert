@@ -14,7 +14,7 @@ Our current community is really not open to new ideas because it is ran by three
 ## Your Proposal
  * Timeline:
    - Introduction to contributing to open source technologies. ``November 2017``
-   - Hack Ashesi (Hackathon) ``February 2018``
+   - Hack Ashesi (Hackathon) ``February 2018`` (We will plan this event to accomodate a 100 people).
 
 
  * Community Demographics:
@@ -39,6 +39,7 @@ Our current community is really not open to new ideas because it is ran by three
  
  * Resources
   - I will need snacks,swags and learning resources for my sessions on introduction to open source and hackathons. I plan to get the snacks from Google developers group and the swags and learning resources from Github.
+  - I will also talk to alumni company of my university and our ISP(MainOne) who has funded one of our past events.
  
  * Media
   - I will form a team to help me organize the team. I want to use my friends who are part of the Google developers group to help me organize my sessions.
@@ -53,6 +54,7 @@ Our current community is really not open to new ideas because it is ran by three
   - Hack Ashesi Hackathon - 12 hours.
 
 ## Planning for the future
- * I will always send out a survey after every workshop or hackathons to get people's feedback for future improvement.
+ * I will always send out a survey after every workshop or hackathons to get people's feedback for future improvement(These feedbacks will help me optimize my event for hacker happiness).
  * I will also make sure I introduce other people to the campus expert program so that they can continue growing the community once I graduate.
  * I will measure the hackathon success on attendance, team diversity and solutions developed during the hackathon.
+ * I will draft a plan and timeline for increasing the number of people in the community.
