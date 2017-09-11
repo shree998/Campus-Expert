@@ -7,11 +7,11 @@
 
 # Workshop Contents
 
-  In this workshop we'll first introduce the basic terminologies used in Git. The workflow of the workshop will follow the following workflow.
+  In this workshop we'll first introduce the basic terminologies **introduction to the terms like repository, branch, init, push, pull, branch, clone etc.** used in Git. The workflow of the workshop will follow the following workflow.
 
-  1. Getting Started: 30 mins - this will the introduction to Git, people will get to know the difference between git & GitHub, making them know about the usage of version control systems, their different types along with installing git in their local system.
+  1. Getting Started: 30 mins - this will be the introduction to Git, people will get to know the difference between git & GitHub, making them know about the usage of version control systems, their different types along with installing git in their local system.
 
-  2. Getting Familiar with the terms: 30 mins - People will get familiar with the terminologies they have to use in Git.
+  2. Getting Familiar with the terms: 30 mins - I shall provide a list of the basic terminologies **such as repository, branch, init push, pull, branch, clone, commit, etc.**  they have to use in Git. **A sample presentation can be found here: https://goo.gl/UU9KdR**
 
   A 15mins break will follow this
 
