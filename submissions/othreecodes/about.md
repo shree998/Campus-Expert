@@ -3,7 +3,7 @@ Hello, I'm David. Im a geek (the cool type) and a software developer from Lagos 
 My interests range from technology to entrepreneurship.
 
 # Community
-I currently serve as the CTO of [KnowIT](http://knowit.org.ng), an NGO that teaches teeanagers how to code.
+I currently serve as the CTO of [KnowIT](http://knowit.org.ng), an NGO that teaches teenagers how to code.
 
 # Interests
 iWriteCode Java, Python, Javascript. Angularjs, Django, JavaFX, Android 
