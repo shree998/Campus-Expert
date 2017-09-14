@@ -78,8 +78,6 @@ This module is complete when:
 Every module completed allows a Campus Expert to access certain benefits. To become a Campus Expert, you must complete a minimum number of training modules and then complete an application. More instructions can be found in the application module.
 
 Completing this module earns:
-
-Completing this module earns:
 - The "Electron" [badge](../docs/badges.md).
 - Electron stickers for your Electron workshops.
 - Eligibility for funding support to host Electron workshops on your campus or at hackathons GitHub supports.

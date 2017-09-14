@@ -19,7 +19,7 @@ By the end of this module, you will:
 
 The content in this module is provided by Kim Noel.
 
-###  Kim
+###  Kim Noel
 <img src="https://github.com/kim-codes.png" href="https://github.com/kim-codes" title="Kim Codes" width="150"></img>
 
 [Kim](https://github.com/kim-codes) is currently a Campus Expert and has interned on the Education team at GitHub.
