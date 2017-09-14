@@ -8,7 +8,7 @@ This README explains how to get started with the training, and how to become a C
 
 ## Latest news
 
-### [Mass Merge Incident - 2017 August 20th](https://github.com/campus-experts/open-training/issues/233)
+### [New modules! Say hello :wave: to Git, Electron, Atom and GitHub Pages](ISSUE HERE)
 
 [This issue](https://github.com/campus-experts/open-training/issues/40) contains announcements and latest news about the training, features and benefits for you. You should [subscribe to this issue](https://help.github.com/articles/subscribing-to-conversations/) so you're always able to participate in the latest cool things!
 
