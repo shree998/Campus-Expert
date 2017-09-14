@@ -15,6 +15,19 @@ By the end of this module, you will:
 - Understand how to effectively communicate open source projects to your club
 - Be prepared to bring your club and open source together
 
+## Meet the trainers 🍎
+
+The content in this module is provided by Kim Noel.
+
+###  Kim
+<img src="https://github.com/kim-codes.png" href="https://github.com/kim-codes" title="Kim Codes" width="150"></img>
+
+[Kim](https://github.com/kim-codes) is currently a Campus Expert and has interned on the Education team at GitHub.
+
+## Video 📹
+
+Youtube: https://www.youtube.com/watch?v=dpw6idEeU5g&index=5&list=PLPDgudJ_VDUdBu9ZcdRHPfmA_U3XI8lEI
+
 ## Introduction 👋
 
 This module is designed for to guide you in creating a local community revolved around open source projects. You will go through steps to creating an official club on campus. From understand the hierarchy of associations on your campus to becoming familiar with creating a proposal and executing it.
@@ -23,7 +36,7 @@ Let's start a club!
 
 ## Exercise
 
-The exercise in this module is to complete an outline of your campus club. Suggested outline and questions can be found in the exercises directory.
+The exercise in this module is broken into three parts: updating your impact proposal, completing an outline of your campus club, and providing an outline for an activity or event involving open source. Suggested outline and questions can be found in the exercises directory.
 
 ## Support 🙋🏿
 
@@ -48,10 +61,6 @@ Please note that webinars take place through Zoom. The Zoom client will automati
 ### 1-to-1 calls 💖📞
 
 If you have questions you would like to talk to a trainer face to face about, you can request a video call [here](https://calendly.com/joenash/campus-experts-support). Please ensure you answer all questions in the form, or your call request may be denied.
-
-### Code of Conduct violations
-
-If you need support with a code of conduct violation or incident, please refer to the [Code of Conduct](../CODE_OF_CONDUCT.md).
 
 ## Module Completion ✅
 

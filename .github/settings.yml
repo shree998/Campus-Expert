@@ -63,6 +63,14 @@ labels:
     color: D71E3C
   - name: MODULE-10
     color: D71E3C
+  - name: MODULE-11
+    color: D71E3C
+  - name: MODULE-12
+    color: D71E3C
+  - name: MODULE-13
+    color: D71E3C
+  - name: MODULE-14
+    color: D71E3C
   - name: application
     color: D71E3C
   - name: bug

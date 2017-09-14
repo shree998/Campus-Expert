@@ -45,17 +45,21 @@ Every Campus Expert should start with Module 0, Getting Started. If you are fami
 ## What training modules are available?
 
 The currently available training modules are:
-- [Module 0](/0-start-here) - Getting Started (Compulsory)
+- [Module 0](/0-start-here) - Getting started (Compulsory)
 - [Module 1](/1-introduction) - Introduction (Compulsory)
-- [Module 2](/2-community-management) - Community Management
-- [Module 3](/3-public-speaking) - Public Speaking
-- [Module 4](/4-workshop-development) - Workshop Development
-- [Module 5](/5-technical-writing) - Technical Writing
+- [Module 2](/2-community-management) - Community management
+- [Module 3](/3-public-speaking) - Public speaking
+- [Module 4](/4-workshop-development) - Workshop development
+- [Module 5](/5-technical-writing) - Technical writing
 - [Module 6](/6-fundraising) - Fundraising
 - [Module 7](/7-opensource) - Opensource
 - [Module 8](/8-graphql) - GraphQL
 - [Module 9](/9-hubot) - Hubot
 - [Module 10](/10-opensource-clubs) - Opensource clubs
+- [Module 11](/11-git-tips-and-tricks) - Git tips and tricks
+- [Module 12](/12-electron) - Electron
+- [Module 13](/13-atom) - Atom
+- [Module 14](/14-github-pages) - Github Pages
 - ...
 - [Module n+1](/n+1-application) - Your application!
 
