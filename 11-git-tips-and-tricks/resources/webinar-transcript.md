@@ -1,6 +1,7 @@
 # Learning Git with GitKraken
 
 ### What are GitHooks? ~2 minutes
+[Video](https://www.youtube.com/watch?v=ZZgyILr-TjA&list=PLe6EXFvnTV7-_41SpakZoTIYCgX4aMTdU&index=1)
 Githooks are shell scripts that trigger when you perform a specific action in git. They are useful tools for automating checks as you move through your general workflow.
 
  You can trigger githooks around specific git actions. For example, you can set up a githook that prevents you from committing if the hook script detects a problem.  
@@ -23,6 +24,7 @@ This is just one example git hook as the trigger conditions are up to your imagi
 
 
 ### What is Squashing? ~2 minutes
+[Video](https://www.youtube.com/watch?v=cr1N8VTRmfM&t=2s&list=PLe6EXFvnTV7-_41SpakZoTIYCgX4aMTdU&index=2)
 What is squashing? And why would you squash commits?
 
 Squashing is a way to rewrite your commit history.
@@ -54,6 +56,7 @@ And then voila! GitKraken has cleaned up your commit history and it is now ready
 
 
 ### What is SSH? ~3 minutes
+[Video](https://www.youtube.com/watch?v=z7jVOenqFYk&list=PLe6EXFvnTV7-_41SpakZoTIYCgX4aMTdU&index=3)
 SSH is a network protocol that allows one computer to securely connect to another computer over an unsecured network, like the internet.
 
 Without encryption, data travels over the web in plain text --- which makes it easy for someone to intercept username or password data, and then use it.
@@ -100,6 +103,7 @@ If you like this video, please subscribe to our channel or watch other videos in
 
 
 ### Rebasing with no conflicts
+[Video](https://www.youtube.com/watch?v=xKanizFigpk&list=PLe6EXFvnTV7-_41SpakZoTIYCgX4aMTdU&index=4)
 
 Hi, everyone. I wanted to make a quick video comparing rebasing in GitKraken and the command line.
 
@@ -126,6 +130,7 @@ If you would like to see the differences between rebasing with the CLI versus G
 Okay. That's it. Thanks for watching, and be sure to click the subscribe button if you haven't already.
 
 ### Rebasing with conflicts
+[Video](https://www.youtube.com/watch?v=-3yqteu-pLM&list=PLe6EXFvnTV7-_41SpakZoTIYCgX4aMTdU&index=5)
 
 In this video, I'm going to cover the differences between rebasing in the CLI versus GitKraken when a conflict occurs.
 
