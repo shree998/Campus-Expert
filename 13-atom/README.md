@@ -11,8 +11,8 @@ _After completing the module, click an option below to select it. These answers 
 ## Learning Goals 🥅
 
 By the end of this module, you will:
-- Learn how to navigate and customize the atom editor
-- Learn how to create your first atom plugin
+- Learn how to navigate and customize the Atom editor
+- Learn how to create your first Atom plugin
 - Be prepared to show and teach students how to create their first plugin.
 
 ## Meet the trainers 🍎
@@ -30,7 +30,7 @@ Youtube: https://www.youtube.com/watch?v=dpw6idEeU5g&index=5&list=PLPDgudJ_VDUdB
 
 ## Introduction 👋
 
-In this module, you'll learn about the atom editor and how to hack this hackable editor! You will become familiar with the atom editor and create a your first plugin. Kim delivered this tutorial for Local Hack Day 2016.
+In this module, you'll learn about the Atom editor and how to hack this hackable editor! You will become familiar with the atom editor and create a your first plugin. Kim delivered this tutorial for Local Hack Day 2016.
 
 When following a technical workshop in the Campus Experts training, the foremost thing in your mind should be "How can I share this knowledge with my community?". As you participate in the workshops and go through the exercises, think how you can present these concepts to your own peers, and what problems these technologies might solve, that are relevant to your community.
 
@@ -70,8 +70,7 @@ If you have questions you would like to talk to a trainer face to face about, yo
 ## Module Completion ✅
 
 This module is complete when:
-- You have created and deployed a Hubot to an adapter, such as Slack.
-- You have written a Hubot plugin and added it to your Hubot.
+- You have followed the exercise to create your first Atom plugin.
 - You have followed the steps to submit.
 - Your pull request is merged!
 - You have completed the [survey](https://goo.gl/forms/yWLpRp4xycPs6PKS2).
@@ -82,5 +81,5 @@ Every module completed allows a Campus Expert to access certain benefits. To bec
 
 Completing this module earns:
 - The "Atom" [badge](../docs/badges.md).
-- Printed atom cheatsheets and stickers for your workshops.
-- Eligibility for funding support to host atom workshops on your campus or at hackathons GitHub supports.
+- Printed Atom cheatsheets and stickers for your workshops.
+- Eligibility for funding support to host Atom workshops on your campus or at hackathons GitHub supports.

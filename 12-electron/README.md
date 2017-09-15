@@ -11,6 +11,9 @@ _After completing the module, click an option below to select it. These answers 
 ## Learning Goals 🥅
 
 By the end of this module, you will:
+- Understand the history and use case of Electron.
+- Understand how to convert a web app into an Electron app.
+- Understand how to package and distribute your Electron app to the world!
 
 ## Meet the trainers 🍎
 
@@ -67,8 +70,7 @@ If you have questions you would like to talk to a trainer face to face about, yo
 ## Module Completion ✅
 
 This module is complete when:
-- You have created and deployed a Hubot to an adapter, such as Slack.
-- You have written a Hubot plugin and added it to your Hubot.
+- You have followed the exercise to port a web app to Electron.
 - You have followed the steps to submit.
 - Your pull request is merged!
 - You have completed the [survey](https://goo.gl/forms/yWLpRp4xycPs6PKS2).

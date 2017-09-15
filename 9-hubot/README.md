@@ -25,7 +25,6 @@ The content in this module is provided by Mark Tareshawty.
 
 [Mark](https://github.com/tarebyte) has been enjoying making people misspell the storage capacity for 1024 gigabytes since he grabbed the @tarebyte handle many years ago. He is a Platform Engineer at GitHub based in Columbus Ohio, and enjoys contributing to open source and building tools that makes peoples lives better.
 
-
 ## Video 📹
 
 Youtube: https://www.youtube.com/watch?v=9AuKvqdSS6c
@@ -92,4 +91,5 @@ Every module completed allows a Campus Expert to access certain benefits. To bec
 
 Completing this module earns:
 - The "Hubot" [badge](../docs/badges.md).
+- Hubot stickers for your Hubot workshops. 
 - Eligibility for funding support to host Hubot workshops on your campus or at hackathons GitHub supports.

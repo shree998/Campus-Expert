@@ -11,6 +11,10 @@ _After completing the module, click an option below to select it. These answers 
 ## Learning Goals 🥅
 
 By the end of this module, you will:
+- Understand how GitHub Pages makes building a first website easy.
+- Understand the relationship between Jekyll and GitHub Pages.
+- Understand how to create Jekyll themes to customise your Pages site.
+
 
 ## Meet the trainers 🍎
 
@@ -66,8 +70,7 @@ If you have questions you would like to talk to a trainer face to face about, yo
 ## Module Completion ✅
 
 This module is complete when:
-- You have created and deployed a Hubot to an adapter, such as Slack.
-- You have written a Hubot plugin and added it to your Hubot.
+- You have followed the exercise to create a community site using GitHub Pages. 
 - You have followed the steps to submit.
 - Your pull request is merged!
 - You have completed the [survey](https://goo.gl/forms/yWLpRp4xycPs6PKS2).
