@@ -59,7 +59,7 @@ Watch all the videos in this module before proceeding to the exercises, which wi
 
 ## Resources 📖
 
-- #campus-experts-training channel in the [GitKraken Slack Community](https://slack.gitkraken.com/)
+- #campus-xprt-training channel in the [GitKraken Slack Community](https://slack.gitkraken.com/)
 - [GitKraken Cheat Sheet](https://www.gitkraken.com/resources/gitkraken-cheat-sheet)
 - [GitKraken for GitHub Users Cheat Sheet](https://www.gitkraken.com/resources/gitkraken-github-cheat-sheet)
 - [GitKraken Support Documentation](https://support.gitkraken.com/)
