@@ -4,13 +4,15 @@ This exercise is to complete the challenges given in the module. You can find th
 
 ## Task
 
+_Please note: in the video, Wilhelm's GitHub username is "xoneco". It has since changed to "wilhelmklopp"._
+
 - Challenge 1: From your GitHub profile, list your repositories and their languages.
 - Challenge 2: Fetch the issues for the [Facebook React repository](https://github.com/facebook/react).
 - Challenge 3: Find your database ID.
 - Challenge 4: Find the database ID of the GitHub CEO (@defunkt) and check whether he's a Campus Expert.
 - Challenge 5: Add a reaction to this issue.
 
-Complete the challenges aboveusing GraphQL, and add the answers and results to a file called "module-8.md". You can copy and paste the answers into this file, or you can link to a gist or repository. Submit them using the guide below.
+Complete the challenges above using GraphQL, and add the answers and results to a file called "module-8.md". You can copy and paste the answers into this file, or you can link to a gist or repository. Submit them using the guide below.
 
 ## Submitting the exercise
 

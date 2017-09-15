@@ -26,7 +26,7 @@ The content in this module is provided by Brandon Keepers.
 
 ## Video 📹
 
-Youtube: https://www.youtube.com/watch?v=VNUiXLN8Q8M
+Youtube: https://www.youtube.com/watch?v=VNUiXLN8Q8M&list=PLIRjfNq867bdlTQcgcOGATPrVggvfLv1c&index=8
 
 ## Introduction 👋
 
@@ -61,6 +61,7 @@ There are 3 ways to get support with this module.
 ### Issues ❓💬
 
 You can open an issue to get support any time. Please follow the below steps:
+- Search past issues to see if your question has been answered before.
 - Make your title as descriptive as possible.
 - Apply the labels "MODULE-7" and "help".
 - Follow and complete the ISSUE TEMPLATE.

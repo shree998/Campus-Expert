@@ -69,6 +69,29 @@ Completing this module earns:
 - The "Opensource Clubs" badge.
 - Access to funding in support of your opensource club activities.
 
+## Module 11 - Git tips and tricks
+
+Completing this module earns:
+- The "Git tips and tricks" [badge](../docs/badges.md).
+- Printed  [GitKraken Cheat Sheets](https://www.gitkraken.com/resources/gitkraken-cheat-sheet) for your workshops.
+- Printed [GitKraken for GitHub Users Cheat Sheet](https://www.gitkraken.com/resources/gitkraken-github-cheat-sheet) for your workshops.
+- GitKraken stickers
+
+## Module 12 - Electron
+
+Completing this module earns:
+- The "Electron" [badge](../docs/badges.md).
+
+## Module 13 - Atom
+
+Completing this module earns:
+- The "Atom" [badge](../docs/badges.md).
+
+## Module 14 - GitHub Pages
+
+Completing this module earns:
+- The "GitHub Pages" [badge](../docs/badges.md).
+
 ## Application
 
 Completing this module earns:

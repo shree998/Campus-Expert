@@ -28,7 +28,7 @@ The content in this module is provided by Joe Nash.
 
 _We try to accommodate a variety of learning styles. Every module contains a video that covers the content of the module. The written content in the README mirrors the content of the video, and is provided as an alternative. For most videos, you will also find a complete transcript in the module's 'resources' folder._
 
-Youtube: https://www.youtube.com/watch?v=kCs0gSlFM1A
+Youtube: https://www.youtube.com/watch?v=kCs0gSlFM1A&list=PLIRjfNq867bdlTQcgcOGATPrVggvfLv1c&index=2
 
 ## Welcome to Campus Experts 👋🚩
 
@@ -75,6 +75,7 @@ There are 3 ways to get support with this module.
 ### Issues ❓💬
 
 You can open an issue to get support any time. Please follow the below steps:
+- Search past issues to see if your question has been answered before.
 - Make your title as descriptive as possible.
 - Apply the labels "MODULE-1" and "help".
 - Follow and complete the ISSUE TEMPLATE.

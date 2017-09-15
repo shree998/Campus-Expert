@@ -26,7 +26,7 @@ The content in this module is provided by Tim Fogarty.
 
 ## Video 📹
 
-Youtube: https://www.youtube.com/watch?v=SZDuPf2-vhA
+Youtube: https://www.youtube.com/watch?v=SZDuPf2-vhA&index=7&list=PLIRjfNq867bdlTQcgcOGATPrVggvfLv1c
 
 ## Introduction
 In this module, you'll hear from Tim Fogarty, former commissioner for Major League Hacking, now a developer advocate at mLab. Tim delivered a very comprehensive talk on fundraising to the Spring 2017 Campus Expert cohort. During this talk, Tim covers generating budgets, including knowing what you should budget for. He covers how to approach sponsors, and what they're looking for, and how to manage those relationships going forward. Finally, he covers sponsorship process, and some tips and tricks.
@@ -46,6 +46,7 @@ There are 3 ways to get support with this module.
 ### Issues ❓💬
 
 You can open an issue to get support any time. Please follow the below steps:
+- Search past issues to see if your question has been answered before.
 - Make your title as descriptive as possible.
 - Apply the labels "MODULE-6"
 - Follow and complete the ISSUE TEMPLATE.

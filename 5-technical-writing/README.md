@@ -31,7 +31,7 @@ Jenn is a product writer on the documentation team at GitHub. Documentation at G
 
 ## Video 📹
 
-Youtube: https://www.youtube.com/watch?v=sxXvfttdzKg
+Youtube: https://www.youtube.com/watch?v=sxXvfttdzKg&index=6&list=PLIRjfNq867bdlTQcgcOGATPrVggvfLv1c
 
 ## Introduction 👋
 
@@ -61,6 +61,7 @@ There are 3 ways to get support with this module.
 ### Issues ❓💬
 
 You can open an issue to get support any time. Please follow the below steps:
+- Search past issues to see if your question has been answered before.
 - Make your title as descriptive as possible.
 - Apply the labels "MODULE-5" and "help".
 - Follow and complete the ISSUE TEMPLATE.

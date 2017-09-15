@@ -6,7 +6,8 @@ Begin by researching other clubs on campus. A good place to look is at various w
 
 You want to ensure that when you present your initiative that there doesn't already exist an organization on campus serving this need. If it does or if there exists a general purpose group that you'd fall under definitely reach out to that group to collaborate.
 
-#### Who is my club?
+#### For new club creators, who is my club?
+
 Read through the two following questions and come up with answers.
 
 - What groups currently exist on campus?
@@ -16,6 +17,13 @@ Read through the two following questions and come up with answers.
 - Are they are important deadlines for applying to become a group, and if so what are the requirements?
 
 You should have a good idea of who to approach to start the conversation of applying to be a recognized club.
+
+#### For existing club creators, who is my club?
+
+- What resources that you can think of right now that you have or that you will need to bring open source to your current club?
+- People want to get involved in your community, how could open source play a role in that?
+- How will integrating open source into your club affect your impact proposal?
+
 
 ## Start the conversation
 
@@ -34,6 +42,23 @@ Make a list of the application details and requirements you need to meet. Some o
 - Presentation
 
 So we've done our research, we've started the conversation, now let's put things in motion. By now you should have an idea of what is required of you to become a recognized club on campus. Developing the artifacts will not only be necessary to become a club, but they will help you better envision and pursue your club journey.
+
+## What does a successful club look like
+
+  - **Great communication**
+   Great communication starts with being transparent about the mission of the club, identifying what students will get out of being a part of this club, and what they should expect. It is good to have a clearly defined means of how members can communicate with leaders and with one another. Make sure all members and leaders are aware of the code of conduct and follow it.
+
+  - **Meet regularly**
+	*What’s regularly?* This is going to depend on your community. Our suggestion is to host an event/activity at least once a month, preferably bi-weekly. If you have the time and resources feel free to host events weekly! These are merely suggestions, you know your community best.
+
+  - **Be inclusive**
+	A great step towards being inclusive it by ensuring students have a place to submit their feedback. Are you providing means for open communication? An inclusive club is where member voices are heard and feedback is continuously reviewed  and acted upon. Again being transparent about how/why situations are handled, events being hosted, etc. A successful club is one where it’s not just the leaders guiding the conversations, but members are influencing and leading conversations.
+
+  - **Be engaging **
+	Ask member questions, ask for their feedback, and get them wanting to participate. Your club is engaging when people are involved. They are participating, they are learning, they are asking questions, and they are bonding.
+
+  A successful club isn't based on numbers, but is painted by a picture of students coming together and  creating/maintaining/contributing to an open source project(s).
+
 
 ## Introducing open source to your club
 
@@ -164,3 +189,16 @@ It's very common to have questions about a project when you first dive into it, 
 A good first place to check is the README. A well written README should address where members and contributors can go to get help. Other good places to look for answers to your questions can include forums specific to the project , searching through open & closed issues/PRs, as well as searching on StackOverflow.
 
 If you have done all the searching you can then figure out where and who you can ask. Some of these options include reaching out on slack channel, filling an issue, reaching out to the maintainer directly by e-mail or on a median like Twitter.
+
+## What activities/events can I do with my Open Source Club?
+
+Here are some suggestions of activities/events you can do with your club.
+
+  - **Talk**
+   Consider giving a talk on contributing to your first Open Source project or what you learned from it. Another idea is to try to find a maintainer or experienced contributor to come give a talk on their experience.
+  - **Hackathon**
+  Hackathons can be a great place to get started with Open Source. Consider hosting a hackathon where participants have to create an open source project like [Open Source Jam](https://itch.io/jam/open-jam-1] where participants have 72 hours to create an open source game.
+  - **Workshop** A workshop or tutorial can be a great start to attract newcomers to open source. Having a step by step workshop guiding students could be a great start!
+  - **Hacktoberfest themed event**  [Hacktoberfest](https://hacktoberfest.digitalocean.com/) is a month long celebration of open source software brought to you by Digital Ocean in partnership with GitHub.
+
+We are excited to see what you come up with for your community!

@@ -25,10 +25,9 @@ The content in this module is provided by Mark Tareshawty.
 
 [Mark](https://github.com/tarebyte) has been enjoying making people misspell the storage capacity for 1024 gigabytes since he grabbed the @tarebyte handle many years ago. He is a Platform Engineer at GitHub based in Columbus Ohio, and enjoys contributing to open source and building tools that makes peoples lives better.
 
-
 ## Video 📹
 
-Youtube: https://www.youtube.com/watch?v=9AuKvqdSS6c
+Youtube: https://www.youtube.com/watch?v=9AuKvqdSS6c&index=10&list=PLIRjfNq867bdlTQcgcOGATPrVggvfLv1c
 
 ## Introduction 👋
 
@@ -56,6 +55,7 @@ There are 3 ways to get support with this module.
 ### Issues ❓💬
 
 You can open an issue to get support any time. Please follow the below steps:
+- Search past issues to see if your question has been answered before.
 - Make your title as descriptive as possible.
 - Apply the labels "MODULE-9" and "help".
 - Follow and complete the ISSUE TEMPLATE.
@@ -92,4 +92,5 @@ Every module completed allows a Campus Expert to access certain benefits. To bec
 
 Completing this module earns:
 - The "Hubot" [badge](../docs/badges.md).
+- Hubot stickers for your Hubot workshops.
 - Eligibility for funding support to host Hubot workshops on your campus or at hackathons GitHub supports.

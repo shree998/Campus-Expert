@@ -34,7 +34,7 @@ The content in this module is provided by Wilhelm Klopp and Brooks Swinnerton.
 
 ## Video 📹
 
-Youtube: https://www.youtube.com/watch?v=PPWWPLuN4nU
+Youtube: https://www.youtube.com/watch?v=PPWWPLuN4nU&index=9&list=PLIRjfNq867bdlTQcgcOGATPrVggvfLv1c
 
 ## Introduction 👋
 
@@ -62,6 +62,7 @@ There are 3 ways to get support with this module.
 ### Issues ❓💬
 
 You can open an issue to get support any time. Please follow the below steps:
+- Search past issues to see if your question has been answered before.
 - Make your title as descriptive as possible.
 - Apply the labels "MODULE-8" and "help".
 - Follow and complete the ISSUE TEMPLATE.
