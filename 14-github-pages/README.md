@@ -15,7 +15,6 @@ By the end of this module, you will:
 - Understand the relationship between Jekyll and GitHub Pages.
 - Understand how to create Jekyll themes to customise your Pages site.
 
-
 ## Meet the trainers 🍎
 
 The content in this module is provided by Hector Alfaro.
