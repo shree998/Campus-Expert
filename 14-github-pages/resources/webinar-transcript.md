@@ -1,7 +1,7 @@
 # GitHub Pages
 
 ### S1\
-[*\~*00:01.143]{style="color: #CCC;"} {#s1-0001.143 style="float: left;margin: 0;"}
+[00:01.143]
 
 > Hey there. I'm Hector. I'm a trainer with GitHub, and today, we're
 > going to learn a little bit about GitHub Pages and the technology that
@@ -32,13 +32,8 @@
 > this repository hectorsector.github.io to be consistent with the
 > naming convention that we just saw in the help documentation.\
 
-</div>
-
-<div
-style="font-family:'calibri';margin: 35px 6.25% 0 0;font-size: 15px;line-height: 1.33;">
-
 ### S1\
-[*\~*02:01.944]{style="color: #CCC;"} {#s1-0201.944 style="float: left;margin: 0;"}
+[02:01.944]
 
 > And the website or the repository, rather, can be public or can be
 > private. This is talking about the contents of the repository itself.
@@ -71,13 +66,8 @@ style="font-family:'calibri';margin: 35px 6.25% 0 0;font-size: 15px;line-height:
 > ahead and select that theme.\
 > \[silence\]\
 
-</div>
-
-<div
-style="font-family:'calibri';margin: 35px 6.25% 0 0;font-size: 15px;line-height: 1.33;">
-
 ### S1\
-[*\~*04:07.400]{style="color: #CCC;"} {#s1-0407.400 style="float: left;margin: 0;"}
+[4:07.400]
 
 > And what this will do is it will generate an index.md file. If you're
 > not familiar, that's for a Markdown file. That's one of the really
@@ -95,13 +85,8 @@ style="font-family:'calibri';margin: 35px 6.25% 0 0;font-size: 15px;line-height:
 > demoing here, so I committed it directly to master, and I used a
 > default commit message.\
 
-</div>
-
-<div
-style="font-family:'calibri';margin: 35px 6.25% 0 0;font-size: 15px;line-height: 1.33;">
-
 ### S1\
-[*\~*05:01.749]{style="color: #CCC;"} {#s1-0501.749 style="float: left;margin: 0;"}
+[05:01.749]
 
 > So all right. This doesn't look like a web page. This just looks like
 > GitHub rendering an index.markdown file for me, so let's look at what
@@ -120,13 +105,10 @@ style="font-family:'calibri';margin: 35px 6.25% 0 0;font-size: 15px;line-height:
 > same URL. That all happens automatically, so it's like an auto
 > deployment, is how you can think of it.\
 
-</div>
 
-<div
-style="font-family:'calibri';margin: 35px 6.25% 0 0;font-size: 15px;line-height: 1.33;">
 
 ### S1\
-[*\~*06:05.794]{style="color: #CCC;"} {#s1-0605.794 style="float: left;margin: 0;"}
+[06:05.794]
 
 > If you look at the files here-- so we know what index.md does, but
 > there's one extra file here called config.yml. This extra file is used
@@ -155,13 +137,10 @@ style="font-family:'calibri';margin: 35px 6.25% 0 0;font-size: 15px;line-height:
 > gem installed, and then you also install the Jekyll gem, and the
 > GitHub Pages gem.\
 
-</div>
 
-<div
-style="font-family:'calibri';margin: 35px 6.25% 0 0;font-size: 15px;line-height: 1.33;">
 
 ### S1\
-[*\~*07:55.321]{style="color: #CCC;"} {#s1-0755.321 style="float: left;margin: 0;"}
+[07:55.321]
 
 > I have some of these things already, so the only thing that I need to
 > do is I need to jump here to this step two which is all about
@@ -193,13 +172,10 @@ style="font-family:'calibri';margin: 35px 6.25% 0 0;font-size: 15px;line-height:
 > Gemfile. So if I navigate to this on my local browser here, I can see
 > my Jekyll pages site is built.\
 
-</div>
 
-<div
-style="font-family:'calibri';margin: 35px 6.25% 0 0;font-size: 15px;line-height: 1.33;">
 
 ### S1\
-[*\~*10:27.208]{style="color: #CCC;"} {#s1-1027.208 style="float: left;margin: 0;"}
+[10:27.208]
 
 > Now, I can keep that running if I want to. And one of the nice things
 > is while I keep that running, I can change some of the contents of,
@@ -218,13 +194,10 @@ style="font-family:'calibri';margin: 35px 6.25% 0 0;font-size: 15px;line-height:
 > directory. This is your generated site. That's actually the static
 > site. So you're looking here at the static website itself. Okay?\
 
-</div>
 
-<div
-style="font-family:'calibri';margin: 35px 6.25% 0 0;font-size: 15px;line-height: 1.33;">
 
 ### S1\
-[*\~*11:47.830]{style="color: #CCC;"} {#s1-1147.830 style="float: left;margin: 0;"}
+[11:47.830]
 
 > So you probably don't necessarily want to version control that, you
 > don't want that to be in GitHub, so what I'll do is I'll add this to
@@ -248,13 +221,10 @@ style="font-family:'calibri';margin: 35px 6.25% 0 0;font-size: 15px;line-height:
 > you wanted to actually create something locally? How would that work
 > and how would you get it pushed up to GitHub?\
 
-</div>
 
-<div
-style="font-family:'calibri';margin: 35px 6.25% 0 0;font-size: 15px;line-height: 1.33;">
 
 ### S1\
-[*\~*13:25.005]{style="color: #CCC;"} {#s1-1325.005 style="float: left;margin: 0;"}
+[13:25.005]
 
 > So let's take a look at another command now. So I'm going to cd out of
 > this directory, and let's say that I wanted to generate a brand new
@@ -281,13 +251,10 @@ style="font-family:'calibri';margin: 35px 6.25% 0 0;font-size: 15px;line-height:
 > layouts that have been created that make use of these key-value pairs.
 > So that's why these are here.\
 
-</div>
 
-<div
-style="font-family:'calibri';margin: 35px 6.25% 0 0;font-size: 15px;line-height: 1.33;">
 
 ### S1\
-[*\~*15:22.263]{style="color: #CCC;"} {#s1-1522.263 style="float: left;margin: 0;"}
+[15:22.263]
 
 > Some of the important ones that you're going to see over and over
 > again as you continue working with Jekyll and GitHub Pages is URL and
@@ -310,13 +277,10 @@ style="font-family:'calibri';margin: 35px 6.25% 0 0;font-size: 15px;line-height:
 > default configuration where you can take a look if you don't specify
 > anything at what the default configuration is. Okay? That's great.\
 
-</div>
 
-<div
-style="font-family:'calibri';margin: 35px 6.25% 0 0;font-size: 15px;line-height: 1.33;">
 
 ### S1\
-[*\~*17:00.145]{style="color: #CCC;"} {#s1-1700.145 style="float: left;margin: 0;"}
+[17:00.145]
 
 > Before we change anything around, let's get this pushed up to GitHub
 > so you can see how this would look. So the first thing I need to do is
@@ -338,13 +302,10 @@ style="font-family:'calibri';margin: 35px 6.25% 0 0;font-size: 15px;line-height:
 > \[generated?\] website up to GitHub. So that's pretty nice. I'm going
 > to stage these. I'm going to commit them, and push it up.\
 
-</div>
 
-<div
-style="font-family:'calibri';margin: 35px 6.25% 0 0;font-size: 15px;line-height: 1.33;">
 
 ### S1\
-[*\~*18:43.539]{style="color: #CCC;"} {#s1-1843.539 style="float: left;margin: 0;"}
+[18:43.539]
 
 > All righty. So now that I've pushed this up, I'm going to go ahead and
 > refresh bookish-giggle here. And if you go to the Settings tab, that
@@ -372,13 +333,10 @@ style="font-family:'calibri';margin: 35px 6.25% 0 0;font-size: 15px;line-height:
 > you don't want to take the opportunity, I'm about to-- spoiler alert.
 > I'm about to tell you why it's not doing that.\
 
-</div>
 
-<div
-style="font-family:'calibri';margin: 35px 6.25% 0 0;font-size: 15px;line-height: 1.33;">
 
 ### S1\
-[*\~*20:21.046]{style="color: #CCC;"} {#s1-2021.046 style="float: left;margin: 0;"}
+[20:21.046]
 
 > And that's because if you look at the URL at which this is served-- so
 > this is served at hectorsector.github.io/bookish-giggle. Excuse me.
@@ -403,13 +361,10 @@ style="font-family:'calibri';margin: 35px 6.25% 0 0;font-size: 15px;line-height:
 > say bookish-giggle enough times, it's kind of fun. I recommend doing
 > it.\
 
-</div>
 
-<div
-style="font-family:'calibri';margin: 35px 6.25% 0 0;font-size: 15px;line-height: 1.33;">
 
 ### S1\
-[*\~*22:11.213]{style="color: #CCC;"} {#s1-2211.213 style="float: left;margin: 0;"}
+[22:11.213]
 
 > All right. So in order to get this to work properly, what I'm going to
 > do is I'm going to change the base URL on my local site here into
@@ -421,13 +376,10 @@ style="font-family:'calibri';margin: 35px 6.25% 0 0;font-size: 15px;line-height:
 > every part of the URL. Okay? So if I stage and commit this now...\
 > \[silence\]\
 
-</div>
 
-<div
-style="font-family:'calibri';margin: 35px 6.25% 0 0;font-size: 15px;line-height: 1.33;">
 
 ### S1\
-[*\~*23:06.649]{style="color: #CCC;"} {#s1-2306.649 style="float: left;margin: 0;"}
+[23:06.649]
 
 > And I go back to my options here-- so remember that this is always
 > going to give me the status of the build. So it's building right now.
@@ -440,13 +392,10 @@ style="font-family:'calibri';margin: 35px 6.25% 0 0;font-size: 15px;line-height:
 > maybe just some experience of troubleshooting this kind of thing
 > before. But I have a fully functional blog.\
 
-</div>
 
-<div
-style="font-family:'calibri';margin: 35px 6.25% 0 0;font-size: 15px;line-height: 1.33;">
 
 ### S1\
-[*\~*23:47.848]{style="color: #CCC;"} {#s1-2347.848 style="float: left;margin: 0;"}
+[23:47.848]
 
 > So now, let's learn how Jekyll itself is supposed to work, keeping in
 > mind that GitHub Pages will support most of the things that Jekyll has
@@ -469,13 +418,9 @@ style="font-family:'calibri';margin: 35px 6.25% 0 0;font-size: 15px;line-height:
 > Because, again, I'm not very creative. Save that. Let's do bundle exec
 > jekyll serve. Take a look at what that looks like. There you go.\
 
-</div>
-
-<div
-style="font-family:'calibri';margin: 35px 6.25% 0 0;font-size: 15px;line-height: 1.33;">
 
 ### S1\
-[*\~*25:24.871]{style="color: #CCC;"} {#s1-2524.871 style="float: left;margin: 0;"}
+[25:24.871]
 
 > So now, the site title has been changed. In addition to that, the
 > footer has been changed. So this part right here, the reason that's
@@ -496,13 +441,9 @@ style="font-family:'calibri';margin: 35px 6.25% 0 0;font-size: 15px;line-height:
 > see anything that doesn't have front matter on it, the three dashes
 > before and after it. Okay?\
 
-</div>
-
-<div
-style="font-family:'calibri';margin: 35px 6.25% 0 0;font-size: 15px;line-height: 1.33;">
 
 ### S1\
-[*\~*26:51.365]{style="color: #CCC;"} {#s1-2651.365 style="float: left;margin: 0;"}
+[26:51.365]
 
 > So now that I've done that, I can go ahead and change my index file to
 > use that layout instead of Home. So I'm going to say use Hectors. Now,
@@ -528,13 +469,8 @@ style="font-family:'calibri';margin: 35px 6.25% 0 0;font-size: 15px;line-height:
 > config file lives under the site object. So you can say, "site.", and
 > then the name of the variable - site.title here.\
 
-</div>
-
-<div
-style="font-family:'calibri';margin: 35px 6.25% 0 0;font-size: 15px;line-height: 1.33;">
-
 ### S1\
-[*\~*28:36.041]{style="color: #CCC;"} {#s1-2836.041 style="float: left;margin: 0;"}
+[28:36.041]
 
 > Now, if I save this, and go back here, you'll see that it says, "The
 > title of this website is Hector's Rockin' Site," because that is the
@@ -559,13 +495,9 @@ style="font-family:'calibri';margin: 35px 6.25% 0 0;font-size: 15px;line-height:
 > processor that we specified - remember, on this config file - we are
 > able to read that Markdown.\
 
-</div>
-
-<div
-style="font-family:'calibri';margin: 35px 6.25% 0 0;font-size: 15px;line-height: 1.33;">
 
 ### S1\
-[*\~*30:10.281]{style="color: #CCC;"} {#s1-3010.281 style="float: left;margin: 0;"}
+[30:10.281]
 
 > And so this blog post was dated today. It uses a layout called Post.
 > Now, remember how I talked about there's a layout called Home. There's
@@ -588,13 +520,9 @@ style="font-family:'calibri';margin: 35px 6.25% 0 0;font-size: 15px;line-height:
 > Post. And if I refresh this now, now this is properly laid out like a
 > post.\
 
-</div>
-
-<div
-style="font-family:'calibri';margin: 35px 6.25% 0 0;font-size: 15px;line-height: 1.33;">
 
 ### S1\
-[*\~*31:47.047]{style="color: #CCC;"} {#s1-3147.047 style="float: left;margin: 0;"}
+[31:47.047]
 
 > So hopefully, I showed you some interesting things you can do with
 > Jekyll and GitHub Pages using some simple technologies, using Markdown
@@ -609,13 +537,3 @@ style="font-family:'calibri';margin: 35px 6.25% 0 0;font-size: 15px;line-height:
 > the nav bar we're in, and all other sorts of fun stuff. So the sky is
 > the limit for a Jekyll site pretty much, and using GitHub Pages to
 > back it up. Hope you enjoyed.
-
-</div>
-
-</div>
-
-</div>
-
-</div>
-
-</div>

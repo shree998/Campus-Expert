@@ -1,7 +1,7 @@
 # Electron
 
 ### S1\
-[*\~*00:01.074]{style="color: #CCC;"} {#s1-0001.074 style="float: left;margin: 0;"}
+[00:01.074]
 
 > Hey, this video is about Electron and my name is Eric. I'm a trainer
 > at GitHub. That's what I looked like on my first day at GitHub and
@@ -13,13 +13,8 @@
 > through each of these pieces and then you'll be fully ready to go with
 > Electron.\
 
-</div>
-
-<div
-style="font-family:'calibri';margin: 35px 6.25% 0 0;font-size: 15px;line-height: 1.33;">
-
 ### S1\
-[*\~*00:38.075]{style="color: #CCC;"} {#s1-0038.075 style="float: left;margin: 0;"}
+[00:38.075]
 
 > First up, prerequisites. This might be embedded in your description.
 > If it's not, just go ahead and type the URL out. It'll take you to a
@@ -32,13 +27,8 @@ style="font-family:'calibri';margin: 35px 6.25% 0 0;font-size: 15px;line-height:
 > you have all four, once you're ready to go, let's keep going, let's
 > move forward.\
 
-</div>
-
-<div
-style="font-family:'calibri';margin: 35px 6.25% 0 0;font-size: 15px;line-height: 1.33;">
-
 ### S1\
-[*\~*01:21.247]{style="color: #CCC;"} {#s1-0121.247 style="float: left;margin: 0;"}
+[01:21.247]
 
 > What is Electron? Here's your first one-liner, we'll be extending
 > this. It's a framework for building desktop apps. And what can they
@@ -49,13 +39,9 @@ style="font-family:'calibri';margin: 35px 6.25% 0 0;font-size: 15px;line-height:
 > at more apps, you can go to this link to do so. But generally, the
 > idea is that a robust set of apps can be dealt.\
 
-</div>
-
-<div
-style="font-family:'calibri';margin: 35px 6.25% 0 0;font-size: 15px;line-height: 1.33;">
 
 ### S1\
-[*\~*02:04.993]{style="color: #CCC;"} {#s1-0204.993 style="float: left;margin: 0;"}
+[02:04.993]
 
 > Let's extend this another piece. Electron is also a framework for
 > building cross-platform desktop apps, so more than just desktop apps.
@@ -84,13 +70,8 @@ style="font-family:'calibri';margin: 35px 6.25% 0 0;font-size: 15px;line-height:
 > improvements in the duration, which increases the popularity of the
 > thing.\
 
-</div>
-
-<div
-style="font-family:'calibri';margin: 35px 6.25% 0 0;font-size: 15px;line-height: 1.33;">
-
 ### S1\
-[*\~*04:16.255]{style="color: #CCC;"} {#s1-0416.255 style="float: left;margin: 0;"}
+[04:16.255]
 
 > But also, in addition to Chromium, in 2009, Google made a competitive
 > product to SpiderMonkey. It was a JavaScript engine called V8 that
@@ -113,13 +94,8 @@ style="font-family:'calibri';margin: 35px 6.25% 0 0;font-size: 15px;line-height:
 > code, pre-baked JavaScript and just download it as a puzzle piece into
 > whatever thing you're architecting.\
 
-</div>
-
-<div
-style="font-family:'calibri';margin: 35px 6.25% 0 0;font-size: 15px;line-height: 1.33;">
-
 ### S1\
-[*\~*05:51.040]{style="color: #CCC;"} {#s1-0551.040 style="float: left;margin: 0;"}
+[05:51.040]
 
 > At this time, there are over 475,000 npm packages which is really
 > cool. So if we summarize all of the things, Java Script sucked, Chrome
@@ -130,13 +106,8 @@ style="font-family:'calibri';margin: 35px 6.25% 0 0;font-size: 15px;line-height:
 > to do fun things with JavaScript that all exist outside of the
 > browser. Here we go, now we have Atom.\
 
-</div>
-
-<div
-style="font-family:'calibri';margin: 35px 6.25% 0 0;font-size: 15px;line-height: 1.33;">
-
 ### S1\
-[*\~*06:29.759]{style="color: #CCC;"} {#s1-0629.759 style="float: left;margin: 0;"}
+[06:29.759]
 
 > Now Atom was released in 2014 and the dream of Atom-- the story of
 > Electron will always begin with the story of Atom. The dream of Atom
@@ -160,13 +131,9 @@ style="font-family:'calibri';margin: 35px 6.25% 0 0;font-size: 15px;line-height:
 > notifications, push notifications to devices. The list goes on and
 > it's really, really exciting.\
 
-</div>
-
-<div
-style="font-family:'calibri';margin: 35px 6.25% 0 0;font-size: 15px;line-height: 1.33;">
 
 ### S1\
-[*\~*08:11.789]{style="color: #CCC;"} {#s1-0811.789 style="float: left;margin: 0;"}
+[08:11.789]
 
 > And last, JavaScript used to be bad and now JavaScript is good and
 > it's changing the way that things can happen. Things like npm and Node
@@ -184,13 +151,9 @@ style="font-family:'calibri';margin: 35px 6.25% 0 0;font-size: 15px;line-height:
 > scroll down and click on Electron. Our training is broken into three
 > parts here. We'll go through all three in varying degrees.\
 
-</div>
-
-<div
-style="font-family:'calibri';margin: 35px 6.25% 0 0;font-size: 15px;line-height: 1.33;">
 
 ### S1\
-[*\~*09:34.627]{style="color: #CCC;"} {#s1-0934.627 style="float: left;margin: 0;"}
+[09:34.627]
 
 > And the first place we'll click on is Electron 101. This first page is
 > largely skippable. We've already seen the contents of this video, but
@@ -215,13 +178,8 @@ style="font-family:'calibri';margin: 35px 6.25% 0 0;font-size: 15px;line-height:
 > folder directory called Electron App. This might take a second to
 > install all the dependencies so I'll skip the video ahead again.\
 
-</div>
-
-<div
-style="font-family:'calibri';margin: 35px 6.25% 0 0;font-size: 15px;line-height: 1.33;">
-
 ### S1\
-[*\~*11:17.707]{style="color: #CCC;"} {#s1-1117.707 style="float: left;margin: 0;"}
+[11:17.707]
 
 > All right. It took a little bit to install the dependencies, but now
 > that that's done, I could type CB and switch into the Electron App
@@ -241,13 +199,8 @@ style="font-family:'calibri';margin: 35px 6.25% 0 0;font-size: 15px;line-height:
 > time you open a new item, it might look like this. All right, let's
 > move on to the next piece.\
 
-</div>
-
-<div
-style="font-family:'calibri';margin: 35px 6.25% 0 0;font-size: 15px;line-height: 1.33;">
-
 ### S1\
-[*\~*12:47.762]{style="color: #CCC;"} {#s1-1247.762 style="float: left;margin: 0;"}
+[12:47.762]
 
 > We created a uninitialized repository. So it's initialized but we
 > actually want to stage all of these changes. So if we just type git
@@ -270,14 +223,8 @@ style="font-family:'calibri';margin: 35px 6.25% 0 0;font-size: 15px;line-height:
 > for more instructions but that's not helpful in a video. So I'll just
 > create a new repository like so.\
 
-</div>
-
-<div
-style="font-family:'calibri';margin: 35px 6.25% 0 0;font-size: 15px;line-height: 1.33;">
-
 ### S1\
-[*\~*14:32.636]{style="color: #CCC;"} {#s1-1432.636 style="float: left;margin: 0;"}
-
+[14:32.636]
 > I'm going to call my repository Electron App. And since that's already
 > taken, I'll do Electron App 1. And then make sure that you don't add
 > any of these three things. We don't want a read me, we don't want to
@@ -290,13 +237,8 @@ style="font-family:'calibri';margin: 35px 6.25% 0 0;font-size: 15px;line-height:
 > in as my user instead of GitHub teacher. So I'll adjust that and then
 > we'll pick it right back up.\
 
-</div>
-
-<div
-style="font-family:'calibri';margin: 35px 6.25% 0 0;font-size: 15px;line-height: 1.33;">
-
 ### S1\
-[*\~*15:31.946]{style="color: #CCC;"} {#s1-1531.946 style="float: left;margin: 0;"}
+[15:31.946]
 
 > So now I've fixed my error. I can push to the origin. It was something
 > to do with collaborators, an error you likely won't have. And to test
@@ -305,13 +247,9 @@ style="font-family:'calibri';margin: 35px 6.25% 0 0;font-size: 15px;line-height:
 > page similar to mine where you have pushed all of these different
 > boiler plate files up. Great. Great.\
 
-</div>
-
-<div
-style="font-family:'calibri';margin: 35px 6.25% 0 0;font-size: 15px;line-height: 1.33;">
 
 ### S1\
-[*\~*15:58.326]{style="color: #CCC;"} {#s1-1558.326 style="float: left;margin: 0;"}
+[15:58.326]
 
 > So the next thing that we want to do is we actually want to add a few
 > other files. We want to add a style sheet and we want to add a new
@@ -341,13 +279,8 @@ style="font-family:'calibri';margin: 35px 6.25% 0 0;font-size: 15px;line-height:
 > it by clicking on the X but that doesn't actually turn me at the whole
 > process, so you'll still want to do control C.\
 
-</div>
-
-<div
-style="font-family:'calibri';margin: 35px 6.25% 0 0;font-size: 15px;line-height: 1.33;">
-
 ### S1\
-[*\~*18:31.026]{style="color: #CCC;"} {#s1-1831.026 style="float: left;margin: 0;"}
+[18:31.026]
 
 > Next step. For our app, we're going to build a memory game so we can
 > find the code from CodePen. Basically, the whole premise behind what
@@ -370,13 +303,8 @@ style="font-family:'calibri';margin: 35px 6.25% 0 0;font-size: 15px;line-height:
 > showed you this one. I opened out them the first time. And now, we all
 > have that.\
 
-</div>
-
-<div
-style="font-family:'calibri';margin: 35px 6.25% 0 0;font-size: 15px;line-height: 1.33;">
-
 ### S1\
-[*\~*20:14.218]{style="color: #CCC;"} {#s1-2014.218 style="float: left;margin: 0;"}
+[20:14.218]
 
 > So if you're following the instructions, it wants us to do npm start
 > again. Let's just do that just to see the different pieces here. And
@@ -408,13 +336,10 @@ style="font-family:'calibri';margin: 35px 6.25% 0 0;font-size: 15px;line-height:
 > working memory game to my history. And I'll push that just to have it
 > there. All right. Excellent.\
 
-</div>
 
-<div
-style="font-family:'calibri';margin: 35px 6.25% 0 0;font-size: 15px;line-height: 1.33;">
 
 ### S1\
-[*\~*22:57.885]{style="color: #CCC;"} {#s1-2257.885 style="float: left;margin: 0;"}
+[22:57.885]
 
 > So now this next piece is using another npm module. Npm modules, I
 > swear, just make everything with Electron easy. As I built a workshop
@@ -426,13 +351,10 @@ style="font-family:'calibri';margin: 35px 6.25% 0 0;font-size: 15px;line-height:
 > already there. There's already a puzzle that's made for you. And we'll
 > explore that idea a little further.\
 
-</div>
 
-<div
-style="font-family:'calibri';margin: 35px 6.25% 0 0;font-size: 15px;line-height: 1.33;">
 
 ### S1\
-[*\~*23:37.106]{style="color: #CCC;"} {#s1-2337.106 style="float: left;margin: 0;"}
+[23:37.106]
 
 > The npm module for this section, the one that's going to save our
 > lives and make it so that our app runs really well natively on any
@@ -451,13 +373,10 @@ style="font-family:'calibri';margin: 35px 6.25% 0 0;font-size: 15px;line-height:
 > a show up here within the deb dependency and the version that we've
 > installed.\
 
-</div>
 
-<div
-style="font-family:'calibri';margin: 35px 6.25% 0 0;font-size: 15px;line-height: 1.33;">
 
 ### S1\
-[*\~*24:52.147]{style="color: #CCC;"} {#s1-2452.147 style="float: left;margin: 0;"}
+[24:52.147]
 
 > Now here is where the instructions are going to get a little tricky.
 > Go back and look at how to use the Electron Packager. What's really
@@ -480,13 +399,8 @@ style="font-family:'calibri';margin: 35px 6.25% 0 0;font-size: 15px;line-height:
 > Electron Forge. We don't like that. It doesn't work with Electron
 > Packager.
 
-</div>
-
-<div
-style="font-family:'calibri';margin: 35px 6.25% 0 0;font-size: 15px;line-height: 1.33;">
-
 ### S1\
-[*\~*26:29.271]{style="color: #CCC;"} {#s1-2629.271 style="float: left;margin: 0;"}
+[26:29.271]
 
 > So let's highlight this import file from Electron and just replace it
 > with this const. It does things in a different way. So those two
@@ -512,13 +426,8 @@ style="font-family:'calibri';margin: 35px 6.25% 0 0;font-size: 15px;line-height:
 > those on my machine. So I'm just going to do the last step, which is
 > mbm use six.\
 
-</div>
-
-<div
-style="font-family:'calibri';margin: 35px 6.25% 0 0;font-size: 15px;line-height: 1.33;">
-
 ### S1\
-[*\~*28:39.994]{style="color: #CCC;"} {#s1-2839.994 style="float: left;margin: 0;"}
+[28:39.994]
 
 > Now Node is going to go back to a version that we absolutely know it's
 > compatible. And I can do npm run build again and it will go through
@@ -537,13 +446,8 @@ style="font-family:'calibri';margin: 35px 6.25% 0 0;font-size: 15px;line-height:
 > work for whatever system you have. You should be able to see that it
 > works and it's ready to go.\
 
-</div>
-
-<div
-style="font-family:'calibri';margin: 35px 6.25% 0 0;font-size: 15px;line-height: 1.33;">
-
 ### S1\
-[*\~*30:07.649]{style="color: #CCC;"} {#s1-3007.649 style="float: left;margin: 0;"}
+[30:07.649]
 
 > As I open this Linux ones, we can see that it's not going to work on
 > Mac, which makes sense, and the Windows one as well. But what we want
@@ -563,13 +467,8 @@ style="font-family:'calibri';margin: 35px 6.25% 0 0;font-size: 15px;line-height:
 > what I want to do with this is actually pick it up and put it on my
 > desktop so that I can have easy access to it.\
 
-</div>
-
-<div
-style="font-family:'calibri';margin: 35px 6.25% 0 0;font-size: 15px;line-height: 1.33;">
-
 ### S1\
-[*\~*31:42.128]{style="color: #CCC;"} {#s1-3142.128 style="float: left;margin: 0;"}
+[31:42.128]
 
 > So now that it's on the desktop and I'm even going to rename it to
 > unicorn.png which you'll understand why I did that in a moment. So
@@ -601,13 +500,8 @@ style="font-family:'calibri';margin: 35px 6.25% 0 0;font-size: 15px;line-height:
 > them all into the Electron App. And then I drop them into the icons
 > folder.\
 
-</div>
-
-<div
-style="font-family:'calibri';margin: 35px 6.25% 0 0;font-size: 15px;line-height: 1.33;">
-
 ### S1\
-[*\~*34:33.958]{style="color: #CCC;"} {#s1-3433.958 style="float: left;margin: 0;"}
+[34:33.958]
 
 > Now the last step I have to take-- I accidentally closed the
 > instructions. But if we go back to where we were at, the last thing I
@@ -630,13 +524,8 @@ style="font-family:'calibri';margin: 35px 6.25% 0 0;font-size: 15px;line-height:
 > I chose the lowest res version, but if we did eight times it wouldn't
 > look so bad.\
 
-</div>
-
-<div
-style="font-family:'calibri';margin: 35px 6.25% 0 0;font-size: 15px;line-height: 1.33;">
-
 ### S1\
-[*\~*36:20.102]{style="color: #CCC;"} {#s1-3620.102 style="float: left;margin: 0;"}
+[36:20.102]
 
 > And then if I went into each of these other ones, it wouldn't actually
 > help me to see because my operating system is different. So that
@@ -649,13 +538,8 @@ style="font-family:'calibri';margin: 35px 6.25% 0 0;font-size: 15px;line-height:
 > testing. It's a framework. So go ahead and follow up with that if
 > you're interested, but that takes us to the end of that section.\
 
-</div>
-
-<div
-style="font-family:'calibri';margin: 35px 6.25% 0 0;font-size: 15px;line-height: 1.33;">
-
 ### S1\
-[*\~*37:05.081]{style="color: #CCC;"} {#s1-3705.081 style="float: left;margin: 0;"}
+[37:05.081]
 
 > So for our final piece, there are only two more things I want to show
 > you, but we'll learn how to share your app. So most of this is going
@@ -669,13 +553,8 @@ style="font-family:'calibri';margin: 35px 6.25% 0 0;font-size: 15px;line-height:
 > piece I'm going to walk you through is right here in Share on
 > Websites. All right.\
 
-</div>
-
-<div
-style="font-family:'calibri';margin: 35px 6.25% 0 0;font-size: 15px;line-height: 1.33;">
-
 ### S1\
-[*\~*37:55.395]{style="color: #CCC;"} {#s1-3755.395 style="float: left;margin: 0;"}
+[37:55.395]
 
 > So this last step can actually be a little trickier than it appears at
 > first glance. But it tells you that, most commonly Electron apps are
@@ -693,13 +572,8 @@ style="font-family:'calibri';margin: 35px 6.25% 0 0;font-size: 15px;line-height:
 > accidentally pushed things I shouldn't have before, so yours should
 > just work right away if you're following instructions.\
 
-</div>
-
-<div
-style="font-family:'calibri';margin: 35px 6.25% 0 0;font-size: 15px;line-height: 1.33;">
-
 ### S1\
-[*\~*39:10.496]{style="color: #CCC;"} {#s1-3910.496 style="float: left;margin: 0;"}
+[39:10.496]
 
 > The point, really, of this section is to cover two things. The first
 > is that releases can be super bulky if you're trying to actually
@@ -718,13 +592,9 @@ style="font-family:'calibri';margin: 35px 6.25% 0 0;font-size: 15px;line-height:
 > changes that break it, I'll always still have this source code to
 > distribute to others. And that's it. That's the last piece.\
 
-</div>
-
-<div
-style="font-family:'calibri';margin: 35px 6.25% 0 0;font-size: 15px;line-height: 1.33;">
 
 ### S1\
-[*\~*40:26.117]{style="color: #CCC;"} {#s1-4026.117 style="float: left;margin: 0;"}
+[40:26.117]
 
 > So now you are ready to go create an app of your own. You can write it
 > in JavaScript HTML CSS. Find a bunch of cool Node modules. Put them
@@ -732,13 +602,3 @@ style="font-family:'calibri';margin: 35px 6.25% 0 0;font-size: 15px;line-height:
 > exist. Build your own version of Slack. Enjoy. Stick with it. If you
 > have any questions, remember that you can get to us here. I hope that
 > your Electron journey is illustrious. Have a good one.
-
-</div>
-
-</div>
-
-</div>
-
-</div>
-
-</div>
