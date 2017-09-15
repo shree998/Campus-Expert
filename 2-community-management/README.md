@@ -26,7 +26,7 @@ The content in this module is provided by Lee Dohm.
 
 ## Video 📹
 
-- Youtube: https://www.youtube.com/watch?v=PWbP-lk8rX4
+- Youtube: https://www.youtube.com/watch?v=PWbP-lk8rX4&index=3&list=PLIRjfNq867bdlTQcgcOGATPrVggvfLv1c
 
 ## Introduction 👋
 

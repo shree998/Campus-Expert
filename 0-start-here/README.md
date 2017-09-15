@@ -35,7 +35,7 @@ The Campus Expert training features content from many creators. This content is 
 ## Video 📹
 _We try to accommodate a variety of learning styles. Every module contains a video that covers the content of the module. The written content in the README mirrors the content of the video, and is provided as an alternative. For most videos, you will also find a complete transcript in the module's 'resources' folder._
 
-Youtube: https://www.youtube.com/watch?v=bKCa9LVacUk
+Youtube: https://www.youtube.com/watch?v=bKCa9LVacUk&list=PLIRjfNq867bdlTQcgcOGATPrVggvfLv1c&index=1
 
 ## How does the training work?
 

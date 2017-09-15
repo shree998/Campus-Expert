@@ -28,7 +28,7 @@ The content in this module is provided by Joe Nash.
 
 _We try to accommodate a variety of learning styles. Every module contains a video that covers the content of the module. The written content in the README mirrors the content of the video, and is provided as an alternative. For most videos, you will also find a complete transcript in the module's 'resources' folder._
 
-Youtube: https://www.youtube.com/watch?v=kCs0gSlFM1A
+Youtube: https://www.youtube.com/watch?v=kCs0gSlFM1A&list=PLIRjfNq867bdlTQcgcOGATPrVggvfLv1c&index=2
 
 ## Welcome to Campus Experts 👋🚩
 

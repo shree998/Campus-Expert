@@ -26,7 +26,7 @@ The content in this module is provided by Brandon Keepers.
 
 ## Video 📹
 
-Youtube: https://www.youtube.com/watch?v=VNUiXLN8Q8M
+Youtube: https://www.youtube.com/watch?v=FR2JbCbSDSc&list=PLIRjfNq867bdlTQcgcOGATPrVggvfLv1c&index=8
 
 ## Introduction 👋
 

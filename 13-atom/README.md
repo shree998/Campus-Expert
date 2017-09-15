@@ -26,7 +26,7 @@ The content in this module is provided by Kim Noel.
 
 ## Video 📹
 
-Youtube: https://youtu.be/ma1PmLRcLKc
+Youtube: https://www.youtube.com/watch?v=ma1PmLRcLKc&index=13&list=PLIRjfNq867bdlTQcgcOGATPrVggvfLv1c
 
 ## Introduction 👋
 

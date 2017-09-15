@@ -34,7 +34,7 @@ The content in this module is provided by Wilhelm Klopp and Brooks Swinnerton.
 
 ## Video 📹
 
-Youtube: https://www.youtube.com/watch?v=PPWWPLuN4nU
+Youtube: https://www.youtube.com/watch?v=FR2JbCbSDSc&list=PLIRjfNq867bdlTQcgcOGATPrVggvfLv1c&index=9
 
 ## Introduction 👋
 

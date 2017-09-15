@@ -11,7 +11,7 @@ By the end of this module, you will:
 
 ## Video 📹
 
-Youtube: https://www.youtube.com/watch?v=_wBDJ7qyy-8
+Youtube: https://www.youtube.com/watch?v=_wBDJ7qyy-8&list=PLIRjfNq867bdlTQcgcOGATPrVggvfLv1c&index=14
 
 ## Introduction 👋
 

@@ -35,7 +35,7 @@ Katrina is the creator of [exercism](http://exercism.io/), an open source projec
 
 ## Video 📹
 
-Youtube: https://www.youtube.com/watch?v=22IFQLDQvfQ
+Youtube: https://www.youtube.com/watch?v=FR2JbCbSDSc&list=PLIRjfNq867bdlTQcgcOGATPrVggvfLv1c&index=4
 
 ## Introduction 👋
 

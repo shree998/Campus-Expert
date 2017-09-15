@@ -27,7 +27,7 @@ The content in this module is provided by Eric Hollenberry.
 
 ## Video 📹
 
-Youtube:
+Youtube: https://www.youtube.com/watch?v=-uBlR1ke1bM&index=12&list=PLIRjfNq867bdlTQcgcOGATPrVggvfLv1c
 
 ## Introduction 👋
 

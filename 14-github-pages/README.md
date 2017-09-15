@@ -25,6 +25,10 @@ The content in this module is provided by Hector Alfaro.
 
 Hector is passionate about teaching, learning, and bridging knowledge gaps. As a trainer for GitHub, Hector travels the world teaching others how to Git and GitHub. In his personal time, Hector enjoys teaching newbies how to program and, when not teaching, the Orlando weather and tinkering with the Internet of Things.
 
+## Video 📹
+
+Youtube: https://www.youtube.com/watch?v=8ZbCasdaR6Y&list=PLIRjfNq867bdlTQcgcOGATPrVggvfLv1c&index=13
+
 ## Introduction 👋
 
 In this module, you'll learn about GitHub Pages. GitHub Pages is an easy and fast way to create static web pages. A static web page is a page that isn't backed by a web application or server. In other words, there's no back end. This makes GitHub Pages a really easy way to learn about building websites, and to experiment with HTML, CSS and Javascript.
