@@ -27,7 +27,7 @@ The content in this module is provided by Mark Tareshawty.
 
 ## Video 📹
 
-Youtube: https://www.youtube.com/watch?v=FR2JbCbSDSc&list=PLIRjfNq867bdlTQcgcOGATPrVggvfLv1c&index=10
+Youtube: https://www.youtube.com/watch?v=9AuKvqdSS6c&index=10&list=PLIRjfNq867bdlTQcgcOGATPrVggvfLv1c
 
 ## Introduction 👋
 

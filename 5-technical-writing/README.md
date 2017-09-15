@@ -31,7 +31,7 @@ Jenn is a product writer on the documentation team at GitHub. Documentation at G
 
 ## Video 📹
 
-Youtube: https://www.youtube.com/watch?v=FR2JbCbSDSc&list=PLIRjfNq867bdlTQcgcOGATPrVggvfLv1c&index=6
+Youtube: https://www.youtube.com/watch?v=sxXvfttdzKg&index=6&list=PLIRjfNq867bdlTQcgcOGATPrVggvfLv1c
 
 ## Introduction 👋
 

@@ -27,7 +27,7 @@ The content in this module is provided by Briana Swift and Cynthia Rich.
 
 ## Video 📹
 
-Youtube: https://www.youtube.com/watch?v=FR2JbCbSDSc&list=PLIRjfNq867bdlTQcgcOGATPrVggvfLv1c&index=5
+Youtube: https://www.youtube.com/watch?v=FR2JbCbSDSc&index=5&list=PLIRjfNq867bdlTQcgcOGATPrVggvfLv1c
 
 ## Introduction 👋
 
