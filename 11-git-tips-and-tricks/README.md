@@ -41,6 +41,8 @@ Sara Breeding is the Director of Marketing at Axosoft where she does all the thi
 
 ## Introduction 👋
 
+_Did you know GitKraken Pro is available for free in the [Student Developer Pack](https://www.gitkraken.com/github-student-developer-pack)?_
+
 Welcome to the Git Tips & Tricks module! This module is designed to help you better understand intermediate Git concepts, like setting up SSH for your repository, rebasing, squashing commits, and enabling your first Git Hooks.
 
 We are assuming that you already have the basics of opening, cloning, and initializing a Git repository. We’re also assuming that you may have used the command line, but now we’ll show you how to use GitKraken, should you choose to use it moving forward. 🙏
@@ -69,6 +71,7 @@ There are 4 ways to get support with this module.
 ### Issues ❓💬
 
 You can open an issue to get support any time. Please follow the below steps:
+- Search past issues to see if your question has been answered before.
 - Make your title as descriptive as possible.
 - Apply the labels "MODULE-11" and "help".
 - Follow and complete the ISSUE TEMPLATE.

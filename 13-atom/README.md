@@ -30,9 +30,9 @@ Youtube: https://www.youtube.com/watch?v=dpw6idEeU5g&index=5&list=PLPDgudJ_VDUdB
 
 ## Introduction 👋
 
-In this module, you'll learn about the Atom editor and how to hack this hackable editor! You will become familiar with the atom editor and create a your first plugin. Kim delivered this tutorial for Local Hack Day 2016.
+In this module, you'll learn about the Atom editor and how to hack this hackable editor! You will become familiar with the atom editor and create a your first plugin. Kim delivered this tutorial for Local Hack Day 2016. You can find a written tutorial in the resources folder, complete with all the code shown in the video.
 
-When following a technical workshop in the Campus Experts training, the foremost thing in your mind should be "How can I share this knowledge with my community?". As you participate in the workshops and go through the exercises, think how you can present these concepts to your own peers, and what problems these technologies might solve, that are relevant to your community.
+Atom plugins are a great topic for learning developers, for many reasons. Being able to customise your developer environment and the plugins you use is a huge step to becoming a skilled developer. Additionally, Atom plugins make for a great first entry into open source! After this module, why not look at the repository of your favourite Atom plugin and see if there's anything you can do to help? Atom plugins are especially exciting topics for workshops for new programmers: moving from dabbling with Javascript on the web, to adding functionality to a text-editor feels very powerful, so don't forget to think about how you can share this new knowledge with your campus.
 
 ## Exercise 📝
 
@@ -50,6 +50,7 @@ There are 3 ways to get support with this module.
 ### Issues ❓💬
 
 You can open an issue to get support any time. Please follow the below steps:
+- Search past issues to see if your question has been answered before.
 - Make your title as descriptive as possible.
 - Apply the labels "MODULE-13" and "help".
 - Follow and complete the ISSUE TEMPLATE.

@@ -27,17 +27,19 @@ Please bear in mind the following requirements:
 - You must not be within 3 months of finishing your course of study.
 - There is a limit to the number of Campus Experts per university. This limit is dependent on several factors. If in doubt, please check through one of the support channels listed below.
 
+It's important to remember that Campus Experts is about _improving the community on your campus_. The modules that you complete before completing your application should be ones that will help you meet your impact proposal: choosing a module on a topic that you are already confident in will not teach you further useful skills that you can use to help your peers. During the application to become a Campus Expert, your module choices will be evaluated against how well they address the needs of your impact proposal.
+
 To apply to become a Campus Expert, complete the exercise. During this exercise, we'll collect some information from you and find a time to have a chat.
 
 Once you submit your application, we'll review your application and let you know as soon as possible whether we are able to make you a full Campus Expert.
 
 ## What happens once I'm a Campus Expert? 🤔
 
+Being a Campus Expert means making a difference to the community on your campus. As a Campus Expert, you will try to implement the impact proposal you created in Module 1. Once you become a Campus Expert, you will have access to further support and mentorship in acting out your impact proposal, and making a difference to your community.
+
 Campus Experts get added to a repository where you can request access to resources and ask for help with your activities and events. At the bottom of every training module, you will find a list of perks that you and your community gain access to upon completing that module. Once your application is accepted, you can start to use these benefits.
 
-Being a Campus Expert means making progress towards completing the goals laid out in your community impact proposal. Each month you will complete a report that lays out your progress towards that goal.
-
-Due to the per-campus limit on the number of Campus Experts, Campus Experts that are inactive for a long period of time, or not completing reports, may have their position re-evaluated. If you have concerns about the time commitment of being a Campus Expert, or know in advance you may be unavailable for some period of time, let us know through the support channels below.
+Due to the per-campus limit on the number of Campus Experts, Campus Experts that are inactive for a long period of time, may have their position re-evaluated. If you have concerns about the time commitment of being a Campus Expert, or know in advance you may be unavailable for some period of time, let us know through the support channels below.
 
 ## Exercise 📝
 

@@ -31,7 +31,9 @@ Youtube:
 
 ## Introduction 👋
 
-When following a technical workshop in the Campus Experts training, the foremost thing in your mind should be "How can I share this knowledge with my community?". As you participate in the workshops and go through the exercises, think how you can present these concepts to your own peers, and what problems these technologies might solve, that are relevant to your community.
+In this module, you'll learn about the history of Electron, how it relates to Javascript and Atom, and how to build Electron apps. The module is based on the on-demand Electron course created by GitHub Services, and covers everything you need to not only create your first Electron app, but package and distribute it too.
+
+Electron is a great way to leverage the accessibility of web technologies to create desktop apps. There's something about a desktop app that feels very material versus the web; the things you learn on this training will make a really exciting introduction to desktop apps for members of your community, so as always with technical modules, think about how you can share this knowledge with your community.
 
 ## Exercise 📝
 
@@ -50,6 +52,7 @@ There are 3 ways to get support with this module.
 ### Issues ❓💬
 
 You can open an issue to get support any time. Please follow the below steps:
+- Search past issues to see if your question has been answered before.
 - Make your title as descriptive as possible.
 - Apply the labels "MODULE-12" and "help".
 - Follow and complete the ISSUE TEMPLATE.

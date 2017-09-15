@@ -55,6 +55,7 @@ There are 3 ways to get support with this module.
 ### Issues ❓💬
 
 You can open an issue to get support any time. Please follow the below steps:
+- Search past issues to see if your question has been answered before.
 - Make your title as descriptive as possible.
 - Apply the labels "MODULE-9" and "help".
 - Follow and complete the ISSUE TEMPLATE.
@@ -91,5 +92,5 @@ Every module completed allows a Campus Expert to access certain benefits. To bec
 
 Completing this module earns:
 - The "Hubot" [badge](../docs/badges.md).
-- Hubot stickers for your Hubot workshops. 
+- Hubot stickers for your Hubot workshops.
 - Eligibility for funding support to host Hubot workshops on your campus or at hackathons GitHub supports.

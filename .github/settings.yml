@@ -81,6 +81,8 @@ labels:
     color: CC00CC
   - name: submission
     color: 00CCCC
+  - name: announcement
+    color: fbca04
   - name: subscribe-to-me
     color: fbca04
   - name: question

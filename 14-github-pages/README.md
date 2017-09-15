@@ -28,7 +28,13 @@ Hector is passionate about teaching, learning, and bridging knowledge gaps. As a
 
 ## Introduction 👋
 
-When following a technical workshop in the Campus Experts training, the foremost thing in your mind should be "How can I share this knowledge with my community?". As you participate in the workshops and go through the exercises, think how you can present these concepts to your own peers, and what problems these technologies might solve, that are relevant to your community.
+In this module, you'll learn about GitHub Pages. GitHub Pages is an easy and fast way to create static web pages. A static web page is a page that isn't backed by a web application or server. In other words, there's no back end. This makes GitHub Pages a really easy way to learn about building websites, and to experiment with HTML, CSS and Javascript.
+
+GitHub Pages runs on Jekyll, a Ruby framework for creating static pages. Jekyll provides many tools and utilities that give some of the power of a full featured backend, easily. It's especially well suited for blogs. During this module, you'll also learn about Jekyll, and how to create a Jekyll theme.
+
+Did you know that GitHub Pages powers the Campus Expert website? Take a look at http://githubcampus.expert.
+
+GitHub Pages is a great way to create websites for your community that anyone can contribute to: it's great for club blogs, hackathon information sites, and as a space for your members to experiment. The exercise in this module will have you create your first Pages site for your community. After you've done it, why not host a "Build your first website" workshop on campus using your new knowledge?
 
 ## Exercise
 
@@ -50,6 +56,7 @@ There are 3 ways to get support with this module.
 ### Issues ❓💬
 
 You can open an issue to get support any time. Please follow the below steps:
+- Search past issues to see if your question has been answered before.
 - Make your title as descriptive as possible.
 - Apply the labels "MODULE-14" and "help".
 - Follow and complete the ISSUE TEMPLATE.
@@ -70,7 +77,7 @@ If you have questions you would like to talk to a trainer face to face about, yo
 ## Module Completion ✅
 
 This module is complete when:
-- You have followed the exercise to create a community site using GitHub Pages. 
+- You have followed the exercise to create a community site using GitHub Pages.
 - You have followed the steps to submit.
 - Your pull request is merged!
 - You have completed the [survey](https://goo.gl/forms/yWLpRp4xycPs6PKS2).
