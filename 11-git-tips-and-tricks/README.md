@@ -17,14 +17,14 @@ By the end of this module, you will:
 
 ## Meet the trainers 🍎
 
-<img src="https://www.gitkraken.com/downloads/brand-assets/gitkraken-logo-dark-hz.png" href="https://www.gitkraken.com/downloads/brand-assets/gitkraken-logo-dark-hz.png" width="800"></img>
+<center><img src="https://www.gitkraken.com/downloads/brand-assets/gitkraken-logo-dark-hz.png" href="https://www.gitkraken.com/downloads/brand-assets/gitkraken-logo-dark-hz.png" width="800"></img></center>
 
-The content in this module is provided by various members of the Axosoft GitKraken team. [GitKraken](https://www.gitkraken.com/) is a Git GUI client for Windows, Mac and Linux. Use GitKraken Pro for free as part of your GitHub Student Developer Pack.
+The content in this module is provided by various members of the Axosoft GitKraken team. [GitKraken](https://www.gitkraken.com/?utm_source=github&utm_medium=campus_experts_training&utm_campaign=git%20module is a Git GUI client for Windows, Mac and Linux. Use GitKraken Pro for free as part of your GitHub Student Developer Pack.
 
 ###  Jonathan Silva
 <img src="https://github.com/jjsilva4.png" href="https://github.com/jjsilva4" title="Jonathan Silva" width="150"></img>
 
-As Director of Customer Success at Axosoft, Jonathan leads his team supporting and training users with [GitKraken](https://www.gitkraken.com/). With a background in both engineering and management, he helps create content to help make ideas or concepts a little less mysterious. He also claims to be "pretty good" at Super Smash Bros.
+As Director of Customer Success at Axosoft, Jonathan leads his team supporting and training users with GitKraken. With a background in both engineering and management, he helps create content to help make ideas or concepts a little less mysterious. He also claims to be "pretty good" at Super Smash Bros.
 
 ###  Sara Breeding
 <img src="https://github.com/sarabreeding.png" href="https://github.com/sarabreeding" title="Sara Breeding" width="150"></img>
@@ -33,11 +33,11 @@ Sara Breeding is the Director of Marketing at Axosoft where she does all the thi
 
 ## Video 📹
 
-- [What are GitHooks?](https://www.youtube.com/watch?v=ZZgyILr-TjA&list=PLe6EXFvnTV7-_41SpakZoTIYCgX4aMTdU&index=1)
-- [Squashing Commits](https://www.youtube.com/watch?v=cr1N8VTRmfM&t=2s&list=PLe6EXFvnTV7-_41SpakZoTIYCgX4aMTdU&index=2)
-- [What is SSH?](https://www.youtube.com/watch?v=z7jVOenqFYk&list=PLe6EXFvnTV7-_41SpakZoTIYCgX4aMTdU&index=3)
-- [Rebasing with no conflicts](https://www.youtube.com/watch?v=xKanizFigpk&list=PLe6EXFvnTV7-_41SpakZoTIYCgX4aMTdU&index=4)
-- [Rebasing with conflicts](https://www.youtube.com/watch?v=-3yqteu-pLM&list=PLe6EXFvnTV7-_41SpakZoTIYCgX4aMTdU&index=5)
+- [GitHooks](https://www.youtube.com/watch?v=ca2Zw3hR5uo&index=11&list=PLIRjfNq867bdlTQcgcOGATPrVggvfLv1c)
+- [Squashing Commits](https://www.youtube.com/watch?v=AmyXHwLKrLA&index=13&list=PLIRjfNq867bdlTQcgcOGATPrVggvfLv1c)
+- [SSH](https://www.youtube.com/watch?v=PrkrcMfVkHo&index=12&list=PLIRjfNq867bdlTQcgcOGATPrVggvfLv1c)
+- [Rebasing with no conflicts](https://www.youtube.com/watch?v=OBhhd2ozSsw&index=14&list=PLIRjfNq867bdlTQcgcOGATPrVggvfLv1c)
+- [Rebasing with conflicts](https://www.youtube.com/watch?v=lDRTMR5frG4&index=15&list=PLIRjfNq867bdlTQcgcOGATPrVggvfLv1c)
 
 ## Introduction 👋
 
@@ -45,17 +45,17 @@ _Did you know GitKraken Pro is available for free in the [Student Developer Pack
 
 Welcome to the Git Tips & Tricks module! This module is designed to help you better understand intermediate Git concepts, like setting up SSH for your repository, rebasing, squashing commits, and enabling your first Git Hooks.
 
-We are assuming that you already have the basics of opening, cloning, and initializing a Git repository. We’re also assuming that you may have used the command line, but now we’ll show you how to use GitKraken, should you choose to use it moving forward. 🙏
+We are assuming that you already have the basics of opening, cloning, and initializing a Git repository. We’re also assuming that you may have used the command line, but now we’ll show you how to use GitKraken moving forward.
 
-We’ve put together the content in a video series called “Learning Git with GitKraken.” The first few videos will explain the concepts via motion graphics and then follow up with examples using GitKraken. Once you finish watching the entire series, our exercises are here to help you test out some of these concepts yourself.
+We’ve put together the content in a video series called “Learning Git with GitKraken.” The first few videos will explain the concepts with motion graphics and then follow up with examples using GitKraken. Once you finish watching the entire series, our exercises are here to help you test out some of these concepts yourself.
 
-GitKraken does a fantastic job providing a visual layer on top of what’s going on behind the scenes, and it will be instrumental in your efforts to illustrate these basics to your fellow students. Keep this in mind the next time you need to present!
+GitKraken does a fantastic job helping you visualize what’s going on behind the scenes, and it will be instrumental in your efforts to illustrate these basics to your fellow students. Keep this in mind the next time you need to present!
 
 ## Exercise 📝
 
-One of the best things about using GitKraken, is how it helps visualize Git operations for beginners and pros alike. It’s one thing to type out git commands in the CLI, and another to do it in a GUI that visually shows you what you did with each command.  
+One of the best things about using GitKraken is being able to visualize Git operations. It makes Git commands that can be complicated and cubersome to memorize when using the CLI, as easy as dragging and dropping or pushing a button.
 
-Watch all the videos in this module before proceeding to the exercises, which will flex some of the core concepts. You can find a full description in the [exercises](exercises/)  file.
+Watch all the videos in this module before proceeding to the exercises, which will help you put what you learned into practice. If you're ready, start the [exercises](exercises/) now.
 
 ## Resources 📖
 
