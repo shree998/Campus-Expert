@@ -19,7 +19,7 @@ By the end of this module, you will:
 
 <center><img src="https://www.gitkraken.com/downloads/brand-assets/gitkraken-logo-dark-hz.png" href="https://www.gitkraken.com/downloads/brand-assets/gitkraken-logo-dark-hz.png" width="800"></img></center>
 
-The content in this module is provided by various members of the Axosoft GitKraken team. [GitKraken](https://www.gitkraken.com/?utm_source=github&utm_medium=campus_experts_training&utm_campaign=git%20module is a Git GUI client for Windows, Mac and Linux. Use GitKraken Pro for free as part of your GitHub Student Developer Pack.
+The content in this module is provided by various members of the Axosoft GitKraken team. [GitKraken](https://www.gitkraken.com/?utm_source=github&utm_medium=campus_experts_training&utm_campaign=git%20module) is a Git GUI client for Windows, Mac and Linux. Use GitKraken Pro for free as part of your GitHub Student Developer Pack.
 
 ###  Jonathan Silva
 <img src="https://github.com/jjsilva4.png" href="https://github.com/jjsilva4" title="Jonathan Silva" width="150"></img>
