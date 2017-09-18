@@ -2,7 +2,7 @@
 
 Hey there, 
 
-my name is Franzwagner, I'm 21 years old, currently living in Brazil. I'm a Computer Science student at [Universidade Federal de Goiás](http://www.international.ufg.br/). Learning and loving Shell Script, I recently found out that Windows is good just for games :laughing:
+my name is Franzwagner, I'm 22 years old (23 in one month), currently living in Brazil. I'm a Computer Science student at [Universidade Federal de Goiás](http://www.international.ufg.br/). Learning and loving Shell Script, I recently found out that Windows is good just for games :laughing:
 
 # What community I'm involved with
 Right now, I'm involved a lot with [Docker](https://www.docker.com). I'm one of the organisers of [Docker Goiania](https://www.meetup.com/Docker-Goiania) Meetup group and I'm also a Docker Campus Ambassador.
