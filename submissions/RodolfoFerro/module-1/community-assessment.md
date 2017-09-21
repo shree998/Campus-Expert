@@ -45,9 +45,10 @@ Students are interested on getting involved to our community because most of the
 Most of them are students trying to get a degree, but with the particular interest to get an integral formation for their profession. So, this makes most of them passionate students for learning and developing cool projects with awesome ideas, regardless their bachelor's area.
 
 Based on our existing goals, we might improve by creating more events having on mind our main community goals:
-	  - (Monthly) Tech talks/conferences (~1 hour)
-	  - (Monthly) Project night (~3 hours)
-	  - (Bimonthly) Workshops (~2 hours)
+
+- (Monthly) Tech talks/conferences (~1 hour)
+- (Monthly) Project night (~3 hours)
+- (Bimonthly) Workshops (~2 hours)
 
 ### Location
 
