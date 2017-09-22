@@ -1,7 +1,7 @@
 # Assessing GW CS community
 
 ## Definition
-* Our community is defined as undergraduate students interested in developing technical computer science skills outside the classroom.
+* Our community is defined as undergraduate students interested in developing technical computer science skills outside the classroom. The clubs that make up our community are the GW Tech Collective & GW ACM.
 
 ## Size
 * Actual: there are ~45 students that make up the population at most of the events.
@@ -37,6 +37,7 @@
 * We put up posters in the engineering buildings.
 
 ## Culture
-* We try to be welcome to everyone.  I think that it is intimidating to people outside engineering to come to an event at a club that is run by all engineers.  Maybe we can do better.
+* We try to be welcome to everyone.  I think that it is intimidating to people outside engineering to come to an event at a club that is run by all engineers.  Maybe we can do better. A lot times when people outside our organizations come to events, they do so for the wrong reasons.
 * Finding a mix of _discouraging_ non-tech major students from coming to our meetings looking for someone to build their app for them, while also _encouraging_ non-tech major students to come and learn things.  We want to make tech not seem like magic and not be so scary to learn about! I think this is something that our culture has struggled with.
 * We have a constitution to help us choose leaders, define our goals, and settle disputes! No taxation without representation! (Unless you live in Washington DC)
+* We also do a lot of fun things! We have a board game night every month because CS students get overwhelmed by all work and no play, and they need some time to practice being social.
