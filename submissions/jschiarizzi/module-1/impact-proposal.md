@@ -2,7 +2,7 @@
 
 CS and tech students at GW need:
 The following pieces might help strengthen this section:
-- **Community demographics**: There are [TODO size of gw engineering school] students in technical tracks at GW.  We should be able to provide academic, personal, and recreational support to everyone.
+- **Community demographics**: There are 600 students in technical tracks at GW.  We should be able to provide academic, personal, and recreational support to everyone.
 - **Communication**: News letter suffer from very low open rates. It's hard to get people to prioritize events we think are important over their already busy lives.
 - **Culture**: There are many techies at GW interested in exploring what they can build and learning from each other.
 
@@ -15,7 +15,7 @@ I ran an intro to Git workshop last year and was able to convince a software eng
 
 **Goal**: The goal for this year is to have at least 6 similarly attended workshops that are sanctioned by a department as an essential to attend/learn topic.
 
-**Community demographics**: [TODO]
+**Community demographics goal**: Raise number of students engaged to 150 unique people by the end of Spring 2018.
 
 ## My Proposal's Impact
 By working directly with faculty we provide more incentives to students to learn fundamental skills they need to succeed which aren't covered in class, like Git and scripting languages.
