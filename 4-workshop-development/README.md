@@ -12,7 +12,7 @@ _After completing the module, click an option below to select it. These answers 
 By the end of this module, you will:
 - Understand what differentiates a workshop from other public speaking opportunities.
 - Understand the concept of "learners first", and how it affects pacing and the order of concepts you teach.
-- Have applied what you learnt to creation of a workshop for your campus.
+- Have applied what you learnt to the creation of a workshop for your campus.
 
 ## Meet the trainers 🍎
 
@@ -31,13 +31,13 @@ Youtube: https://www.youtube.com/watch?v=FR2JbCbSDSc&index=5&list=PLIRjfNq867bdl
 
 ## Introduction 👋
 
-During this module, you will watch a talk by the Professional Services team at GitHub. The services team provides training for GitHub partners and users, for Git, GitHub and related technologies, like GraphQL. In the talk, Briana and Cynthia cover how they, as professional trainers, approach teaching GitHub. This talk will not only give insight into best practices for running a technical workshop, but will leave you prepared to deliver a GitHub workshop right away!
+During this module, you will watch a talk by the Professional Services team at GitHub. The services team provides training for GitHub partners and users, for Git, GitHub, and related technologies, like GraphQL. In the talk, Briana and Cynthia cover how they, as professional trainers, approach teaching GitHub. This talk will not only give insight into best practices for running a technical workshop, but will leave you prepared to deliver a GitHub workshop right away!
 This talk is very interactive, with participation and stories from the Campus Experts attending. That style is actually at the heart of what makes a good workshop, which we will dig into a little bit below. This module also contains a recording of a GitHub workshop, this is good reference material if you want to go on and apply what you've learnt to GitHub.
 
 This module goes hand-in-hand withe module 3, public speaking. Writing and delivering a technical workshop introduces some new challenges versus giving a conference or meetup talk. The key difference is interactivity: in a workshop, your audience is following along, and learning through practice. Because of this, when writing a workshop, you must be more aware of pacing and difficulty level.
 You have to provide a workshop challenging enough to keep the most advanced in the class interested, whilst not too challenging to slow down the rate of completion and prevent the workshop being completed on time. Supporting the attendees plays a larger role, for example, you will likely want assistants to support the attendees as they complete the workshop. Having teaching assistants allows you to continue to direct the class as a whole, whilst they focus on individuals problems and help get stuck students up to speed again.
 
-Another unique aspect of delivering workshops is that you escape the slideshow. You will likely want to demonstrate concepts live: this means getting into a text editor, console and browser, in front of a crowd. Performing technical activities live also adds complexity. Is your console font readable from the back of the room? What do you do if the internet connection is shaky? Do you have a backup ready in case you hit an unexpected bug? Technical demonstrations are useful and often exciting, but they can also backfire, and an ad-hoc bug fixing session may leave attendees more confused than enlightened. Be prepared, in order to keep the workshop clear and on topic.  
+Another unique aspect of delivering workshops is that you escape the slideshow. You will likely want to demonstrate concepts live: this means getting into a text editor, console, and browser, in front of a crowd. Performing technical activities live also adds complexity. Is your console font readable from the back of the room? What do you do if the internet connection is shaky? Do you have a backup ready in case you hit an unexpected bug? Technical demonstrations are useful and often exciting, but they can also backfire, and an ad-hoc bug fixing session may leave attendees more confused than enlightened. Be prepared, in order to keep the workshop clear and on topic.  
 
 ### Learners First 🎓🥇
 
@@ -91,7 +91,7 @@ If you need support with a code of conduct violation or incident, please refer t
 ## Module Completion ✅
 
 This module is complete when:
-- You have create an outline of a workshop.
+- You have created an outline of a workshop.
 - You have followed the instructions to submit.
 - Your pull request is merged!
 - You have completed the [survey](https://goo.gl/forms/yWLpRp4xycPs6PKS2).
