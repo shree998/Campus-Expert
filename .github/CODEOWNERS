@@ -3,15 +3,15 @@ submissions/*/module-8.md @wilhelmklopp
 submissions/*/module-08.md @wilhelmklopp
 
 0-start-here/* @joenash
-1-introductio/* @joenash
-2-community-management/* @joenash
-3-public-speaking/* @joenash
-4-workshop-development/* @joenash
-5-technical-writing/* @joenash
-6-fundraising/* @joenash
-7-opensource/* @joenash
-8-graphql/* @joenash @wilhelmklopp
-9-hubot/* @joenash
+01-introductio/* @joenash
+02-community-management/* @joenash
+03-public-speaking/* @joenash
+04-workshop-development/* @joenash
+05-technical-writing/* @joenash
+06-fundraising/* @joenash
+07-opensource/* @joenash
+08-graphql/* @joenash @wilhelmklopp
+09-hubot/* @joenash
 10-opensource-clubs/* @joenash
 11-git-tips-and-tricks/* @joenash
 12-electron/* @joenash
