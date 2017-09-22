@@ -102,7 +102,7 @@ If you need support with a code of conduct violation or incident, please refer t
 This module is complete when:
 - You have completed the community assessment.
 - You have completed the community impact proposal.
-- You have followed the [instructions to submit](https://github.com/campus-experts/open-training/blob/master/1-introduction/exercises/submission.md).
+- You have followed the [instructions to submit](exercises/submission.md).
 - Your pull request is merged!
 - You have completed the [survey](https://goo.gl/forms/yWLpRp4xycPs6PKS2).
 

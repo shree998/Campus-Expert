@@ -21,7 +21,7 @@ People learn better when they can learn with a community of likeminded peers. A 
 To become a Campus Expert, you must complete the following:
 
 - [Module 0](/0-start-here) - Getting Started
-- [Module 1](/1-introduction) - Introduction.
+- [Module 1](/01-introduction) - Introduction.
 - At least 3 other modules.
 
 Please bear in mind the following requirements:
@@ -50,15 +50,15 @@ It's important to remember that Campus Experts is about _improving the community
 
 The currently available training modules are:
 - [Module 0](/0-start-here) - Getting started (Compulsory)
-- [Module 1](/1-introduction) - Introduction (Compulsory)
-- [Module 2](/2-community-management) - Community management
-- [Module 3](/3-public-speaking) - Public speaking
-- [Module 4](/4-workshop-development) - Workshop development
-- [Module 5](/5-technical-writing) - Technical writing
-- [Module 6](/6-fundraising) - Fundraising
-- [Module 7](/7-opensource) - Opensource
-- [Module 8](/8-graphql) - GraphQL
-- [Module 9](/9-hubot) - Hubot
+- [Module 1](/01-introduction) - Introduction (Compulsory)
+- [Module 2](/02-community-management) - Community management
+- [Module 3](/03-public-speaking) - Public speaking
+- [Module 4](/04-workshop-development) - Workshop development
+- [Module 5](/05-technical-writing) - Technical writing
+- [Module 6](/06-fundraising) - Fundraising
+- [Module 7](/07-opensource) - Opensource
+- [Module 8](/08-graphql) - GraphQL
+- [Module 9](/09-hubot) - Hubot
 - [Module 10](/10-opensource-clubs) - Opensource clubs
 - [Module 11](/11-git-tips-and-tricks) - Git tips and tricks
 - [Module 12](/12-electron) - Electron
