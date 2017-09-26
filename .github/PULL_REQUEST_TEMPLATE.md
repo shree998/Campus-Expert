@@ -8,7 +8,7 @@ Tell us about your pull request!
 **Please make sure your submission is in the correct directory**. In most cases, this is in submissions/YOUR-USERNAME/module-MODULENUMBER.
 
 For example, if @joenash is completing module 1:
-- I read the [instructions to submit](https://github.com/campus-experts/open-training/blob/master/1-introduction/exercises/submission.md)
+- I read the [instructions to submit](https://github.com/campus-experts/open-training/blob/master/01-introduction/exercises/submission.md)
 - I create 2 new documents inside _submissions/joenash/module-1_
 - I title these documents _community-assessment.md_ and _community-proposal.md_
 
