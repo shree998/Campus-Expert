@@ -8,7 +8,7 @@ This README explains how to get started with the training, and how to become a C
 
 ## Latest news
 
-### [Mass Merge Incident - 2017 August 20th](https://github.com/campus-experts/open-training/issues/233)
+### [New modules! Say hello :wave: to Git, Electron, Atom and GitHub Pages](https://github.com/campus-experts/open-training/issues/427)
 
 [This issue](https://github.com/campus-experts/open-training/issues/40) contains announcements and latest news about the training, features and benefits for you. You should [subscribe to this issue](https://help.github.com/articles/subscribing-to-conversations/) so you're always able to participate in the latest cool things!
 
@@ -21,7 +21,7 @@ People learn better when they can learn with a community of likeminded peers. A 
 To become a Campus Expert, you must complete the following:
 
 - [Module 0](/0-start-here) - Getting Started
-- [Module 1](/1-introduction) - Introduction.
+- [Module 1](/01-introduction) - Introduction.
 - At least 3 other modules.
 
 Please bear in mind the following requirements:
@@ -29,6 +29,8 @@ Please bear in mind the following requirements:
 - Campus Experts must be 18 years of age and over.
 - You must not be within 3 months of finishing your course of study.
 - There is a limit to the number of Campus Experts per university. This limit is dependent on several factors. If in doubt, please check through one of the support channels listed below.
+
+It's important to remember that Campus Experts is about _improving the community on your campus_. The modules that you complete before completing your application should be ones that will help you meet your impact proposal: choosing a module on a topic that you are already confident in will not teach you further useful skills that you can use to help your peers. During the application to become a Campus Expert, your module choices will be evaluated against how well they address the needs of your impact proposal.
 
 Once you have completed the necessary modules, and if you are within the requirements, you can complete the [application module](/n+1-application). Once complete, we will review your application as soon as possible.
 
@@ -42,20 +44,26 @@ _PLEASE NOTE_: We try to accommodate a variety of learning styles. The videos ar
 
 Every Campus Expert should start with Module 0, Getting Started. If you are familiar with GitHub, you can skip straight to the [instructions on completing an exercise](https://github.com/campus-experts/open-training/tree/master/0-start-here#completing-an-exercise). During this module, you will gain a much better understanding of your community, and what you need to learn in order to make your community shine. Completing the Introduction module will guide your further module choices.
 
+It's important to remember that Campus Experts is about _improving the community on your campus_. You should select modules that will help you do that: choosing a module on a topic that you are already confident in will not teach you further useful skills that you can use to help your peers. During the application to become a Campus Expert, your module choices will be evaluated against how well they address the needs of your impact proposal.
+
 ## What training modules are available?
 
 The currently available training modules are:
-- [Module 0](/0-start-here) - Getting Started (Compulsory)
-- [Module 1](/1-introduction) - Introduction (Compulsory)
-- [Module 2](/2-community-management) - Community Management
-- [Module 3](/3-public-speaking) - Public Speaking
-- [Module 4](/4-workshop-development) - Workshop Development
-- [Module 5](/5-technical-writing) - Technical Writing
-- [Module 6](/6-fundraising) - Fundraising
-- [Module 7](/7-opensource) - Opensource
-- [Module 8](/8-graphql) - GraphQL
-- [Module 9](/9-hubot) - Hubot
+- [Module 0](/0-start-here) - Getting started (Compulsory)
+- [Module 1](/01-introduction) - Introduction (Compulsory)
+- [Module 2](/02-community-management) - Community management
+- [Module 3](/03-public-speaking) - Public speaking
+- [Module 4](/04-workshop-development) - Workshop development
+- [Module 5](/05-technical-writing) - Technical writing
+- [Module 6](/06-fundraising) - Fundraising
+- [Module 7](/07-opensource) - Opensource
+- [Module 8](/08-graphql) - GraphQL
+- [Module 9](/09-hubot) - Hubot
 - [Module 10](/10-opensource-clubs) - Opensource clubs
+- [Module 11](/11-git-tips-and-tricks) - Git tips and tricks
+- [Module 12](/12-electron) - Electron
+- [Module 13](/13-atom) - Atom
+- [Module 14](/14-github-pages) - Github Pages
 - ...
 - [Module n+1](/n+1-application) - Your application!
 

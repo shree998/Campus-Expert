@@ -12,7 +12,7 @@ For example, if @joenash is completing module 1:
 - I create 2 new documents inside _submissions/joenash/module-1_
 - I title these documents _community-assessment.md_ and _community-proposal.md_
 
-You can find complete details in the submission instructions for each module. 
+You can find complete details in the submission instructions for each module.
 
 ## Labels - DELETE THIS SECTION AFTER COMPLETING
 
