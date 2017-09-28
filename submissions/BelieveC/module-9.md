@@ -28,9 +28,6 @@ module.exports = (robot) ->
 			$ = cheerio.load(body)
 
 			$('.episode').slice(0, 5).each ->
-				msg.send "Title: " + $(this).find('h2 a').first().text().replace /^\s+|\s+$/g, ""
-				msg.send $(this).find('.info .number').text()
-				msg.send "Link: " + RAILSCASTS_URL + $(this).find('h2 a').first().attr('href')
-				msg.send Array(4).join '~'
+				msg.send $(this).find('.info .number').text() + " - " + $(this).find('h2 a').first().text().replace( /^\s+|\s+$/g, "") + " - " +RAILSCASTS_URL + $(this).find('h2 a').first().attr('href')
 
 ```
