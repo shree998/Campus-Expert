@@ -1,5 +1,6 @@
 ![module-11-banner](https://user-images.githubusercontent.com/1790822/30443898-1b71679c-9979-11e7-96bc-54f5185a52b6.png)
 
+
 # Did you enjoy this module? 👍👎
 _After completing the module, click an option below to select it. These answers help us improve content for you and future students._  
 
@@ -14,6 +15,7 @@ By the end of this module, you will:
 - Understand intermediate Git concepts.
 - Be able to teach others what these git concepts mean.
 - Be able to use GitKraken to be a more efficient Git user.
+
 
 ## Meet the trainers 🍎
 
@@ -71,6 +73,7 @@ There are 4 ways to get support with this module.
 ### Issues ❓💬
 
 You can open an issue to get support any time. Please follow the below steps:
+
 - Search past issues to see if your question has been answered before.
 - Make your title as descriptive as possible.
 - Apply the labels "MODULE-11" and "help".
@@ -112,6 +115,6 @@ Every module completed allows a Campus Expert to access certain benefits. To bec
 
 Completing this module earns:
 - The "Git tips and tricks" [badge](../docs/badges.md).
-- Printed  [GitKraken Cheat Sheets](https://www.gitkraken.com/resources/gitkraken-cheat-sheet) for your workshops.
-- Printed [GitKraken for GitHub Users Cheat Sheet](https://www.gitkraken.com/resources/gitkraken-github-cheat-sheet) for your workshops.
+- Printed  [GitKraken Cheat Sheets](https://www.gitkraken.com/downloads/gitKraken-cheat-sheet-28sept2017.pdf) for your workshops.
+- Printed [GitKraken for GitHub Users Cheat Sheet](https://www.gitkraken.com/downloads/gitkraken-for-github-cheat-sheet-28sept2017.pdf) for your workshops.
 - GitKraken stickers
