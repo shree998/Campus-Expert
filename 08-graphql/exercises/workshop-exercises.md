@@ -10,7 +10,7 @@ _Please note: in the video, Wilhelm's GitHub username is "xoneco". It has since 
 - Challenge 2: Fetch the issues for the [Facebook React repository](https://github.com/facebook/react).
 - Challenge 3: Find your database ID.
 - Challenge 4: Find the database ID of the GitHub CEO (@defunkt) and check whether he's a Campus Expert.
-- Challenge 5: Add a reaction to this issue.
+- Challenge 5: Add a reaction to [this](https://github.com/wilhelmklopp/github-graphql-workshop/issues/2) issue.
 
 Complete the challenges above using GraphQL, and add the answers and results to a file called "module-8.md". You can copy and paste the answers into this file, or you can link to a gist or repository. Submit them using the guide below.
 
