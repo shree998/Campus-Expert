@@ -33,7 +33,7 @@ I like going to hackathons, I've won only two and have been a mentor in one. I l
 
 ## Contact
 
-I'm open to talk about everything and to collaborate to create cool stuff with anyone, so please feel free to contact me! My email is [ferro@cimat.mx](ferro@cimat.mx) and you can find me as [@FerroRodolfo](https://twitter.com/FerroRodolfo) on Twitter.
+I'm open to talk about everything and to collaborate to create cool stuff with anyone, so please feel free to contact me! My email is ferro@cimat.mx and you can find me as [@FerroRodolfo](https://twitter.com/FerroRodolfo) on Twitter.
 
 Any extra contact data or information about me can be found [here](https://rodolfoferro.github.io/cv/) (Facebook, LinkedIn, WordPress, etc.).
 
