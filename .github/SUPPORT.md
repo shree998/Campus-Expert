@@ -5,6 +5,7 @@ You can get support with the Campus Expert training in 3 ways:
 ### Issues
 
 You can open an issue to get support any time. Please follow the below steps:
+- Search past issues to see if your question has been answered before.
 - Make your title as descriptive as possible.
 - Apply the labels as described in the module README, plus the label "help".
 - Follow and complete the ISSUE TEMPLATE.
@@ -21,3 +22,11 @@ Please note that webinars take place through Zoom. The Zoom client will automati
 ### 1-to-1 calls
 
 If you have questions you would like to talk to a trainer face to face about, you can request a video call [here](https://calendly.com/joenash/campus-experts-support). Please ensure you answer all questions in the form, or your call request may be denied.
+
+### Code of Conduct violations
+
+If you need support with a code of conduct violation or incident, please refer to the [Code of Conduct](../CODE_OF_CONDUCT.md).
+
+### Giving feedback
+
+You can give feedback on a module through this form: [https://goo.gl/forms/37uhE6H8DTIuVyNH3](https://goo.gl/forms/37uhE6H8DTIuVyNH3)

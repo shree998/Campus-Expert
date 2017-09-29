@@ -1,6 +1,12 @@
 ![module-10-banner](https://user-images.githubusercontent.com/1790822/28998947-3af4f2f2-7a05-11e7-97c5-5701a171d152.png)
 
-# Open Source Clubs
+# Did you enjoy this module? 👍👎
+_After completing the module, click an option below to select it. These answers help us improve content for you and future students._  
+
+[![](https://m131jyck4m.execute-api.us-west-2.amazonaws.com/prod/poll/01BQ93HQ6J3E3MYCKGM9R8V6N9/I%20enjoyed%20this%20module)](https://m131jyck4m.execute-api.us-west-2.amazonaws.com/prod/poll/01BQ93HQ6J3E3MYCKGM9R8V6N9/I%20enjoyed%20this%20module/vote)
+[![](https://m131jyck4m.execute-api.us-west-2.amazonaws.com/prod/poll/01BQ93HQ6J3E3MYCKGM9R8V6N9/I%20did%20not%20enjoy%20this%20module)](https://m131jyck4m.execute-api.us-west-2.amazonaws.com/prod/poll/01BQ93HQ6J3E3MYCKGM9R8V6N9/I%20did%20not%20enjoy%20this%20module/vote)
+
+# Open Source Clubs 📖♣️
 
 ## Learning Goals 🥅
 
@@ -8,6 +14,15 @@ By the end of this module, you will:
 - Learn how to create a club on campus and complete a proposal or constitution
 - Understand how to effectively communicate open source projects to your club
 - Be prepared to bring your club and open source together
+
+## Meet the trainers 🍎
+
+The content in this module is provided by Kim Noel.
+
+###  Kim
+<img src="https://github.com/kim-codes.png" href="https://github.com/kim-codes" title="Kim Codes" width="150"></img>
+
+[Kim](https://github.com/kim-codes) is currently a Campus Expert and has interned on the Education team at GitHub.
 
 ## Introduction 👋
 
@@ -17,7 +32,7 @@ Let's start a club!
 
 ## Exercise
 
-The exercise in this module is to complete an outline of your campus club. Suggested outline and questions can be found in the exercises directory.
+The exercise in this module is broken into three parts: updating your impact proposal, completing an outline of your campus club, and providing an outline for an activity or event involving open source. Suggested outline and questions can be found in the exercises directory.
 
 ## Support 🙋🏿
 
@@ -26,6 +41,7 @@ There are 3 ways to get support with this module.
 ### Issues ❓💬
 
 You can open an issue to get support any time. Please follow the below steps:
+- Search past issues to see if your question has been answered before.
 - Make your title as descriptive as possible.
 - Apply the labels "MODULE-10" and "help".
 - Follow and complete the ISSUE TEMPLATE.
@@ -51,10 +67,12 @@ This module is complete when:
 - You have completed your proposal document.
 - You have followed the instructions to submit.
 - Your pull request is merged!
+- You have completed the [survey](https://goo.gl/forms/yWLpRp4xycPs6PKS2).
 
 ## Campus Expert Benefits 🏅
 
 Every module completed allows a Campus Expert to access certain benefits. To become a Campus Expert, you must complete a minimum number of training modules and then complete an application. More instructions can be found in the application module.
 
 Completing this module earns:
-- The "Open Source Clubs" badge!
+- The "Open Source Clubs" [badge](../docs/badges.md).
+- Access to funding in support of your opensource club activities.
