@@ -2,7 +2,7 @@
 
 My name is Rodolfo Ferro, but you may call me **Rod**. I'm an undergrad student in mathematics at the [University of Guanajuato](http://www.ugto.mx/) in Guanajuato, Mexico. I do maths, but I also enjoy doing computer science stuff. 😎 This is why I'm actually working on my thesis about machine learning + computer vision + thermal images processing. I consider myself a sci-tech enthusiast and I like to *"Code it once, run it forever"*. In **#Python** it is. 🐍
 
-Now, I'll try to tell you about what I liek to do and a bit of what I've done so far. :)
+Now, I'll try to tell you about what I like to do and a bit of what I've done so far. :)
 
 
 ## Education
