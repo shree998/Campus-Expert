@@ -5,6 +5,7 @@ You can get support with the Campus Expert training in 3 ways:
 ### Issues
 
 You can open an issue to get support any time. Please follow the below steps:
+- Search past issues to see if your question has been answered before.
 - Make your title as descriptive as possible.
 - Apply the labels as described in the module README, plus the label "help".
 - Follow and complete the ISSUE TEMPLATE.
