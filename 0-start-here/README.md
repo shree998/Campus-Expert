@@ -10,7 +10,7 @@ _After completing the module, click an option below to select it. These answers 
 
 **If you are already familiar with using GitHub, you can skip straight to the [instructions on completing an exercise](https://github.com/campus-experts/open-training/tree/master/0-start-here#completing-an-exercise).**
 
-This module walks you through everything you need to be able to follow the GitHub Campus Expert training. Follow the steps below before progressing on to module 1 - the introduction. 
+This module walks you through everything you need to be able to follow the GitHub Campus Expert training. Follow the steps below before progressing on to module 1 - the introduction.
 
 _TIP: If at any stage during this (or future) modules, you need help or are stuck, you can find out how to get support in the "Support" section of the [README.md](./README.md#support-)._
 
@@ -35,7 +35,7 @@ The Campus Expert training features content from many creators. This content is 
 ## Video 📹
 _We try to accommodate a variety of learning styles. Every module contains a video that covers the content of the module. The written content in the README mirrors the content of the video, and is provided as an alternative. For most videos, you will also find a complete transcript in the module's 'resources' folder._
 
-Youtube: https://www.youtube.com/watch?v=bKCa9LVacUk
+Youtube: https://www.youtube.com/watch?v=bKCa9LVacUk&list=PLIRjfNq867bdlTQcgcOGATPrVggvfLv1c&index=1
 
 ## How does the training work?
 
@@ -111,6 +111,7 @@ There are 3 ways to get support with this module.
 
 ### Issues ❓💬
 You can open an issue to get support any time. Please follow the below steps:
+- Search past issues to see if your question has been answered before.
 - Make your title as descriptive as possible.
 - Apply the labels "MODULE-0" and "help".
 - Follow and complete the ISSUE TEMPLATE.
