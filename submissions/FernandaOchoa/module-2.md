@@ -4,7 +4,7 @@
 
 ### Nature of the incident
 
-One of the events that we do not only for our community, is open to other universities is the Latin American Festival of Free Software Installation (FLISOL). As part of the dissemination and due to the few resources we had to organize it, we got one of the partners to promote the event to a local television station. (There is something called Meetroopers in Mexico that is a collective of communities where those who are registered have tickets to campus party, coldly that is). The interviewer is the leader of the western region of that thing, we are not part of that region since apparently of him, we are nothing ....
+One of the events that we do not only for our community, is open to other universities is the Latin American Festival of Free Software Installation (FLISOL). As part of the dissemination and due to the few resources we had to organize it, we got one of the partners to promote the event to a local television station. (There is something in Mexico that is a collective of communities where those who are registered have tickets to campus party, coldly that is). The interviewer is the leader of the western region of that thing, we are not part of that region since apparently of him, we are nothing ....
 
 This being the context, my partner decided to go to represent us and give the diffusion to said event. We had the pressure from the teachers, the classmates and the few sponsors because the event was a success, since in that week happened other events in some universities.
 
