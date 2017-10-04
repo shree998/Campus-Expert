@@ -46,6 +46,10 @@ Youtube: https://www.youtube.com/watch?v=bKCa9LVacUk&list=PLIRjfNq867bdlTQcgcOGA
 - Check issues regularly! Issues aren't just for bugs, they're a great place to chat and start discussions. In Campus Experts, we use them like a forum!
 - Remember, whenever you submit a document, participate in an issue or pull request, or interact with another student, you are bound to abide by the [Code of Conduct](../CODE_OF_CONDUCT.md).
 
+## Markdown
+
+Exercises are written and submitted as *markdown documents*. A markdown document is a text text file with a bit of extra syntax to help structure your document. Markdown files use the extension `.md` and can be written in any basic text editor such as Notepad, TextEdit, Atom, VSCode, and many others. If you are not familiar with markdown, you should read through this 5 minute guide: [Mastering Markdown](https://guides.github.com/features/mastering-markdown/).
+
 ## Getting ready to complete exercises
 
 In order to complete an exercise, we will have to create what's called a _pull request_. To do this, we will need a _fork_ of this repository. A fork is our own copy of this repository. To create a fork, click the "Fork" button in the top right of the page.
