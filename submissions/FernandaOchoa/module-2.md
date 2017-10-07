@@ -26,7 +26,7 @@ What really surprised us since he is in charge of about 30 communities, which th
 The result was unexpected, as other communities read the conversation and showed their disagreements, they helped us by sharing the event and we had a good reaction from the public.
 
 What could be different?
-In Mexico there is an expression to say "relax" and it is "calm, it makes a snickers (the chocolate)" I think that to use that expression was my mistake since I annoy it more, and for that reason it began to lack respect to us.
+In Mexico there is an expression to say "relax" and it is "Relax, eat a snickers (the chocolate)" I think that to use that expression was my mistake since I annoy it more, and for that reason it began to lack respect to us.
 
 ### What could be different?
 We must choose better the means and the expressions of communication, I learned how important it is to choose battles and how to deal with people that only go to unbalance the community, nevertheless we made the decision that Bravers was not affiliated with this type of communities that although some are astonishing are also toxic people, we have some affiliates and therefore we are in the center region, only that Bravers that is dedicated to blood, sweat and tears do not affiliate because the goal is different.
