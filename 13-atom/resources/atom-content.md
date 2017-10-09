@@ -24,7 +24,7 @@ The following terms may be used often throughout this module, so let’s make su
 
 **Panel** - A piece of the Atom UI that is outside the editor space.
 
-**Pane** - A visual component of the editor. Each pane can hold multiple pane items. An Atom window has at least one pane.
+**Pane** - A visual component of the editor. Each panel can hold multiple pane items. An Atom window has at least one pane.
 
 **Package** = Plugin
 
