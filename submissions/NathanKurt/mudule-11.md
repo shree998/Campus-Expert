@@ -6,7 +6,7 @@
   
 * How could you help a Git newbie understand what's happening when they push and pull their contributions to their repo?
 
-  * I normally get out a sheet of paper and make a diagram to show them how it works. Something like ![this](imagelocationafteriupdateit)
+  * I normally get out a sheet of paper and make a diagram to show them how it works. Something like ![this](https://github.com/campus-experts/open-training/blob/nathankurt-module-11/submissions/NathanKurt/Image%20uploaded%20from%20iOS.jpg)
   
   
 
