@@ -21,6 +21,7 @@
     }
   }
 } 
+
 ```
 
 **OUT:**
@@ -98,8 +99,7 @@
 <h2>Challenge 2</h2>
 
 **IN:**
-```
-{
+```{
   repository(owner: "facebook", name: "react") {
     issues(last: 3) {
       edges {
@@ -113,8 +113,7 @@
 ```
 
 **OUT:**
-```
-{
+```{
   "data": {
     "repository": {
       "issues": {
@@ -142,17 +141,16 @@
 ```
 
 <h2> Challenge 3 </h2>
+
 **IN:**
-```
-{
+```{
   user(login: "nathankurt") {
     databaseId
   }
 }
 ```
 **OUT:**
-```
-{
+```{
   "data": {
     "user": {
       "databaseId": 9864281
@@ -161,6 +159,7 @@
 }
 ```
 <h2> Challenge 4 </h2>
+
 **IN:**
 ```
 {
@@ -187,8 +186,7 @@
 <h3> First Querey </h3>
 
 **IN:**
-```
-{
+```{
   repository(owner:"wilhelmklopp" name: "github-graphql-workshop"){
     issues(first: 1){
       edges{
@@ -203,8 +201,7 @@
 ```
 
 **OUT:**
-```
-{
+```{
   "data": {
     "repository": {
       "issues": {
@@ -224,8 +221,7 @@
 <h3> Second Querey </h3>
 
 **IN:**
-```
-mutation {
+```mutation {
   addReaction(input: {subjectId: "MDU6SXNzdWUyMTg2NTcwMzk=", content: THUMBS_UP}) {
     reaction {
       content
@@ -236,8 +232,7 @@ mutation {
 
 ```
 **OUT:**
-```
-{
+```{
   "data": {
     "addReaction": {
       "reaction": {
