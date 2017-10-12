@@ -1,6 +1,6 @@
-### Graph QL Challenges
+<h1> Graph QL Challenges </h1>
 
-* Challenge 1
+<h2> Challenge 1 </h2>
 
 **IN:**
 ```{
@@ -20,7 +20,8 @@
       }
     }
   }
-}```
+} 
+```
 
 **OUT:**
 
@@ -90,5 +91,30 @@
       }
     }
   }
-}```
+}
+```
+
+
+<h2>Challenge 2</h2>
+
+**IN:**
+
+
+**OUT:**
+
+
+<h2> Challenge 3 </h2>
+**IN:**
+
+**OUT:**
+
+<h2> Challenge 4 </h2>
+**IN:**
+
+**OUT:**
+
+<h2> Challenge 5 </h2>
+**IN:**
+
+**OUT:**
 
