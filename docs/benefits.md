@@ -73,9 +73,8 @@ Completing this module earns:
 
 Completing this module earns:
 - The "Git tips and tricks" [badge](../docs/badges.md).
-- Printed  [GitKraken Cheat Sheets](https://www.gitkraken.com/resources/gitkraken-cheat-sheet) for your workshops.
-- Printed [GitKraken for GitHub Users Cheat Sheet](https://www.gitkraken.com/resources/gitkraken-github-cheat-sheet) for your workshops.
-- GitKraken stickers
+- Printed  Git cheat sheets for your workshops.
+- GitKraken stickers.
 
 ## Module 12 - Electron
 
