@@ -115,6 +115,5 @@ Every module completed allows a Campus Expert to access certain benefits. To bec
 
 Completing this module earns:
 - The "Git tips and tricks" [badge](../docs/badges.md).
-- Printed  [GitKraken Cheat Sheets](https://www.gitkraken.com/downloads/gitKraken-cheat-sheet-28sept2017.pdf) for your workshops.
-- Printed [GitKraken for GitHub Users Cheat Sheet](https://www.gitkraken.com/downloads/gitkraken-for-github-cheat-sheet-28sept2017.pdf) for your workshops.
-- GitKraken stickers
+- Printed  Git cheat sheets for your workshops.
+- GitKraken stickers.
