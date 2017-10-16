@@ -8,7 +8,7 @@ Every training module in the Campus Experts training has a badge. These badges a
 
 ## Where are badges displayed?
 
-Badges are displayed on the Campus Expert's profile on the [Find an Expert site](http://githubcampus.expert). The badges being displayed on your profile means that members of your community can get an idea, at a glance, of what you can help them with. Other Campus Experts at your school can also get an idea of how you could combine your strengths and :sparkles:synergize:sparkles:
+Badges are displayed on the Campus Expert's profile on the [Find an Expert site](http://githubcampus.expert). The badges being displayed on your profile means that members of your community can get an idea, at a glance, of what you can help them with. Other Campus Experts at your school can also get an idea of how you could combine your strengths and :sparkles:synergize:sparkles:.
 
 ## Why are they hexagonal?
 
