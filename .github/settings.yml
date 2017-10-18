@@ -87,3 +87,5 @@ labels:
     color: fbca04
   - name: question
     color: fbca04
+  - name: exempt
+    color: fbca04
