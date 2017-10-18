@@ -15,3 +15,6 @@
 * My Website: [otaciliomaia.com (In portuguese, english version coming soon)](otaciliomaia.com)
 * My Email: [contact@otaciliomaia.com](contact@otaciliomaia.com)
 * Linkedin: [linkedin.com/in/otacilio](https://linkedin.com/in/otacilio)
+
+# Favorite Emoji
+* :heart: I am a lover
