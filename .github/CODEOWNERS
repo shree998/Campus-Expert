@@ -1,6 +1,8 @@
 # Ping wilhelmklopp on GraphQL module submissions
 submissions/*/module-8.md @wilhelmklopp
 submissions/*/module-08.md @wilhelmklopp
+submissions/*/module-08/* @wilhelmklopp
+submissions/*/module-8/* @wilhelmklopp
 
 0-start-here/* @joenash
 01-introductio/* @joenash
