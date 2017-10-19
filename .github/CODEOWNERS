@@ -4,8 +4,9 @@ submissions/*/module-08.md @wilhelmklopp
 submissions/*/module-08/* @wilhelmklopp
 submissions/*/module-8/* @wilhelmklopp
 
+# Ping joenash on any changes to module content
 0-start-here/* @joenash
-01-introductio/* @joenash
+01-introduction/* @joenash
 02-community-management/* @joenash
 03-public-speaking/* @joenash
 04-workshop-development/* @joenash
@@ -19,3 +20,4 @@ submissions/*/module-8/* @wilhelmklopp
 12-electron/* @joenash
 13-atom/* @joenash
 14-github-pages/* @joenash
+15-running-an-org/* @joenash
