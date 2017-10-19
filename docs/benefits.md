@@ -91,6 +91,12 @@ Completing this module earns:
 Completing this module earns:
 - The "GitHub Pages" [badge](../docs/badges.md).
 
+## Module 15 - Running an Organization
+
+Completing this module earns:
+- The "Running an Organization" [badge](../docs/badges.md).
+- An upgrade for your student Organization to a paid org, on the  ["Team"](https://github.com/pricing) tier.
+
 ## Application
 
 Completing this module earns:

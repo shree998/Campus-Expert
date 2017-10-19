@@ -71,6 +71,8 @@ labels:
     color: D71E3C
   - name: MODULE-14
     color: D71E3C
+  - name: MODULE-15
+    color: D71E3C
   - name: application
     color: D71E3C
   - name: bug

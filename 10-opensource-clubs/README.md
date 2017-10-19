@@ -24,6 +24,10 @@ The content in this module is provided by Kim Noel.
 
 [Kim](https://github.com/kim-codes) is currently a Campus Expert and has interned on the Education team at GitHub.
 
+## Video 📹
+
+Youtube: https://www.youtube.com/watch?v=eLfyXT7tcDE&index=11&list=PLIRjfNq867bdlTQcgcOGATPrVggvfLv1c
+
 ## Introduction 👋
 
 This module is designed for to guide you in creating a local community revolved around open source projects. You will go through steps to creating an official club on campus. From understand the hierarchy of associations on your campus to becoming familiar with creating a proposal and executing it.

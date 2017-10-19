@@ -64,6 +64,7 @@ The currently available training modules are:
 - [Module 12](/12-electron) - Electron
 - [Module 13](/13-atom) - Atom
 - [Module 14](/14-github-pages) - Github Pages
+- [Module 15](/15-running-an-org) - Running an Organization
 - ...
 - [Module n+1](/n+1-application) - Your application!
 
