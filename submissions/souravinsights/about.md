@@ -1,4 +1,4 @@
-# About Me<br>
+> # About Me
 I'm a freelancer but deep down I'm still a student, pursuing my B.tech degree in Computer Science from Gandhi Institute For Technological Advancement.
 ## Words That Describe Me.
  **Inquisitive**, **Resilient**, **Prime-mover**, **Quick-witted**, **Lateral thinker**, **Creative**
@@ -35,7 +35,7 @@ Fork me on [Github](https://github.com/SouravInsights)<br>
 Let's discuss Questions on [Quora](https://www.quora.com/profile/Sourav-Nanda-18)<br>
 If I missed out anywhere, please visit my About.me profile [Here](https://about.me/sourav_nanda)<br>
 Want to know more. Visit my website [Here](https://souravinsights.netlify.com/)<br>
-# Thank You.<br>
+> # Thank You.
 
 
 
