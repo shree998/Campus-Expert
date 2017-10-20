@@ -10,7 +10,7 @@ I'm a freelancer but deep down I'm still a student, pursuing my B.tech degree in
 * Writing Blog both technical and thoughts related
 * Creating new and healthy habits
 * Breaking big objectives into few smaller  part to keep the momentum going
-## Why Comm
+
 ## My Quote
 **Ask** | **Learn** | **Share** | **Repeat**
 ## Technical Skills
