@@ -58,30 +58,29 @@ As I have already mentioned that we've collaborated with Microsoft Dev Community
 - The main goal is to reach out to the unreached. We're planning to organise events in Rural Schools of Odisha. We want to reach as many schools as possible. 
 - We've divided the group in different sectors like: Designing Team, Programming Team, Campus Representatives, Organizing Team etc. 
   Every sector has a lead who guide the team to work effectively to achieve their goals.
-- Women participation in the tech activities is slightly inclined but recently due to **Women Techmakers Group** they are showing more interest.
-  The ratio is still very low but we expect it'll grow in near future. 
+- Women participation in the tech activities is slightly inclined but recently due to **Women Techmakers Group**, they are showing more interest. The ratio is still very low but we expect it'll grow in near future. 
 - Few students are passionate about developing regardless of their major.
 - More frequent talks, events to get everyone involved in tech related activities.
 
 
 ## Location
 - Where does your community currently gather?
-    Campus classrooms, auditoriums for big events.
+    - Campus classrooms, auditoriums for big events.
 - Is it an online-only group so far, or is there a place where people can meet?
-    No, It is not an online-only group so far. People do meet informaly at campus hostels
+    - No, It is not an online-only group so far. People do meet informaly at campus hostels
 - Is there parking, and if so, is it free?
-    For outsiders, parking is not available at the main campus. But there is enough space outside the campus for parking.
+    - For outsiders, parking is not available at the main campus. But there is enough space outside the campus for parking.
 - Is there public transportation available?
-    Yes, participants can reach to our place without any problem. If possible, public transportation can be made available with the 
+    - Yes, participants can reach to our place without any problem. If possible, public transportation can be made available with the 
     permission of college authorities.
 - Is the location accessible to those both on and off campus?
-    Yes, it can be accessible for both.
+    - Yes, it can be accessible for both.
 - How flexible is the space for different types of presentations and meetings?
-    Presentations and meetings can run smoothly at auditorium.
+    - Presentations and meetings can run smoothly at auditorium.
 - How many people can it fit?
-    Seminar hall can fit about 150 people. Main Auditorium can fit about 250+ people.
+    - Seminar hall can fit about 150 people. Main Auditorium can fit about 250+ people.
 - Is there water or snacks available nearby?
-    Yes, Snacks and water are available nearby.
+    - Yes, Snacks and water are available nearby.
 
 
 ## Communication
