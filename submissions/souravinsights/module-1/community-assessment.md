@@ -1,12 +1,11 @@
 ## Introduction 
-I'm a student of Gandhi Institute for Technological Advancement, Bhubaneswar, Odisha, India. In our area, the comminity activities have 
+I'm a student of [Gandhi Institute for Technological Advancement](http://www.gita.edu.in/), Bhubaneswar, Odisha, India. In our area, the comminity activities have 
 been given less priority. Students are limliting their exposure within the academic syllabus. Actually they don't get exposure of the real 
-world of Computer Science. But outside in Bhubaneswar other colleges like `Institute of Technical Education and Research (ITER), 
-KIIT University, CET` the community activies are always given the priority. Students of those universities are always active in events
+world of Computer Science. But outside in Bhubaneswar other colleges like [KIIT University](http://kiit.ac.in/), [CET](https://www.cet.edu.in/) the community activies are always given the priority. Students of those universities are always active in events
 like Hackathons, Workshops and every other tech events. When I was in second year of my academic carieer I got exposed to one of this event
 accidentaly. Then I got so attracted to it that I  never missed any single event those are within my exposure. I then got introduced to 
-two of the active comminity in Odisha i.e, **Google Developer Group Bhubaneswar** and **Microsoft Dev Community Odisha**. I started voluneering
-in these communities. I got so involved to it that I end up creating my own community, **Emisha**. It is an independent community, 
+two of the active comminity in Odisha i.e, [**Google Developer Group Bhubaneswar**](https://www.gdgbbsr.com/) and [**Microsoft Dev Community Odisha**](https://www.facebook.com/MsdcOdisha/). I started voluneering                               
+in these communities. I got so involved to it that I end up creating my own community, [**Emisha**](http://getemisha.com/). It is an independent community, 
 it's not limited to only our college but it is getting it's shadow every where around Bhubaneswar. `The main reason why I started this 
 community is because I belong to a school where computer education was secondary and Rote learning was the primary thing, so I don't
 want my fellow students to face the same.` My community's primary goal is to spread the computer education awareness through out every
@@ -32,11 +31,11 @@ As I have already mentioned that we've collaborated with Microsoft Dev Community
  - Google Developer Group, Bhubaneswar
 
 ## Mentors
-   - **Tadit Dash** (Microsoft MVP, CodeProject MVP, DZone MVB, Moderator, Expert, Sr. Software Engineer at Mindfire Solutions)
-   - **Suvendu Sekhar Giri** (CodeProject MVP| C#Corner Chapter Lead| MSDCian| Speaker| Blogger| Community Leader| Associate Lead @ESSPL)
-   - **Nirmal Hota** (Technical Project Lead at Mindfire Solutions)
-   - **Suraj Sahoo** (Technology Anchor at Invincix Solutions Private Limited)
-   - **Jayant Rajwani** (Software Engineer at Mindfire Solutions)
+   - [**Tadit Dash**](https://www.linkedin.com/in/taditdash/) (Microsoft MVP, CodeProject MVP, DZone MVB, Moderator, Expert, Sr. Software Engineer at Mindfire Solutions)
+   - [**Suvendu Sekhar Giri**](https://www.linkedin.com/in/suvendugiri/) (CodeProject MVP| C#Corner Chapter Lead| MSDCian| Speaker| Blogger| Community Leader| Associate Lead @ESSPL)
+   - [**Nirmal Hota**](https://www.linkedin.com/in/nirmalhota/) (Technical Project Lead at Mindfire Solutions)
+   - [**Suraj Sahoo**](https://www.linkedin.com/in/suraj-sahoo-866b0073/) (Technology Anchor at Invincix Solutions Private Limited)
+   - [**Jayant Rajwani**](https://www.linkedin.com/in/jayantrajwani/) (Software Engineer at Mindfire Solutions)
  
  ## Accessibility
 
@@ -44,7 +43,7 @@ As I have already mentioned that we've collaborated with Microsoft Dev Community
   - During events and workshops in our college we get permission to use the seminar Hall(capacity of about 130 people) or our auditorium 
     (capacity of 250 people).
   - If people from outside our college are attending the workshop we arrange breakfast and launch from our local Markets.
-  - If we plan to organise outside our college we get permission to host our event KIIT TBI which is in the centre of Bhubaneswar and well 
+  - If we plan to organise outside our college we get permission to host our event [**KIIT TBI**](http://www.kiitincubator.in/) which is in the centre of Bhubaneswar and well 
     known place.
  
  ## Interests
@@ -58,7 +57,7 @@ As I have already mentioned that we've collaborated with Microsoft Dev Community
 - The main goal is to reach out to the unreached. We're planning to organise events in Rural Schools of Odisha. We want to reach as many schools as possible. 
 - We've divided the group in different sectors like: Designing Team, Programming Team, Campus Representatives, Organizing Team etc. 
   Every sector has a lead who guide the team to work effectively to achieve their goals.
-- Women participation in the tech activities is slightly inclined but recently due to **Women Techmakers Group**, they are showing more interest. The ratio is still very low but we expect it'll grow in near future. 
+- Women participation in the tech activities is slightly inclined but recently due to [**Women Techmakers Group**](https://www.facebook.com/wtmbbsr/), they are showing more interest. The ratio is still very low but we expect it'll grow in near future. 
 - Few students are passionate about developing regardless of their major.
 - More frequent talks, events to get everyone involved in tech related activities.
 
